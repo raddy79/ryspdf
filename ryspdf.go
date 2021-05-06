@@ -35,6 +35,10 @@ func main() {
 	http.ListenAndServe(":8080", nil)
 }
 
+func generate_password(acctno string) string {
+	return "010180"
+}
+
 func stmt(w http.ResponseWriter, r *http.Request) {
 
 	w.Header().Set("Content-Type", "application/pdf")
@@ -45,12 +49,14 @@ func stmt(w http.ResponseWriter, r *http.Request) {
 		var err error
 
 		conf := open_config("conf.json")
-		final_pdf := make_pdf1(conf, id+"."+yyyymm+".txt", "010180")
+		txt_file := id + "." + yyyymm + ".txt"
+		final_pdf := make_pdf1(conf, txt_file, generate_password(id))
 
 		// Open file
 		f, err := os.Open(final_pdf)
 		if err != nil {
-			fmt.Println(err)
+			// fmt.Println(err + final_pdf)
+			log.Println("Open Failed : " + txt_file)
 			w.WriteHeader(500)
 			return
 		}
@@ -61,7 +67,7 @@ func stmt(w http.ResponseWriter, r *http.Request) {
 
 		//Stream to response
 		if _, err := io.Copy(w, f); err != nil {
-			fmt.Println(err)
+			log.Println(err)
 			w.WriteHeader(500)
 		}
 
@@ -96,27 +102,36 @@ func make_pdf1(conf Configuration, txt_file string, user_password string) string
 	pdf.SetCompressLevel(1)
 	pdf.AddPage()
 
+	// Add font to PDF
 	err = pdf.AddTTFFont("myfont", conf.FontFile)
 	if err != nil {
-		panic(err)
+		log.Println("FontFile not found : " + conf.FontFile)
 	}
 
+	// Add Background image of first page
 	add_image(&pdf, conf)
 
+	// Set Font
 	err = pdf.SetFont("myfont", "", conf.FontSize)
 	if err != nil {
-		panic(err)
+		log.Println("FontSize error : " + strconv.Itoa(conf.FontSize))
 	}
 
+	// Read account statement text file
 	pdfcontent := scan_file(conf.PathToText + "/" + txt_file)
 
+	if pdfcontent == nil {
+		return ""
+	}
+
+	// Print Header defined in Config File
 	for _, each_header := range conf.Header {
 		pdf.Cell(nil, each_header)
 		pdf.Br(float64(conf.FontSize))
 	}
 
+	// Print Txt each line
 	for _, eachline = range pdfcontent {
-
 		if strings.Contains(eachline, "\f") {
 			pdf.AddPage()
 			add_image(&pdf, conf)
@@ -124,17 +139,22 @@ func make_pdf1(conf Configuration, txt_file string, user_password string) string
 			pdf.Cell(nil, string(eachline))
 			pdf.Br(9)
 		}
-
 	}
 
+	// Print Footer defined in config file
 	for _, each_footer := range conf.Footer {
 		pdf.Cell(nil, each_footer)
 		pdf.Br(float64(conf.FontSize))
 	}
 
+	// Determine PDF file name from TXT name
 	file_name := strings.Split(txt_file, ".")
 	final_file := file_name[0] + "." + file_name[1] + ".pdf"
+
+	//Write PDF to physical file
 	pdf.WritePdf(final_file)
+
+	// Return the file name of PDF for HTTP Response blob write
 	return final_file
 }
 
@@ -143,7 +163,10 @@ func add_image(pdf *gopdf.GoPdf, conf Configuration) {
 	if conf.BgImage[0] != "" {
 		if xx, err := strconv.ParseFloat(conf.BgImage[1], 64); err == nil {
 			if yy, err := strconv.ParseFloat(conf.BgImage[2], 64); err == nil {
-				pdf.Image(conf.BgImage[0], xx, yy, nil)
+				err = pdf.Image(conf.BgImage[0], xx, yy, nil)
+				if err != nil {
+					log.Println("BgImage error : " + conf.BgImage[0])
+				}
 			}
 		}
 	}
@@ -204,7 +227,8 @@ func scan_file(path string) []string {
 	file, err := os.Open(path)
 
 	if err != nil {
-		log.Fatalf("failed to open")
+		// log.Fatalf("failed to open")
+		return nil
 	}
 
 	scanner := bufio.NewScanner(file)
