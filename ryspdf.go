@@ -108,7 +108,7 @@ func make_pdf1(conf Configuration, txt_file string, user_password string) string
 		panic(err)
 	}
 
-	pdfcontent := scanFile(conf.PathToText + "/" + txt_file)
+	pdfcontent := scan_file(conf.PathToText + "/" + txt_file)
 
 	for _, each_header := range conf.Header {
 		pdf.Cell(nil, each_header)
@@ -173,7 +173,7 @@ func make_pdf2(conf Configuration, txt_file string, user_password string) {
 
 	pdf.SetFont("SourceCode Pro", "", 7)
 
-	pdfcontent := scanFile(conf.PathToText + "/" + txt_file)
+	pdfcontent := scan_file(conf.PathToText + "/" + txt_file)
 
 	for _, each_header := range conf.Header {
 		pdf.Cell(10, 10, each_header)
@@ -200,7 +200,7 @@ func make_pdf2(conf Configuration, txt_file string, user_password string) {
 	pdf.OutputFileAndClose(file_name[0] + "." + file_name[1] + ".pdf")
 }
 
-func scanFile(path string) []string {
+func scan_file(path string) []string {
 	file, err := os.Open(path)
 
 	if err != nil {
