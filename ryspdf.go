@@ -57,7 +57,7 @@ func stmt(w http.ResponseWriter, r *http.Request) {
 		if err != nil {
 			// fmt.Println(err + final_pdf)
 			log.Println("Open Failed : " + txt_file)
-			w.WriteHeader(500)
+			w.WriteHeader(400)
 			return
 		}
 		defer f.Close()
@@ -70,6 +70,7 @@ func stmt(w http.ResponseWriter, r *http.Request) {
 			log.Println(err)
 			w.WriteHeader(500)
 		}
+		w.WriteHeader(200)
 
 	}
 	http.Error(w, "", http.StatusBadRequest)
