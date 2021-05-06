@@ -1,0 +1,158 @@
+
+
+                                                                      
+                                                                      
+                   KUSWARDANI ABUBAKAR                                                        1000193147                     HAL : 001
+                                                                                              FEBRUARI 2020
+                                                                      
+                                                                                              Rupiah
+                                                                                              GIRO IDR
+                                                                      
+                                                                      
+                                                                      
+                                                                      
+                                  Saldo Awal                                                                        100,049,000,153.56
+         19-02  FT20050Q5F9J\BNK  QRIS Transaction                        5,000.00                   0.00   K       100,048,995,153.56
+         19-02  FT20050YSTH4\BNK  QRIS Transaction                       10,000.00                   0.00   K       100,048,985,153.56
+         19-02  FT200507S7NH\BNK  QRIS Transaction                       50,000.00                   0.00   K       100,048,935,153.56
+         19-02  FT200508WP9R\BNK  QRIS Transaction                        5,000.00                   0.00   K       100,048,930,153.56
+         19-02  FT200509RTF2\BNK  QRIS Transaction                        2,000.00                   0.00   K       100,048,928,153.56
+         19-02  FT20050SSVCK\BNK  QRIS Transaction                        3,000.00                   0.00   K       100,048,925,153.56
+         19-02  FT20050HKF4P\BNK  QRIS Transaction                       34,000.00                   0.00   K       100,048,891,153.56
+         19-02  FT20050DBPGJ\BNK  QRIS Transaction                       33,000.00                   0.00   K       100,048,858,153.56
+         20-02  FT200518HSP7\BNK  QRIS Transaction                       20,000.00                   0.00   K       100,048,838,153.56
+         20-02  FT200515T0DX\BNK  QRIS Transaction                            0.00              20,000.00   K       100,048,858,153.56
+         20-02  FT20051NHNBY\BNK  QRIS Transaction                       30,000.00                   0.00   K       100,048,828,153.56
+         20-02  FT20051GGKJ1\BNK  QRIS Transaction                            0.00              30,000.00   K       100,048,858,153.56
+         20-02  FT20051W1R6Z\BNK  QRIS Transaction                       40,000.00                   0.00   K       100,048,818,153.56
+         20-02  FT200519GLN5\BNK  QRIS Transaction                            0.00              40,000.00   K       100,048,858,153.56
+         20-02  FT200516CBR7\BNK  QRIS Transaction                       50,000.00                   0.00   K       100,048,808,153.56
+         20-02  FT20051J73S7\BNK  QRIS Transaction                            0.00              50,000.00   K       100,048,858,153.56
+         20-02  FT20051R39HX\BNK  QRIS Transaction                       10,000.00                   0.00   K       100,048,848,153.56
+         20-02  FT2005155BCL\BNK  QRIS Transaction                            0.00              10,000.00   K       100,048,858,153.56
+         20-02  FT20051HVJ94\BNK  QRIS Transaction                       35,000.00                   0.00   K       100,048,823,153.56
+         20-02  FT20051JB8GG\BNK  ATM Pindah Buku                         2,000.00                   0.00   K       100,048,821,153.56
+         20-02  FT20051SDGBX\BNK  ATM Pindah Buku                        50,050.00                   0.00   K       100,048,771,103.56
+         20-02  FT20051HRTF3\BNK  ATM Pindah Buku                       100,000.00                   0.00   K       100,048,671,103.56
+         20-02  FT20051CVHJ3\BNK  ATM Pindah Buku                        50,000.00                   0.00   K       100,048,621,103.56
+         20-02  FT2005101PJV\BNK  ATM Pindah Buku                        50,000.00                   0.00   K       100,048,571,103.56
+         28-02  FT20059N0BCX\BNK  BIAYA ADMIN atau TRANSFER               2,500.00                   0.00   K       100,048,568,603.56
+
+
+
+
+
+
+
+
+
+                        Sehubungan dengan adanya pergantian Core Banking System, transaksi tanggal 1-9 Maret tidak akan tampil pada rekening koran ini
+                        tapi dicetak pada lembaran rekening koran terpisah. Hubungi Customer Service untuk informasi lebih lanjut.
+                                                                                                                                                          02/12
+*
+ 
+
+
+
+
+                   KUSWARDANI ABUBAKAR                                                                                 1000193147                     HAL : 002
+                                                                                                                       FEBRUARI 2020
+
+                                                                                                                       Rupiah
+                                                                                                                       GIRO IDR
+
+
+
+
+
+         28-02  FT20059N0BCX\BNK  Tarik Tunai - Transfer                                      12,344.00                   0.00   K       100,048,556,259.56
+         28-02  FT2005953VDT\BNK  BIAYA ADMIN atau TRANSFER                                    6,500.00                   0.00   K       100,048,549,759.56
+         28-02  FT2005953VDT\BNK  Tarik Tunai - Transfer                                      12,345.00                   0.00   K       100,048,537,414.56
+         28-02  FT20059SFS1G\BNK  BIAYA ADMIN atau TRANSFER                                    6,500.00                   0.00   K       100,048,530,914.56
+         28-02  FT20059SFS1G\BNK  Tarik Tunai - Transfer                                      12,345.00                   0.00   K       100,048,518,569.56
+         28-02  FT20059SPXBB\BNK  BIAYA ADMIN atau TRANSFER                                    6,500.00                   0.00   K       100,048,512,069.56
+         28-02  FT20059SPXBB\BNK  Tarik Tunai - Transfer                                      12,345.00                   0.00   K       100,048,499,724.56
+         28-02  FT20059ZQYMY\BNK  BIAYA ADMIN atau TRANSFER                                    6,500.00                   0.00   K       100,048,493,224.56
+         28-02  FT20059ZQYMY\BNK  Tarik Tunai - Transfer                                      12,345.00                   0.00   K       100,048,480,879.56
+         28-02  FT20059T6NCJ\BNK  BIAYA ADMIN atau TRANSFER                                    6,500.00                   0.00   K       100,048,474,379.56
+         28-02  FT20059T6NCJ\BNK  Tarik Tunai - Transfer                                      12,345.00                   0.00   K       100,048,462,034.56
+         28-02  FT20059BMSH9\BNK  BIAYA ADMIN atau TRANSFER                                    6,500.00                   0.00   K       100,048,455,534.56
+         28-02  FT20059BMSH9\BNK  Tarik Tunai - Transfer                                      12,345.00                   0.00   K       100,048,443,189.56
+         28-02  FT200593BNRB\BNK  BIAYA ADMIN atau TRANSFER                                    6,500.00                   0.00   K       100,048,436,689.56
+         28-02  FT200593BNRB\BNK  Tarik Tunai - Transfer                                      12,345.00                   0.00   K       100,048,424,344.56
+         28-02  FT20059599KG\BNK  FEE TXN                                                      5,000.00                   0.00   K       100,048,419,344.56
+         28-02  FT20059599KG\BNK  Transfer                                                    14,100.00                   0.00   K       100,048,405,244.56
+         28-02  FT20059H77BP\BNK  FEE TXN                                                      5,000.00                   0.00   K       100,048,400,244.56
+         28-02  FT20059H77BP\BNK  Transfer                                                    14,100.00                   0.00   K       100,048,386,144.56
+         28-02  FT20059GXQSP\BNK  FEE TXN                                                      5,000.00                   0.00   K       100,048,381,144.56
+         28-02  FT20059GXQSP\BNK  Transfer                                                    14,100.00                   0.00   K       100,048,367,044.56
+         28-02  FT200591PLV6\BNK  FEE TXN                                                      5,000.00                   0.00   K       100,048,362,044.56
+         28-02  FT200591PLV6\BNK  Transfer                                                    14,200.00                   0.00   K       100,048,347,844.56
+         28-02  FT200597K34D\BNK  FEE TXN                                                      5,000.00                   0.00   K       100,048,342,844.56
+         28-02  FT200597K34D\BNK  Transfer                                                    14,000.00                   0.00   K       100,048,328,844.56
+
+
+
+
+
+
+
+
+
+                        Sehubungan dengan adanya pergantian Core Banking System, transaksi tanggal 1-9 Maret tidak akan tampil pada rekening koran ini
+                        tapi dicetak pada lembaran rekening koran terpisah. Hubungi Customer Service untuk informasi lebih lanjut.
+                                                                                                                                                          02/12
+*
+ 
+
+
+
+
+                   KUSWARDANI ABUBAKAR                                                                                 1000193147                     HAL : 003
+                                                                                                                       FEBRUARI 2020
+
+                                                                                                                       Rupiah
+                                                                                                                       GIRO IDR
+
+
+
+
+
+         28-02  FT20059WJCSM\BNK  FEE TXN                                                      5,000.00                   0.00   K       100,048,323,844.56
+         28-02  FT20059WJCSM\BNK  Transfer                                                    14,100.00                   0.00   K       100,048,309,744.56
+         28-02  FT200590Y3H4\BNK  FEE TXN                                                      5,000.00                   0.00   K       100,048,304,744.56
+         28-02  FT200590Y3H4\BNK  Transfer                                                    14,300.00                   0.00   K       100,048,290,444.56
+         28-02  FT20059ZR195\BNK  FEE TXN                                                      5,000.00                   0.00   K       100,048,285,444.56
+         28-02  FT20059ZR195\BNK  Transfer                                                    14,200.00                   0.00   K       100,048,271,244.56
+         28-02  FT20059JTS5K\BNK  FEE TXN                                                      5,000.00                   0.00   K       100,048,266,244.56
+         28-02  FT20059JTS5K\BNK  Transfer                                                    14,200.00                   0.00   K       100,048,252,044.56
+         28-02  FT2005908GMV\BNK  BIAYA ADMIN atau TRANSFER                                    2,500.00                   0.00   K       100,048,249,544.56
+         28-02  FT2005908GMV\BNK  Pembayaran                                                  17,500.00                   0.00   K       100,048,232,044.56
+         28-02  1000193147.ADMGIR Monthly Admin Fee                                           50,000.00                   0.00   K       100,048,182,044.56
+         28-02  1000193147.ADMAUT Auto Save Admin t Fee                                      150,000.00                   0.00   K       100,048,032,044.56
+         28-02  1000193147-202002 Credit Interest                                                  0.00          79,273,658.31   K       100,127,305,702.87
+         28-02  1000193147-202002 Tax Amount Due                                          15,854,731.66                   0.00   K       100,111,450,971.21
+
+                                  Saldo Akhir                                                                                            100,111,450,971.21
+
+                                  Frekwensi Transaksi Debet :                                       58
+                                  Frekwensi Transaksi Kredit :                                       6
+                                  Total Mutasi Debit :                                      16,972,840.66
+                                  Total Mutasi Kredit :                                     79,423,658.31
+                                  Saldo Terendah :                                     100,048,032,044.56
+                                  Saldo Tertinggi :                                    100,127,305,702.87
+
+
+
+
+
+
+
+
+
+
+
+                        Sehubungan dengan adanya pergantian Core Banking System, transaksi tanggal 1-9 Maret tidak akan tampil pada rekening koran ini
+                        tapi dicetak pada lembaran rekening koran terpisah. Hubungi Customer Service untuk informasi lebih lanjut.
+                                                                                                                                                          02/12
+*
