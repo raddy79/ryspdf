@@ -35,7 +35,7 @@ func main() {
 	http.ListenAndServe(":8080", nil)
 }
 
-func generate_password(acctno string) string {
+func generate_password(conf Configuration, acctno string) string {
 	return "010180"
 }
 
@@ -50,7 +50,7 @@ func stmt(w http.ResponseWriter, r *http.Request) {
 
 		conf := open_config("conf.json")
 		txt_file := id + "." + yyyymm + ".txt"
-		final_pdf := make_pdf1(conf, txt_file, generate_password(id))
+		final_pdf := make_pdf1(conf, txt_file, generate_password(conf, id))
 
 		// Open file
 		f, err := os.Open(final_pdf)
