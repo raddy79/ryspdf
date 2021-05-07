@@ -1,12 +1,12 @@
 {
     "PathToText"  : "/home/raddy/project/armand/ryspdf",
     "PathToPDF"   : "/home/raddy/project/armand/ryspdf",
-    "FontFile"    : "/home/raddy/project/armand/ttf/SourceCodePro-Regular.ttf",
+    "FontFile"    : "/home/raddy/project/armand/ryspdf/ttf/SourceCodePro-Regular.ttf",
     "FontSize"    : 7,
     "PaperSize"   : "A4",
     "NewPageInd " : "",
     "Header"      : ["", ""],
     "Footer"      : ["", ""],
-    "BgImage"     : ["/home/raddy/project/armand/imgs/bank.jpg", "40", "40"],
+    "BgImage"     : ["/home/raddy/project/armand/ryspdf/imgs/bank.jpg", "40", "40"],
     "Password"    : "DDMMYY"
 }
