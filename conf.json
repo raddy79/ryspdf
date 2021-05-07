@@ -1,5 +1,5 @@
 {
-    "PathToText"  : "/home/raddy/project/armand/ryspdf",
+    "PathToText"  : "/home/raddy/project/armand/ryspdf/ACCSTMT/{yyyymm}/{branch}/INITIAL",
     "PathToPDF"   : "/home/raddy/project/armand/ryspdf",
     "FontFile"    : "/home/raddy/project/armand/ttf/SourceCodePro-Regular.ttf",
     "FontSize"    : 7,
