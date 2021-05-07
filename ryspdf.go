@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"encoding/json"
+	"flag"
 	"fmt"
 	"io"
 	"io/ioutil"
@@ -29,10 +30,13 @@ type Configuration struct {
 }
 
 func main() {
+	var port = flag.String("port", "8080", "Port of the Rest API Server")
+	flag.Parse()
+
 	http.HandleFunc("/stmt", stmt)
 
-	fmt.Println("Starting restful server at http://localhost:8080/")
-	http.ListenAndServe(":8080", nil)
+	fmt.Println("Starting RESTful server at http://localhost:" + *port)
+	http.ListenAndServe(":"+*port, nil)
 }
 
 func generate_password(conf Configuration, acctno string) string {
@@ -96,7 +100,7 @@ func make_pdf1(conf Configuration, txt_file string, user_password string) string
 		Protection: gopdf.PDFProtectionConfig{
 			UseProtection: true,
 			Permissions:   gopdf.PermissionsPrint | gopdf.PermissionsCopy | gopdf.PermissionsModify,
-			OwnerPass:     []byte("CCBI123"),
+			OwnerPass:     []byte("fds123"),
 			UserPass:      []byte(user_password)},
 	})
 	// Compression
