@@ -30,13 +30,18 @@ type Configuration struct {
 }
 
 func main() {
-	var port = flag.String("port", "8080", "Port of the Rest API Server")
+	var err error
+	var port = flag.String("port", "12839", "Port of the Rest API Server")
 	flag.Parse()
 
 	http.HandleFunc("/stmt", stmt)
 
 	fmt.Println("Starting RESTful server at http://localhost:" + *port)
-	http.ListenAndServe(":"+*port, nil)
+	err = http.ListenAndServe(":"+*port, nil)
+
+	if err != nil {
+		log.Fatalln("Cannot run server on " + *port)
+	}
 }
 
 func generate_password(conf Configuration, acctno string) string {
