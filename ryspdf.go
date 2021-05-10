@@ -41,6 +41,7 @@ func main() {
 
 	// router & server
 	mux := mux.NewRouter()
+	mux.HandleFunc("/stmt/{id}/{ym}/{p}", stmt)
 	mux.HandleFunc("/stmt/{id}/{ym}/{p}/{f}", stmt)
 
 	srv := &http.Server{
@@ -83,7 +84,7 @@ func stmt(w http.ResponseWriter, r *http.Request) {
 		f, err := os.Open(final_pdf)
 		if err != nil {
 			log.Println("Open Failed : " + txt_file)
-			w.WriteHeader(http.StatusNotFound)
+			w.WriteHeader(http.StatusBadRequest)
 			return
 		}
 		defer f.Close()
@@ -107,14 +108,17 @@ func cache_manager(txt_file string, account_no string, pdf_password string, forc
 
 	// if no, we need to make the PDF
 	if _, err := os.Stat(cache_pdf); os.IsNotExist(err) {
+		log.Printf("Generate PDF %v", cache_pdf)
 		final_pdf = make_pdf(txt_file, pdf_password)
 	}
 	// if yes, then just return the full PDF file path
 	if _, err := os.Stat(cache_pdf); !os.IsNotExist(err) {
+		log.Printf("Cache PDF %v", cache_pdf)
 		final_pdf = cache_pdf
 	}
 
 	if force_nocache == "nocache" {
+		log.Printf("NoCache flag detected, regenerate : %v", cache_pdf)
 		final_pdf = make_pdf(txt_file, pdf_password)
 	}
 	return final_pdf
