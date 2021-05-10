@@ -41,7 +41,7 @@ func main() {
 
 	// router & server
 	mux := mux.NewRouter()
-	mux.HandleFunc("/stmt/{id}/{ym}", stmt)
+	mux.HandleFunc("/stmt/{id}/{ym}/{p}/{f}", stmt)
 
 	srv := &http.Server{
 		Addr:         ":" + *port,
@@ -63,10 +63,6 @@ func main() {
 	}
 }
 
-func generate_password(acctno string) string {
-	return "010180"
-}
-
 func stmt(w http.ResponseWriter, r *http.Request) {
 
 	w.Header().Set("Content-Type", "application/pdf")
@@ -77,9 +73,11 @@ func stmt(w http.ResponseWriter, r *http.Request) {
 		vars := mux.Vars(r)
 		account_no := vars["id"]
 		yyyymm := vars["ym"]
+		pdf_password := vars["p"]
+		force_nocache := vars["f"]
 
 		txt_file := account_no + "." + yyyymm + ".txt"
-		final_pdf := cache_manager(txt_file, account_no)
+		final_pdf := cache_manager(txt_file, account_no, pdf_password, force_nocache)
 
 		// Open file
 		f, err := os.Open(final_pdf)
@@ -102,18 +100,22 @@ func stmt(w http.ResponseWriter, r *http.Request) {
 	}
 }
 
-func cache_manager(txt_file string, account_no string) string {
+func cache_manager(txt_file string, account_no string, pdf_password string, force_nocache string) string {
 	// Check if file is generated already from previous requests
 	var final_pdf string
 	cache_pdf := config.PathToPdf + "/" + generate_pdf_name(txt_file)
 
 	// if no, we need to make the PDF
 	if _, err := os.Stat(cache_pdf); os.IsNotExist(err) {
-		final_pdf = make_pdf(txt_file, generate_password(account_no))
+		final_pdf = make_pdf(txt_file, pdf_password)
 	}
 	// if yes, then just return the full PDF file path
 	if _, err := os.Stat(cache_pdf); !os.IsNotExist(err) {
 		final_pdf = cache_pdf
+	}
+
+	if force_nocache == "nocache" {
+		final_pdf = make_pdf(txt_file, pdf_password)
 	}
 	return final_pdf
 }
@@ -134,7 +136,7 @@ func open_config(config_file string) Configuration {
 	return configuration
 }
 
-func make_pdf(txt_file string, user_password string) string {
+func make_pdf(txt_file string, pdf_password string) string {
 	var err error
 	var eachline string
 
@@ -147,7 +149,7 @@ func make_pdf(txt_file string, user_password string) string {
 			UseProtection: true,
 			Permissions:   gopdf.PermissionsPrint | gopdf.PermissionsCopy | gopdf.PermissionsModify,
 			OwnerPass:     []byte("fds123"),
-			UserPass:      []byte(user_password)},
+			UserPass:      []byte(pdf_password)},
 	})
 	// Compression
 	pdf.SetCompressLevel(1)
