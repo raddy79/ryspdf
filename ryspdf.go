@@ -70,8 +70,8 @@ func stmt(w http.ResponseWriter, r *http.Request) {
 
 	if r.Method == "GET" {
 		var err error
-
 		vars := mux.Vars(r)
+
 		account_no := vars["id"]
 		yyyymm := vars["ym"]
 		pdf_password := vars["p"]
@@ -83,7 +83,7 @@ func stmt(w http.ResponseWriter, r *http.Request) {
 		// Open file
 		f, err := os.Open(final_pdf)
 		if err != nil {
-			log.Println("Open Failed : " + txt_file)
+			log.Println("Open Failed : " + final_pdf)
 			w.WriteHeader(http.StatusBadRequest)
 			return
 		}
@@ -108,8 +108,12 @@ func cache_manager(txt_file string, account_no string, pdf_password string, forc
 
 	// if no, we need to make the PDF
 	if _, err := os.Stat(cache_pdf); os.IsNotExist(err) {
-		log.Printf("Generate PDF %v", cache_pdf)
-		final_pdf = make_pdf(txt_file, pdf_password)
+		log.Printf("Generate PDF %s", cache_pdf)
+		final_pdf, err = make_pdf(txt_file, pdf_password)
+
+		if err != nil {
+			log.Printf("Make PDF error : %v", err)
+		}
 	}
 	// if yes, then just return the full PDF file path
 	if _, err := os.Stat(cache_pdf); !os.IsNotExist(err) {
@@ -117,30 +121,39 @@ func cache_manager(txt_file string, account_no string, pdf_password string, forc
 		final_pdf = cache_pdf
 	}
 
+	// or, when the user specifies "nocache" it will force system to regenerate PDF
 	if force_nocache == "nocache" {
-		log.Printf("NoCache flag detected, regenerate : %v", cache_pdf)
-		final_pdf = make_pdf(txt_file, pdf_password)
+		log.Printf("Nocache flag detected, regenerating %v", cache_pdf)
+		var err error
+		final_pdf, err = make_pdf(txt_file, pdf_password)
+		if err != nil {
+			log.Printf("Force Make PDF error : %v", err)
+		}
 	}
 	return final_pdf
 }
 
 func generate_pdf_name(txt_file string) string {
 	// Determine PDF file name from TXT name
-	file_name := strings.Split(txt_file, ".")
-	final_file := file_name[0] + "." + file_name[1] + ".pdf"
-	return final_file
+	txt_name := strings.Split(txt_file, ".")
+	pdf_name := txt_name[0] + "." + txt_name[1] + ".pdf"
+	return pdf_name
 }
 
 func open_config(config_file string) Configuration {
+	var err error
 	// read json config file and return as struct Configuration
-	file, _ := ioutil.ReadFile(config_file)
+	file, err := ioutil.ReadFile(config_file)
+	if err != nil {
+		log.Fatalf("conf.json must be in the same directory")
+	}
 	configuration := Configuration{}
 	json.Unmarshal([]byte(file), &configuration)
 
 	return configuration
 }
 
-func make_pdf(txt_file string, pdf_password string) string {
+func make_pdf(txt_file string, pdf_password string) (string, error) {
 	var err error
 	var eachline string
 
@@ -175,10 +188,11 @@ func make_pdf(txt_file string, pdf_password string) string {
 	}
 
 	// Read account statement text file
-	pdfcontent := scan_file(config.PathToText + "/" + txt_file)
+	pdfcontent, err := scan_file(config.PathToText + "/" + txt_file)
 
-	if pdfcontent == nil {
-		return ""
+	if err != nil {
+		log.Printf("Text file read error %s %v", config.PathToText+"/"+txt_file, err)
+		return "", err
 	}
 
 	// Print Header defined in Config File
@@ -210,7 +224,7 @@ func make_pdf(txt_file string, pdf_password string) string {
 	pdf.WritePdf(final_file)
 
 	// Return the file name of PDF for HTTP Response blob write
-	return final_file
+	return final_file, err
 }
 
 func add_image(pdf *gopdf.GoPdf) {
@@ -227,12 +241,12 @@ func add_image(pdf *gopdf.GoPdf) {
 	}
 }
 
-func scan_file(path string) []string {
+func scan_file(path string) ([]string, error) {
 	file, err := os.Open(path)
 
 	if err != nil {
 		log.Fatalf("Failed to open file " + path)
-		return nil
+		return nil, err
 	}
 
 	scanner := bufio.NewScanner(file)
@@ -244,5 +258,5 @@ func scan_file(path string) []string {
 	}
 
 	defer file.Close()
-	return text
+	return text, err
 }
