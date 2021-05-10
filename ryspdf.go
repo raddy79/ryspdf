@@ -11,7 +11,9 @@ import (
 	"os"
 	"strconv"
 	"strings"
+	"time"
 
+	"github.com/gorilla/mux"
 	"github.com/signintech/gopdf"
 )
 
@@ -29,17 +31,25 @@ type Configuration struct {
 
 func main() {
 	var err error
-	var port = flag.String("port", "12839", "Port of the Rest API Server")
+	var port = flag.String("port", "12312", "Port of the Rest API Server")
 	flag.Parse()
 
-	mux := http.NewServeMux()
-	mux.HandleFunc("/stmt", stmt)
+	mux := mux.NewRouter()
+	mux.HandleFunc("/stmt/{id}/{ym}", stmt)
 
 	log.Println("Starting RESTful server at http://localhost:" + *port)
 
-	err = http.ListenAndServe(":"+*port, mux)
+	srv := &http.Server{
+		Addr:         ":" + *port,
+		ReadTimeout:  5 * time.Second,
+		WriteTimeout: 10 * time.Second,
+		IdleTimeout:  120 * time.Second,
+		Handler:      mux,
+	}
+
+	err = srv.ListenAndServe()
 	if err != nil {
-		log.Fatalln("Cannot bind port, maybe in use. " + *port)
+		log.Fatalf("Server failed to start %v", err)
 	}
 }
 
@@ -52,20 +62,31 @@ func stmt(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/pdf")
 
 	if r.Method == "GET" {
-		var id = r.FormValue("id")
-		yyyymm := r.FormValue("ym")
+		vars := mux.Vars(r)
+		id := vars["id"]
+		yyyymm := vars["ym"]
 		var err error
 
 		conf := open_config("conf.json")
 		txt_file := id + "." + yyyymm + ".txt"
-		final_pdf := make_pdf1(conf, txt_file, generate_password(conf, id))
+
+		var final_pdf string
+		cache_pdf := conf.PathToPdf + "/" + generate_pdf_name(conf, txt_file)
+
+		if _, err := os.Stat(cache_pdf); os.IsNotExist(err) {
+			final_pdf = make_pdf1(conf, txt_file, generate_password(conf, id))
+		}
+
+		if _, err := os.Stat(cache_pdf); !os.IsNotExist(err) {
+			final_pdf = cache_pdf
+		}
 
 		// Open file
 		f, err := os.Open(final_pdf)
 		if err != nil {
 			// fmt.Println(err + final_pdf)
 			log.Println("Open Failed : " + txt_file)
-			w.WriteHeader(400)
+			w.WriteHeader(http.StatusNotFound)
 			return
 		}
 		defer f.Close()
@@ -78,10 +99,16 @@ func stmt(w http.ResponseWriter, r *http.Request) {
 			log.Println(err)
 			w.WriteHeader(500)
 		}
-		w.WriteHeader(200)
 
 	}
-	http.Error(w, "", http.StatusBadRequest)
+	//http.Error(w, "", http.StatusBadRequest)
+}
+
+func generate_pdf_name(conf Configuration, txt_file string) string {
+	// Determine PDF file name from TXT name
+	file_name := strings.Split(txt_file, ".")
+	final_file := file_name[0] + "." + file_name[1] + ".pdf"
+	return final_file
 }
 
 func open_config(config_file string) Configuration {
@@ -156,9 +183,7 @@ func make_pdf1(conf Configuration, txt_file string, user_password string) string
 		pdf.Br(float64(conf.FontSize))
 	}
 
-	// Determine PDF file name from TXT name
-	file_name := strings.Split(txt_file, ".")
-	final_file := file_name[0] + "." + file_name[1] + ".pdf"
+	final_file := generate_pdf_name(conf, txt_file)
 
 	//Write PDF to physical file
 	pdf.WritePdf(final_file)
