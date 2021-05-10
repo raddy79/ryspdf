@@ -4,7 +4,6 @@ import (
 	"bufio"
 	"encoding/json"
 	"flag"
-	"fmt"
 	"io"
 	"io/ioutil"
 	"log"
@@ -13,7 +12,6 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/jung-kurt/gofpdf"
 	"github.com/signintech/gopdf"
 )
 
@@ -34,13 +32,14 @@ func main() {
 	var port = flag.String("port", "12839", "Port of the Rest API Server")
 	flag.Parse()
 
-	http.HandleFunc("/stmt", stmt)
+	mux := http.NewServeMux()
+	mux.HandleFunc("/stmt", stmt)
 
-	fmt.Println("Starting RESTful server at http://localhost:" + *port)
-	err = http.ListenAndServe(":"+*port, nil)
+	log.Println("Starting RESTful server at http://localhost:" + *port)
 
+	err = http.ListenAndServe(":"+*port, mux)
 	if err != nil {
-		log.Fatalln("Cannot run server on " + *port)
+		log.Fatalln("Cannot bind port, maybe in use. " + *port)
 	}
 }
 
@@ -182,7 +181,7 @@ func add_image(pdf *gopdf.GoPdf, conf Configuration) {
 	}
 }
 
-func make_pdf2(conf Configuration, txt_file string, user_password string) {
+/*func make_pdf2(conf Configuration, txt_file string, user_password string) {
 	var eachline string
 
 	pdf := gofpdf.New("P", "mm", "A4", "")
@@ -231,7 +230,7 @@ func make_pdf2(conf Configuration, txt_file string, user_password string) {
 
 	file_name := strings.Split(txt_file, ".")
 	pdf.OutputFileAndClose(file_name[0] + "." + file_name[1] + ".pdf")
-}
+}*/
 
 func scan_file(path string) []string {
 	file, err := os.Open(path)
