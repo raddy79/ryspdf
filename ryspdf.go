@@ -37,7 +37,7 @@ func main() {
 	mux := mux.NewRouter()
 	mux.HandleFunc("/stmt/{id}/{ym}", stmt)
 
-	log.Println("Starting RESTful server at http://localhost:" + *port)
+	log.Println("Starting Restful server at http://localhost:" + *port)
 
 	srv := &http.Server{
 		Addr:         ":" + *port,
@@ -62,29 +62,19 @@ func stmt(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/pdf")
 
 	if r.Method == "GET" {
-		vars := mux.Vars(r)
-		id := vars["id"]
-		yyyymm := vars["ym"]
 		var err error
 
+		vars := mux.Vars(r)
+		account_no := vars["id"]
+		yyyymm := vars["ym"]
+
 		conf := open_config("conf.json")
-		txt_file := id + "." + yyyymm + ".txt"
-
-		var final_pdf string
-		cache_pdf := conf.PathToPdf + "/" + generate_pdf_name(conf, txt_file)
-
-		if _, err := os.Stat(cache_pdf); os.IsNotExist(err) {
-			final_pdf = make_pdf1(conf, txt_file, generate_password(conf, id))
-		}
-
-		if _, err := os.Stat(cache_pdf); !os.IsNotExist(err) {
-			final_pdf = cache_pdf
-		}
+		txt_file := account_no + "." + yyyymm + ".txt"
+		final_pdf := cache_manager(conf, txt_file, account_no)
 
 		// Open file
 		f, err := os.Open(final_pdf)
 		if err != nil {
-			// fmt.Println(err + final_pdf)
 			log.Println("Open Failed : " + txt_file)
 			w.WriteHeader(http.StatusNotFound)
 			return
@@ -101,7 +91,22 @@ func stmt(w http.ResponseWriter, r *http.Request) {
 		}
 
 	}
-	//http.Error(w, "", http.StatusBadRequest)
+}
+
+func cache_manager(conf Configuration, txt_file string, account_no string) string {
+	// Check if file is generated already from previous requests
+	var final_pdf string
+	cache_pdf := conf.PathToPdf + "/" + generate_pdf_name(conf, txt_file)
+
+	// if no, we need to make the PDF
+	if _, err := os.Stat(cache_pdf); os.IsNotExist(err) {
+		final_pdf = make_pdf(conf, txt_file, generate_password(conf, account_no))
+	}
+	// if yes, then just return the full PDF file path
+	if _, err := os.Stat(cache_pdf); !os.IsNotExist(err) {
+		final_pdf = cache_pdf
+	}
+	return final_pdf
 }
 
 func generate_pdf_name(conf Configuration, txt_file string) string {
@@ -119,7 +124,7 @@ func open_config(config_file string) Configuration {
 	return configuration
 }
 
-func make_pdf1(conf Configuration, txt_file string, user_password string) string {
+func make_pdf(conf Configuration, txt_file string, user_password string) string {
 	var err error
 	var eachline string
 
