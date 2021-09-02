@@ -1,12 +1,13 @@
 {
-    "PathToText"  : "/home/raddy/project/armand/ryspdf",
-    "PathToPDF"   : "/home/raddy/project/armand/ryspdf",
-    "FontFile"    : "/home/raddy/project/armand/ryspdf/ttf/SourceCodePro-Regular.ttf",
-    "FontSize"    : 7,
-    "PaperSize"   : "A4",
-    "NewPageInd " : "",
-    "Header"      : ["", ""],
-    "Footer"      : ["", ""],
-    "BgImage"     : ["/home/raddy/project/armand/ryspdf/imgs/bank.jpg", "40", "40"],
-    "Password"    : "DDMMYY"
+    "PathToText"            : "txt",
+    "PathToPDF"             : "pdf",
+    "FontFile"              : "ttf/SourceCodePro-Regular.ttf",
+    "FontSize"              : 7,
+    "PaperSize"             : "A4",
+    "NewPageInd "           : "",
+    "Header"                : ["", ""],
+    "Footer"                : ["", ""],
+    "BgImage"               : ["imgs/Kalsel_eStatement_header.png", "0", "0"],
+    "TextVerticalOffset"    : 50.0,
+    "TextHorizontalOffset"  : 30.0
 }
