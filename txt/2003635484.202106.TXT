@@ -1,0 +1,89 @@
+
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003635484 / 0010004012877
+ USER CETAK DMUSER.1                         DINAS KOMUNIKASI DAN INFORMATIKA PROV KALSELOV KAL
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     001
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                                 0.00
+
+11 JUN 2021  FT2116286P8W  Transfer In                                              0.00         340,170,25       340,170,255.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT211654T140  Transfer Out                                     6,500,307.00                          333,669,948.00 KR
+                           TITIPAN UMUM
+
+                           1065/BPK/UP/2.16.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           1065/BPK/UP/2.16.01/2021
+14 JUN 2021  FT211658VRZ5  Transfer Out                                     9,956,488.00                          323,713,460.00 KR
+                           TITIPAN UMUM
+
+                           1061/BPK/UP/2.16.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           1061/BPK/UP/2.16.01/2021
+14 JUN 2021  FT21165PHHVF  Transfer Out                                     3,372,040.00                          320,341,420.00 KR
+                           TITIPAN UMUM
+
+                           1062/BPK/UP/2.16.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           1062/BPK/UP/2.16.01/2021
+1                                                                                                                 318,115,440.00 KR
+
+
+                           1064/BPK/UP/2.16.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           1064/BPK/UP/2.16.01/2021
+14 JUN 2021  FT2116584VHS  Transfer Out                                     5,302,047.00                          312,813,393.00 KR
+                           TITIPAN UMUM
+
+                           1063/BPK/UP/2.16.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           1063/BPK/UP/2.16.01/2021
+14 JUN 2021  FT21165LM7KM  Transfer Out                                    15,000,000.00                          297,813,393.00 KR
+                           TITIPAN UMUM
+
+                           1059/BPK/UP/2.16.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           1059/BPK/UP/2.16.01/2021                                           Tanggal, 14-06-2021
+
+
+                                                 Total Mutasi :            42,356,862.00         340,170,25       297,813,393.00
+
+
+                                                                                             (_______________________)
+
+
+*

@@ -1,0 +1,89 @@
+
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003635085 / 0010004012172
+ USER CETAK DMUSER.1                         BENDAHARA BLUD RSJ SAMBANG LIHUM PROV KALSELOV KAL
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     001
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                                 0.00
+
+11 JUN 2021  FT21162C3Q72  Transfer In                                              0.00         122,665,25       122,665,258.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT211659X65N  Transfer Out                                    12,536,364.00                          110,128,894.00 KR
+                           PANASEA
+
+                           900/220/KEU-BLUD/RSJSL/2021
+
+                           To Acc.No.- 2003646915
+
+                           900/220/KEU-BLUD/RSJSL/2021
+14 JUN 2021  FT21165GSVY4  Transfer Out                                     8,392,200.00                          101,736,694.00 KR
+                           SAPTA SARI TAMA
+
+                           900/222/KEU-BLUD/RSJSL/2021
+
+                           To Acc.No.- 2003645878
+
+                           900/222/KEU-BLUD/RSJSL/2021
+14 JUN 2021  FT21165XBD5J  Transfer Out                                     2,458,560.00                           99,278,134.00 KR
+                           SAPTA SARI TAMA
+
+                           900/221/KEU-BLUD/RSJSL/2021
+
+                           To Acc.No.- 2003645878
+
+                           900/221/KEU-BLUD/RSJSL/2021
+1                                                                                                                  91,141,320.00 KR
+
+
+                           900/224/KEU-BLUD/RSJSL/2021
+
+                           To Acc.No.- 2003645878
+
+                           900/224/KEU-BLUD/RSJSL/2021
+14 JUN 2021  FT21165PG45T  Transfer Out                                     2,708,750.00                           88,432,570.00 KR
+                           SAPTA SARI TAMA
+
+                           900/223/KEU-BLUD/RSJSL/2021
+
+                           To Acc.No.- 2003645878
+
+                           900/223/KEU-BLUD/RSJSL/2021
+14 JUN 2021  DC2116500015  Miscellaneous Debits                             2,370,000.00                           86,062,570.00 KR
+                           PB 900/210/KEU-BLUD/RSJSL/21
+14 JUN 2021  DC2116500015  Miscellaneous Debits                             2,635,000.00                           83,427,570.00 KR
+                           PB 900/207/KBU-BLUD/RSJSL/21
+
+
+                                                 Total Mutasi :            39,237,688.00         122,665,25        83,427,570.00
+                                                                                              Tanggal, 14-06-2021
+
+
+
+
+
+                                                                                             (_______________________)
+
+
+*

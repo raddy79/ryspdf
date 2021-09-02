@@ -1,0 +1,89 @@
+
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634453 / 0010004006897
+ USER CETAK DMUSER.1                         BP DINAS SOSIAL PROVINSI KALSEL
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     001
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                                 0.00
+
+11 JUN 2021  FT21162CKBNV  Transfer In                                              0.00         960,516,22       960,516,228.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  TT211657X6CB  Cash Withdrawal(Local Ccy)                      50,000,000.00                          910,516,228.00 KR
+                           TARIKAN TUNAI DENGAN CHEQUE
+
+                           By cheque No: 519162
+14 JUN 2021  FT21165P83D4  Transfer Out                                       230,196.00                          910,286,032.00 KR
+                           REKENING PENERIMAAN NEGARA TERPUSAT
+
+                           BILLING 820210608454329
+
+                           To Acc.No.- 2003633546
+
+                           BILLING 820210608454329
+14 JUN 2021  DC2116500015  Miscellaneous Debits                               230,196.00                          910,055,836.00 KR
+                           820210608453591
+14 JUN 2021  DC2116500015  Miscellaneous Debits                               115,098.00                          909,940,738.00 KR
+                           820210608425782
+14 JUN 2021  DC2116500015  Miscellaneous Debits                               345,294.00                          909,595,444.00 KR
+                           820210608426867
+14 JUN 2021  DC2116500015  Miscellaneous Debits                               920,784.00                          908,674,660.00 KR
+                           820210608427428
+14 JUN 2021  DC2116500015  Miscellaneous Debits                             1,150,980.00                          907,523,680.00 KR
+                           820210608431228
+14 JUN 2021  DC2116500015  Miscellaneous Debits                               575,490.00                          906,948,190.00 KR
+                           820210608428445
+1                                                                                                                 906,717,994.00 KR
+
+
+
+                                                 Total Mutasi :            53,798,234.00         960,516,22       906,717,994.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              Tanggal, 14-06-2021
+
+
+
+
+
+                                                                                             (_______________________)
+
+
+*

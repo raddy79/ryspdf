@@ -1,0 +1,177 @@
+
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634437 / 0010004006861
+ USER CETAK DMUSER.1                         DINAS PERHUBUNGAN KOTA BANJARMASIN
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     001
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                                 0.00
+
+11 JUN 2021  FT21162FRM0M  Transfer In                                              0.00         335,116,80       335,116,800.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT211650921K  Account Transfer Charges                             2,900.00                          335,113,900.00 KR
+                           AC-IDR1700700010001
+14 JUN 2021  FT211650921K  Transfer Out                                     5,590,455.00                          329,523,445.00 KR
+                           SKN NOS ACCOUNT
+
+                           SKN Keluar
+
+                           AGUS SUPRIADI
+
+                           Cek No: Bank Code: 4940014
+
+                           0661/BPK/2.15.0.00.0.00.01.0000/202
+
+                           1
+14 JUN 2021  FT211659MRJ6  Account Transfer Charges                             2,900.00                          329,520,545.00 KR
+                           AC-IDR1700700010001
+14 JUN 2021  FT211659MRJ6  Transfer Out                                     4,834,737.00                          324,685,808.00 KR
+                           SKN NOS ACCOUNT
+
+                           SKN Keluar
+
+                           AGUS SUPRIADI
+
+                           Cek No: Bank Code: 0020307
+
+                           0662/BPK/2.15.0.00.01.0000/2021
+14 JUN 2021  FT211659JG29  Account Transfer Charges                             2,900.00                          324,682,908.00 KR
+                           AC-IDR1700700010001
+14 JUN 2021  FT211659JG29  Transfer Out                                     3,578,919.00                          321,103,989.00 KR
+                           SKN NOS ACCOUNT
+
+                           SKN Keluar
+
+                           IBU DIANA GURDI
+
+                           Cek No: Bank Code: 0090010
+
+                           0663/BPK/2.15.0.00.0.00.01.0000/202
+
+                           1
+14 JUN 2021  FT211652T16T  Account Transfer Charges                             2,900.00                          321,101,089.00 KR
+                           AC-IDR1700700010001
+14 JUN 2021  FT211652T16T  Transfer Out                                     7,710,591.00                          313,390,498.00 KR
+                           SKN NOS ACCOUNT
+
+                           SKN Keluar
+
+                           CV.BUDI SETIA SEJAHTERA
+
+                           Cek No: Bank Code: 0080017
+
+                           0654/
+14 JUN 2021  FT21165WNXN0  Transfer Out                                        34,570.00                          313,355,928.00 KR
+                           SKN NOS ACCOUNT
+
+                           SKN Keluar
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634437 / 0010004006861
+ USER CETAK DMUSER.1                         DINAS PERHUBUNGAN KOTA BANJARMASIN
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     002
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                       313,355,928.00
+
+
+                           EKA ZULFAH SURYANI
+
+                           Cek No: Bank Code: 0090010
+
+                           0655/BPK/2.15.0.00.0.00.01.0000/202
+
+                           1
+14 JUN 2021  FT21165DCP7V  Transfer Out                                    21,673,459.00                          291,682,469.00 KR
+                           SKN NOS ACCOUNT
+
+                           SKN Keluar
+
+                           EKA ZULFAH SURYANI
+
+                           Cek No: Bank Code: 0090010
+
+                           0657/BPK/2.15.0.00.0.00.01.000/2021
+14 JUN 2021  FT21165F22TG  Transfer Out                                     1,188,125.00                          290,494,344.00 KR
+                           SKN NOS ACCOUNT
+
+                           SKN Keluar
+
+                           EKA ZULFAH SURYANI
+
+                           Cek No: Bank Code: 0090010
+
+                           0656/BPK/2.15.0.00.0.00.01.0000/202
+
+
+14 JUN 2021  FT211652DPGL  Transfer Out                                     1,200,000.00                          289,294,344.00 KR
+                           ABDUL SYAKIR
+
+                           To Acc.No.- 2000026142
+14 JUN 2021  FT2116540S7W  Transfer Out                                    12,597,120.00                          276,697,224.00 KR
+                           FIRMITAS KURNIA KONSULTAN
+
+                           0599/BPK/2.15.0.00.0.00.01.0000/202
+
+                           To Acc.No.- 2003781348
+
+                           0599/BPK/2.15.0.00.0.00.01.0000/202
+14 JUN 2021  FT21165GPL8F  Transfer Out                                     1,200,000.00                          275,497,224.00 KR
+                           ALI SABANA
+
+                           To Acc.No.- 2000024597
+14 JUN 2021  FT21165XDFB7  Transfer Out                                     8,783,961.00                          266,713,263.00 KR
+                           DUA SEKAWAN
+
+                           To Acc.No.- 2003645366
+14 JUN 2021  FT21165Y6MZ6  Transfer Out                                     1,200,000.00                          265,513,263.00 KR
+                           MULYADI                                                            Tanggal, 14-06-2021
+
+                           0610/BPK/2.15.0.00.0.00.01.00000/20
+
+                           To Acc.No.- 2000026118
+
+                           0610/BPK/2.15.0.00.0.00.01.00000/20                               (_______________________)
+
+
+*                                                Total Mutasi :            69,603,537.00         335,116,80       265,513,263.00

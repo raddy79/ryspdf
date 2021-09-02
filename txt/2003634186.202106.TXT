@@ -1,0 +1,177 @@
+
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634186 / 0010004003964
+ USER CETAK DMUSER.1                         DINAS LINGKUNGAN HIDUP
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     001
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                                 0.00
+
+11 JUN 2021  FT211620LT8G  Transfer In                                              0.00       2,908,056,54     2,908,056,544.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT2116517LDG  Transfer Out                                       241,895.00                        2,907,814,649.00 KR
+                           TTP LAINNYA
+
+                           0985/BPK/2.11.0.00.01.0000/2021
+
+                           To Acc.No.- IDR1503800011001
+
+                           0985/BPK/2.11.0.00.01.0000/2021
+14 JUN 2021  FT2116501V7D  Transfer Out                                        66,564.00                        2,907,748,085.00 KR
+                           TTP LAINNYA
+
+                           0981/BPK/2.11.0.00.01.0000/2021
+
+                           To Acc.No.- IDR1503800011001
+
+                           0981/BPK/2.11.0.00.01.0000/2021
+14 JUN 2021  FT211658N3CB  Transfer Out                                       253,988.00                        2,907,494,097.00 KR
+                           TTP LAINNYA
+
+                           0984/BPK/2.11.0.00.01.0000/2021
+
+                           To Acc.No.- IDR1503800011001
+
+                           0984/BPK/2.11.0.00.01.0000/2021
+14 JUN 2021  FT21165M5H4Y  Transfer Out                                        72,144.00                        2,907,421,953.00 KR
+                           TTP LAINNYA
+
+                           0980/BPK/2.11.0.00.01.0000/2021
+
+                           To Acc.No.- IDR1503800011001
+
+                           0980/BPK/2.11.0.00.01.0000/2021
+14 JUN 2021  FT21165DTNVJ  Transfer Out                                       300,000.00                        2,907,121,953.00 KR
+                           SABIRIN
+
+                           0991/BPK/2.11.0.00.0.01.0000/2021
+
+                           To Acc.No.- 2000082597
+
+                           0991/BPK/2.11.0.00.0.01.0000/2021
+14 JUN 2021  FT21165LSZW1  Transfer Out                                        33,458.00                        2,907,088,495.00 KR
+                           TTP LAINNYA
+
+                           0982/BPK/2.11.0.00.0.01.0000/2021
+
+                           To Acc.No.- IDR1503800011001
+
+                           0982/BPK/2.11.0.00.0.01.0000/2021
+14 JUN 2021  FT21165DCJ77  Transfer Out                                       300,000.00                        2,906,788,495.00 KR
+                           RAHMAD HIDAYAT
+
+                           0995/BPK/2.11.0.00.0.00.01.000
+
+                           To Acc.No.- 2000024848
+
+                           0995/BPK/2.11.0.00.0.00.01.000
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634186 / 0010004003964
+ USER CETAK DMUSER.1                         DINAS LINGKUNGAN HIDUP
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     002
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     2,906,788,495.00
+
+14 JUN 2021  FT211655MP8Z  Transfer Out                                        50,000.00                        2,906,738,495.00 KR
+                           MAULANA HAKIM
+
+                           0997/BPK/2.11.0.00.0.00.01.000
+
+                           To Acc.No.- 2000120076
+
+                           0997/BPK/2.11.0.00.0.00.01.000
+14 JUN 2021  FT21165JD63R  Transfer Out                                     1,800,000.00                        2,904,938,495.00 KR
+                           SRI MISWARNI
+
+                           0979/BPK/2.11.0.00.0.00.01.0000/202
+
+                           To Acc.No.- 2002716081
+
+                           0979/BPK/2.11.0.00.0.00.01.0000/202
+14 JUN 2021  FT21165JQ3S8  Transfer Out                                       300,000.00                        2,904,638,495.00 KR
+                           DOFIR
+
+                           0994/BPK/2.11.0.00.0.00.01.000
+
+                           To Acc.No.- 2003050548
+
+                           0994/BPK/2.11.0.00.0.00.01.000
+14 JUN 2021  FT211659XWHL  Transfer Out                                        50,000.00                        2,904,588,495.00 KR
+                           PARHAN
+
+                           0996/BPK/2.11.0.00.0.00.01.000
+
+
+
+                           0996/BPK/2.11.0.00.0.00.01.000
+14 JUN 2021  FT21165YD66F  Transfer Out                                        50,000.00                        2,904,538,495.00 KR
+                           RAHMAD HIDAYAT
+
+                           0998/BPK/2.11.0.00.0.00.01.000
+
+                           To Acc.No.- 2000024848
+
+                           0998/BPK/2.11.0.00.0.00.01.000
+14 JUN 2021  FT21165FQ32B  Transfer Out                                       300,000.00                        2,904,238,495.00 KR
+                           JOHANSYAH
+
+                           0993/BPK/2.11.0.00.01.00.01.000
+
+                           To Acc.No.- 2000078638
+
+                           0993/BPK/2.11.0.00.01.00.01.000
+14 JUN 2021  FT21165Z86NG  Transfer Out                                       300,000.00                        2,903,938,495.00 KR
+                           MUHAMMAD YUSUF
+
+                           0992/BPK/2.11.0.00.0.00.01.000                                     Tanggal, 14-06-2021
+
+                           To Acc.No.- 2000082808
+
+                           0992/BPK/2.11.0.00.0.00.01.000
+
+                                                                                             (_______________________)
+                                                 Total Mutasi :             4,118,049.00       2,908,056,54     2,903,938,495.00
+
+*

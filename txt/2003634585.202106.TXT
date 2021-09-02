@@ -1,0 +1,441 @@
+
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634585 / 0010004007874
+ USER CETAK DMUSER.1                         DINAS SOSIAL KOTA BANJARMASIN
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     001
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                                 0.00
+
+11 JUN 2021  FT21162MCHQ7  Transfer In                                              0.00         400,000,00       400,000,000.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165626LJ  Transfer Out                                     2,270,514.00                          397,729,486.00 KR
+                           M PAUJI
+
+                           0355/BPK/1.06.0.00.0.00.01.000
+
+                           To Acc.No.- 2000030727
+
+                           0355/BPK/1.06.0.00.0.00.01.000
+14 JUN 2021  FT2116569561  Transfer Out                                     2,270,514.00                          395,458,972.00 KR
+                           ISTIQAMAH
+
+                           0352/BPK/1.06.0.00.0.00.01.000
+
+                           To Acc.No.- 2000087858
+
+                           0352/BPK/1.06.0.00.0.00.01.000
+14 JUN 2021  FT211656Y5PQ  Transfer Out                                     2,270,514.00                          393,188,458.00 KR
+                           RAHMAD
+
+                           0348/BPK/1.06.0.00.0.00.01/2021
+
+                           To Acc.No.- 2000030662
+
+                           0348/BPK/1.06.0.00.0.00.01/2021
+14 JUN 2021  FT21165K93XJ  Transfer Out                                     2,270,514.00                          390,917,944.00 KR
+                           HAMSIN
+
+                           0351/BPK/1.06.0.00.0.00.01.000
+
+                           To Acc.No.- 2000030627
+
+                           0351/BPK/1.06.0.00.0.00.01.000
+14 JUN 2021  FT21165D6B63  Transfer Out                                     1,570,514.00                          389,347,430.00 KR
+                           SANDRA ROSIANA
+
+                           0341/bpk/1.06.0.00.0.00.01.0000/21
+
+                           To Acc.No.- 2000133787
+
+                           0341/bpk/1.06.0.00.0.00.01.0000/21
+14 JUN 2021  FT21165TVTWG  Transfer Out                                     5,098,600.00                          384,248,830.00 KR
+                           AEP RUHYA
+
+                           0379/BPK/1.06.0.00.0.00.01.000
+
+                           To Acc.No.- 2000030913
+
+                           0379/BPK/1.06.0.00.0.00.01.000
+14 JUN 2021  FT21165MVF1M  Transfer Out                                     5,069,600.00                          379,179,230.00 KR
+                           AEP RUHYA
+
+                           0378/BPK/1.06.0.00.0.00.01.000
+
+                           To Acc.No.- 2000030913
+
+                           0378/BPK/1.06.0.00.0.00.01.000
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634585 / 0010004007874
+ USER CETAK DMUSER.1                         DINAS SOSIAL KOTA BANJARMASIN
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     002
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                       379,179,230.00
+
+14 JUN 2021  FT21165NZT52  Transfer Out                                     2,270,514.00                          376,908,716.00 KR
+                           SYAHRUDIN
+
+                           0349/BPK/1.06.0.00.0.00.01.000/2021
+
+                           To Acc.No.- 2000025437
+
+                           0349/BPK/1.06.0.00.0.00.01.000/2021
+14 JUN 2021  FT21165RLHCY  Transfer Out                                     2,270,514.00                          374,638,202.00 KR
+                           BAHRAN
+
+                           0354/BPK/1.06.0.00.0.00.01.000
+
+                           To Acc.No.- 2000025502
+
+                           0354/BPK/1.06.0.00.0.00.01.000
+14 JUN 2021  FT21165MVNX3  Transfer Out                                     2,270,514.00                          372,367,688.00 KR
+                           NORMAN
+
+                           0350/BPK/1.06.0.00.0.00.01.0000/21
+
+                           To Acc.No.- 2000030891
+
+                           0350/BPK/1.06.0.00.0.00.01.0000/21
+14 JUN 2021  FT21165J58C3  Transfer Out                                     2,270,514.00                          370,097,174.00 KR
+                           ABDUL HADI
+
+                           0353/BPK/1.06.0.00.0.00.01.000
+
+                           To Acc.No.- 2000025464
+
+                           0353/BPK/1.06.0.00.0.00.01.000
+14 JUN 2021  FT21165J48BC  Transfer Out                                     1,570,514.00                          368,526,660.00 KR
+                           WAHYUDI
+
+                           0345/BPK/1.06.0.00.0.00.01/2021
+
+                           To Acc.No.- 2002570842
+
+                           0345/BPK/1.06.0.00.0.00.01/2021
+14 JUN 2021  FT21165Z4LT4  Transfer Out                                       490,000.00                          368,036,660.00 KR
+                           FITRIYATI
+
+                           0347/BPK/1.06.0.0.00.0.00.01.001/21
+
+                           To Acc.No.- 2000031097
+
+                           0347/BPK/1.06.0.0.00.0.00.01.001/21
+14 JUN 2021  FT21165548DF  Transfer Out                                     4,179,600.00                          363,857,060.00 KR
+                           MASRANI
+
+                           0376/BPK/1.06.0.00.0.00.01.000
+
+                           To Acc.No.- 2000258329
+
+                           0376/BPK/1.06.0.00.0.00.01.000
+14 JUN 2021  FT21165FZ639  Transfer Out                                     5,089,600.00                          358,767,460.00 KR
+                           SYARIFULLAH
+
+                           0377/BPK/1.06.0.00.0.00.01.000
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634585 / 0010004007874
+ USER CETAK DMUSER.1                         DINAS SOSIAL KOTA BANJARMASIN
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     003
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                       358,767,460.00
+
+
+                           To Acc.No.- 2000269371
+
+                           0377/BPK/1.06.0.00.0.00.01.000
+14 JUN 2021  FT2116543W8Q  Transfer Out                                     1,570,514.00                          357,196,946.00 KR
+                           MILDAN
+
+                           0367
+
+                           To Acc.No.- 2000134848
+
+                           0367
+14 JUN 2021  FT21165JM8TX  Transfer Out                                     1,570,514.00                          355,626,432.00 KR
+                           WANDA RAZID
+
+                           0368
+
+                           To Acc.No.- 2000134832
+
+                           0368
+14 JUN 2021  FT211657VWK5  Transfer Out                                     1,570,514.00                          354,055,918.00 KR
+                           HANITIA RIASARI
+
+                           0371
+
+                           To Acc.No.- 2000134883
+
+                           0371
+14 JUN 2021  FT21165CNKHS  Transfer Out                                     1,570,514.00                          352,485,404.00 KR
+                           ROBY ALIANI SHOLIHIN
+
+                           0369
+
+                           To Acc.No.- 2002708534
+
+                           0369
+14 JUN 2021  FT21165WKWQR  Transfer Out                                     4,198,600.00                          348,286,804.00 KR
+                           FIRMAN ZULKURNAIN
+
+                           0374
+
+                           To Acc.No.- 2000258345
+
+                           0374
+14 JUN 2021  FT21165TXB2X  Transfer Out                                     1,570,514.00                          346,716,290.00 KR
+                           NANDA APRILLIA
+
+                           0372
+
+                           To Acc.No.- 2000113158
+
+                           0372
+14 JUN 2021  FT21165WCBD6  Transfer Out                                     1,570,514.00                          345,145,776.00 KR
+                           DICKY AZMI
+
+                           0370
+
+                           To Acc.No.- 2000134824
+
+                           0370
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634585 / 0010004007874
+ USER CETAK DMUSER.1                         DINAS SOSIAL KOTA BANJARMASIN
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     004
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                       345,145,776.00
+
+14 JUN 2021  FT21165D8451  Transfer Out                                     1,570,514.00                          343,575,262.00 KR
+                           RIFQI MAULIDINNOR
+
+                           0364/BPK/1.06.0.00.0.00.01.000
+
+                           To Acc.No.- 2000003134
+
+                           0364/BPK/1.06.0.00.0.00.01.000
+14 JUN 2021  FT211658K618  Transfer Out                                     1,570,514.00                          342,004,748.00 KR
+                           SITI BALKIS
+
+                           0342/BPK/1.06.0.00.0.00.01.000/001/
+
+                           To Acc.No.- 2000105457
+
+                           0342/BPK/1.06.0.00.0.00.01.000/001/
+14 JUN 2021  FT211659HF6C  Transfer Out                                     1,570,514.00                          340,434,234.00 KR
+                           RIZKY PANCARWATI
+
+                           0365/BPK/1.06.0.00.0.00.01.000
+
+                           To Acc.No.- 2000134859
+
+                           0365/BPK/1.06.0.00.0.00.01.000
+14 JUN 2021  FT21165MS6TJ  Transfer Out                                     1,570,514.00                          338,863,720.00 KR
+                           NOORMASARI
+
+                           0363/BPK/1.06.0.00.0.00.01.000
+
+                           To Acc.No.- 2002566365
+
+                           0363/BPK/1.06.0.00.0.00.01.000
+14 JUN 2021  FT21165T4STX  Transfer Out                                     2,720,514.00                          336,143,206.00 KR
+                           NUNUK FEBRIANI
+
+                           To Acc.No.- 2000030816
+14 JUN 2021  FT21165R45WK  Transfer Out                                     2,300,000.00                          333,843,206.00 KR
+                           RUSMIATI
+
+                           0359/BPK/1.06.0.00.0.00.01.0000/001
+
+                           To Acc.No.- 2000018611
+
+                           0359/BPK/1.06.0.00.0.00.01.0000/001
+14 JUN 2021  FT21165PYB38  Transfer Out                                     2,270,514.00                          331,572,692.00 KR
+                           MUHAMMAD FAHMI
+
+                           0358/BPK/1.06.0.00.0.00.01.0000/001
+
+                           To Acc.No.- 2000030859
+
+                           0358/BPK/1.06.0.00.0.00.01.0000/001
+14 JUN 2021  DC2116500015  Miscellaneous Debits                                29,486.00                          331,543,206.00 KR
+                           820210611757518
+14 JUN 2021  DC2116500015  Miscellaneous Debits                             1,769,145.00                          329,774,061.00 KR
+                           820210611753209
+14 JUN 2021  DC2116500015  Miscellaneous Debits                                29,486.00                          329,744,575.00 KR
+                           820210611757255
+14 JUN 2021  DC2116500015  Miscellaneous Debits                                29,486.00                          329,715,089.00 KR
+                           8202106101755431
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634585 / 0010004007874
+ USER CETAK DMUSER.1                         DINAS SOSIAL KOTA BANJARMASIN
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     005
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                       329,715,089.00
+
+14 JUN 2021  DC2116500015  Miscellaneous Debits                             4,599,777.00                          325,115,312.00 KR
+                           0362/BPK/1.06.0.00.0.00.01.000
+14 JUN 2021  DC2116500015  Miscellaneous Debits                             6,111,542.00                          319,003,770.00 KR
+                           0343/BPK/1.06.0.00.0.00.01.0000/00
+14 JUN 2021  DC2116500015  Miscellaneous Debits                                29,486.00                          318,974,284.00 KR
+                           820210611754357
+
+
+                                                 Total Mutasi :            81,025,716.00         400,000,00       318,974,284.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              Tanggal, 14-06-2021
+
+
+
+
+
+                                                                                             (_______________________)
+
+
+*

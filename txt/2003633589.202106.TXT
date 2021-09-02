@@ -1,0 +1,177 @@
+
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633589 / 0010003029018
+ USER CETAK DMUSER.1                         REKENING KAS UMUM DAERAH KOTA BANJARMASINRMASIN
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     001
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                                 0.00
+
+11 JUN 2021  FT2116223J8Q  Transfer In                                              0.00     191,080,146,12   191,080,146,124.46 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT211654H996  SKN IN                                                   0.00          12,099,97   191,092,246,103.46 KR
+                           PANEN WISATA INTERNASION
+
+                           PB 1 BLN MEI 2021
+
+                           From Acc.No. - IDR1700700010001
+
+                           Sender bnk code: 0140656
+14 JUN 2021  TT211652LZW7  Deposit Cash (Local Currency)                            0.00          13,350,05   191,105,596,160.46 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165SF9V3  Deposit Cash (Local Currency)                            0.00           4,322,40   191,109,918,563.46 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165Y3GKJ  Deposit Cash (Local Currency)                            0.00          10,408,88   191,120,327,451.46 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165VTT6Q  Deposit Cash (Local Currency)                            0.00           3,302,00   191,123,629,451.46 KR
+                           DISHUB-RET PEL KEPELABUHAN
+14 JUN 2021  FT21165XJQ2F  SKN IN                                                   0.00          67,843,07   191,191,472,527.46 KR
+                           CIPTA SELERA MURNI
+
+                           Pajak Restoran Mei 21 Texas
+
+                           Banjarm asin
+
+                           From Acc.No. - IDR1700700010001
+
+                           Sender bnk code: 0229001
+14 JUN 2021  FT21165WCT5Q  SKN IN                                                   0.00         194,250,00   191,385,722,527.46 KR
+                           RPKBUNPSPAN-BTN
+
+                           TSA51 Pencairan SP2D
+
+                           210191304010475000261
+
+                           From Acc.No. - IDR1700700010001
+
+                           Sender bnk code: 2000752
+14 JUN 2021  TT21165SNLR0  Setoran Pemindahbukuan                                   0.00           6,522,10   191,392,244,627.46 KR
+                           PEMINDAHBUKUAN
+14 JUN 2021  TT21165CK7QX  Setoran Pemindahbukuan                                   0.00           7,777,50   191,400,022,127.46 KR
+                           PEMINDAHBUKUAN
+14 JUN 2021  TT21165WQVVP  Deposit Cash (Local Currency)                            0.00          71,512,63   191,471,534,765.46 KR
+                           SET PENGMBL BY PRA KOMPETISI KONI
+14 JUN 2021  TT21165XNWPW  Deposit Cash (Local Currency)                            0.00           6,866,50   191,478,401,265.46 KR
+                           SET UPT PKB DISHUB KOTA BJM 140621
+14 JUN 2021  FT2116532HJV  SKN IN                                                   0.00          94,293,71   191,572,694,976.46 KR
+                           PANEN WISATA INTERNASIONAL PT
+
+                           PB1 MEI21 GALAXY HOTEL BJM
+
+                           From Acc.No. - IDR1700700010001
+
+                           Sender bnk code: 0090146
+14 JUN 2021  TT2116516JD0  Setoran Pemindahbukuan                                   0.00         419,785,43   191,992,480,412.46 KR
+                           PEMINDAHBUKUAN
+14 JUN 2021  TT211650JCVY  Setoran Pemindahbukuan                                   0.00           3,220,00   191,995,700,412.46 KR
+                           047/STS/104000000300000/2021
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633589 / 0010003029018
+ USER CETAK DMUSER.1                         REKENING KAS UMUM DAERAH KOTA BANJARMASINRMASIN
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     002
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                   191,995,700,412.46
+
+14 JUN 2021  FT21165LTJG8  SKN IN                                                   0.00          85,549,54   192,081,249,958.46 KR
+                           SRIBOGA MARUGAME INDONESIA
+
+                           PB1MRGMEUDON
+
+                           From Acc.No. - IDR1700700010001
+
+                           Sender bnk code: 0080017
+14 JUN 2021  TT21165YN79L  Deposit Cash (Local Currency)                            0.00          66,385,54   192,147,635,502.46 KR
+                           SETORAN TUNAI
+14 JUN 2021  FT21165PHNM2  Transfer In                                              0.00          45,357,30   192,192,992,810.46 KR
+                           999999
+
+                           PBB 11 - 130621
+
+                           Cheque No:
+
+                           PBB 11 - 130621
+
+
+                                                 Total Mutasi :                     0.00     192,192,992,81   192,192,992,810.46
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              Tanggal, 14-06-2021
+
+
+
+
+
+                                                                                             (_______________________)
+
+
+*

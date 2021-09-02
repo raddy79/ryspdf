@@ -1,0 +1,441 @@
+
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634787 / 0010004011033
+ USER CETAK DMUSER.1                         RSUD ULIN BANJARMASIN
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     001
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                                 0.00
+
+11 JUN 2021  FT2116274P83  Transfer In                                              0.00       5,692,755,83     5,692,755,831.36 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  TT21165H742M  Deposit Cash (Local Currency)                            0.00           2,475,00     5,695,230,831.36 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT211655CBW9  Deposit Cash (Local Currency)                            0.00           7,067,00     5,702,297,831.36 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165SFM60  Deposit Cash (Local Currency)                            0.00          12,635,90     5,714,933,731.36 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165FJQS9  Deposit Cash (Local Currency)                            0.00          13,212,00     5,728,145,731.36 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165QWDTT  Cash Withdrawal(Local Ccy)                      10,376,500.00                        5,717,769,231.36 KR
+                           TARIKAN TUNAI DENGAN CHEQUE
+
+                           By cheque No: 540070
+14 JUN 2021  TT21165W4LX5  Deposit Cash (Local Currency)                            0.00          19,470,00     5,737,239,231.36 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165N9KXP  Deposit Cash (Local Currency)                            0.00          21,128,50     5,758,367,731.36 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165YVH2X  Deposit Cash (Local Currency)                            0.00             991,00     5,759,358,731.36 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165T9Z88  Deposit Cash (Local Currency)                            0.00          74,033,05     5,833,391,786.36 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165V0Q1K  Deposit Cash (Local Currency)                            0.00           2,645,50     5,836,037,286.36 KR
+                           SETORAN TUNAI
+14 JUN 2021  FT21165K3YFM  Transfer Out                                    63,943,487.00                        5,772,093,799.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/894-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/894-KEU PEL/RSUDU
+14 JUN 2021  FT21165HLMDN  Transfer Out                                    63,943,487.00                        5,708,150,312.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/894-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011030
+
+                           900/894-KEU PEL/RSUDU
+14 JUN 2021  TT21165X1181  Deposit Cash (Local Currency)                            0.00             672,50     5,708,822,812.36 KR
+                           SETORAN TUNAI
+14 JUN 2021  FT2116513TG2  Transfer Out                                   280,263,100.00                        5,428,559,712.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/871-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/871-KEU PEL/RSUDU
+14 JUN 2021  TT21165H3BNK  Deposit Cash (Local Currency)                            0.00           8,840,80     5,437,400,512.36 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT211658DNX6  Deposit Cash (Local Currency)                            0.00          31,610,00     5,469,010,512.36 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165RPYDT  Deposit Cash (Local Currency)                            0.00          16,832,70     5,485,843,212.36 KR
+                           PEMBY KLAIM PARSIAL
+14 JUN 2021  FT21165Q2BFP  Incoming RTGS                                            0.00       1,730,013,40     7,215,856,612.36 KR
+                           BPJS KESEHATAN
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634787 / 0010004011033
+ USER CETAK DMUSER.1                         RSUD ULIN BANJARMASIN
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     002
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     7,215,856,612.36
+
+
+                           Jl Letjen Suprapto Kav 20 No 14
+
+                           RT 00 RW 00
+
+                           5191
+
+                           SW-INDOIDJRXXX
+
+                           KLAIM                           RTG
+
+                           S Fee             KLAIM      123000
+
+                           6370334
+14 JUN 2021  TT211652H9FP  Deposit Cash (Local Currency)                            0.00             515,00     7,216,371,612.36 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165MK1B3  Deposit Cash (Local Currency)                            0.00           7,404,43     7,223,776,042.36 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT211656T4TX  Deposit Cash (Local Currency)                            0.00           7,777,50     7,231,553,542.36 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT211658LW7L  Deposit Cash (Local Currency)                            0.00          15,411,42     7,246,964,967.36 KR
+                           SETORAN TUNAI
+14 JUN 2021  FT211653X6QF  Transfer Out                                    14,818,650.00                        7,232,146,317.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/878-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011030
+
+                           900/878-KEU PEL/RSUDU
+14 JUN 2021  FT21165V7VLX  Transfer Out                                    31,711,498.00                        7,200,434,819.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/877-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011030
+
+                           900/877-KEU PEL/RSUDU
+14 JUN 2021  FT21165NWYDV  Transfer Out                                    44,250,250.00                        7,156,184,569.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/874-KEU-PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011030
+
+                           900/874-KEU-PEL/RSUDU
+14 JUN 2021  FT211659Z4J3  Transfer Out                                    53,373,072.00                        7,102,811,497.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/873-KEU-PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011030
+
+                           900/873-KEU-PEL/RSUDU
+14 JUN 2021  FT21165W66M9  Transfer Out                                    79,088,771.00                        7,023,722,726.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/876-KEU-PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011030
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634787 / 0010004011033
+ USER CETAK DMUSER.1                         RSUD ULIN BANJARMASIN
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     003
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     7,023,722,726.36
+
+
+                           900/876-KEU-PEL/RSUDU
+14 JUN 2021  FT21165089WQ  Transfer Out                                    41,804,252.00                        6,981,918,474.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/870-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/870-KEU PEL/RSUDU
+14 JUN 2021  FT211653Z9N0  Transfer Out                                    63,943,487.00                        6,917,974,987.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/894-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/894-KEU PEL/RSUDU
+14 JUN 2021  FT21165D0SMV  Transfer Out                                       357,500.00                        6,917,617,487.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/880-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/880-KEU PEL/RSUDU
+14 JUN 2021  FT21165QW7Y9  Transfer Out                                     6,942,375.00                        6,910,675,112.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/892-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/892-KEU PEL/RSUDU
+14 JUN 2021  FT21165J7V9W  Transfer Out                                     6,682,500.00                        6,903,992,612.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/895-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/895-KEU PEL/RSUDU
+14 JUN 2021  FT21165WJ58M  Transfer Out                                    17,908,946.00                        6,886,083,666.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/883-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/883-KEU PEL/RSUDU
+14 JUN 2021  FT21165SB0M6  Transfer Out                                     1,427,402.00                        6,884,656,264.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/891-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/891-KEU PEL/RSUDU
+14 JUN 2021  FT21165TYMCC  Transfer Out                                    12,797,982.00                        6,871,858,282.36 KR
+                           TTP UMUM-KONTROL
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634787 / 0010004011033
+ USER CETAK DMUSER.1                         RSUD ULIN BANJARMASIN
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     004
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     6,871,858,282.36
+
+
+                           900/886-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/886-KEU PEL/RSUDU
+14 JUN 2021  FT21165PCKSY  Transfer Out                                    51,733,176.00                        6,820,125,106.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/893-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/893-KEU PEL/RSUDU
+14 JUN 2021  FT21165DQ4CK  Transfer Out                                    52,166,401.00                        6,767,958,705.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/885-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/885-KEU PEL/RSUDU
+14 JUN 2021  FT21165R4LWP  Transfer Out                                    13,908,455.00                        6,754,050,250.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/884-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/884-KEU PEL/RSUDU
+14 JUN 2021  FT21165KX9VQ  Transfer Out                                   458,950,081.00                        6,295,100,169.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/868-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/868-KEU PEL/RSUDU
+14 JUN 2021  FT21165YFL63  Transfer Out                                     1,280,000.00                        6,293,820,169.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/881-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/881-KEU PEL/RSUDU
+14 JUN 2021  FT211656CYK7  Transfer Out                                    70,475,020.00                        6,223,345,149.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/882-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/882-KEU PEL/RSUDU
+14 JUN 2021  FT21165L5MBB  Transfer Out                                    45,000,120.00                        6,178,345,029.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/897-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634787 / 0010004011033
+ USER CETAK DMUSER.1                         RSUD ULIN BANJARMASIN
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     005
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     6,178,345,029.36
+
+
+                           900/897-KEU PEL/RSUDU
+14 JUN 2021  FT21165KGXS9  Transfer Out                                    22,852,198.00                        6,155,492,831.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/900-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/900-KEU PEL/RSUDU
+14 JUN 2021  FT21165J58V8  Transfer Out                                    23,250,205.00                        6,132,242,626.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/890-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/890-KEU PEL/RSUDU
+14 JUN 2021  FT21165PFJ67  Transfer Out                                   564,650,900.00                        5,567,591,726.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/809-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/809-KEU PEL/RSUDU
+14 JUN 2021  FT21165574T8  Transfer Out                                   680,674,790.00                        4,886,916,936.36 KR
+                           TTP UMUM-KONTROL
+
+
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/898-KEU PEL/RSUDU
+14 JUN 2021  FT21165B67JJ  Transfer Out                                   809,744,001.00                        4,077,172,935.36 KR
+                           TTP UMUM-KONTROL
+
+                           900/865-KEU PEL/RSUDU
+
+                           To Acc.No.- IDR1502800011001
+
+                           900/865-KEU PEL/RSUDU
+
+
+                                                 Total Mutasi :         3,588,318,606.00       7,665,491,54     4,077,172,935.36
+
+
+
+
+
+
+                                                                                              Tanggal, 14-06-2021
+
+
+
+
+
+                                                                                             (_______________________)
+
+
+*

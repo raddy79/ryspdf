@@ -1,0 +1,89 @@
+
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003638688 / 0010004809302
+ USER CETAK DMUSER.1                         BENDAHARA PENERIMAAN DINAS KESEHATAN KOTAN KOTA
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     001
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                                 0.00
+
+14 JUN 2021  TT211659TWGX  Deposit Cash (Local Currency)                            0.00             120,00           120,000.00 KR
+                           SET AP PUS KEL DALAM
+14 JUN 2021  TT21165N7Z84  Deposit Cash (Local Currency)                            0.00             115,00           235,000.00 KR
+                           SET TUN AP PUSK PEKAPURAN RAYA
+14 JUN 2021  TT2116500M67  Deposit Cash (Local Currency)                            0.00              80,00           315,000.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165B3L0Y  Deposit Cash (Local Currency)                            0.00             410,00           725,000.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165DNM35  Deposit Cash (Local Currency)                            0.00             417,00         1,142,000.00 KR
+                           RETRIBUSI
+14 JUN 2021  TT21165F9RCZ  Deposit Cash (Local Currency)                            0.00             315,00         1,457,000.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165VXYFK  Deposit Cash (Local Currency)                            0.00             480,00         1,937,000.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  FT21165G7H1M  Transfer In                                              0.00             423,00         2,360,000.00 KR
+                           INTERBANK
+
+                           SETORAN TUNAI KONVENSIONAL
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT211650TSCQ
+
+                           Card No:
+14 JUN 2021  TT21165S7BYT  Deposit Cash (Local Currency)                            0.00             152,00         2,512,000.00 KR
+                           SET PUSKES S.BILU 140621
+1                                                                                                    267,00         2,779,000.00 KR
+
+14 JUN 2021  TT21165JDGZ3  Deposit Cash (Local Currency)                            0.00             740,00         3,519,000.00 KR
+                           PKM KAYUTANGI
+14 JUN 2021  TT21165LRP26  Deposit Cash (Local Currency)                            0.00             355,00         3,874,000.00 KR
+                           SET PKM KUIN RAYA
+
+
+                                                 Total Mutasi :                     0.00           3,874,00         3,874,000.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              Tanggal, 14-06-2021
+
+
+
+
+
+                                                                                             (_______________________)
+
+
+*

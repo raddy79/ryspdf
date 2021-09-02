@@ -1,0 +1,89 @@
+
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003635506 / 0010004012938
+ USER CETAK DMUSER.1                         BENDAHARA PENERIMAAN DINAS PERUMAHAN DAN KAWASANN
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     001
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                                 0.00
+
+14 JUN 2021  TT21165H7W53  Deposit Cash (Local Currency)                            0.00             260,00           260,000.00 KR
+                           SET ASRA C2.01
+14 JUN 2021  TT21165QK7WG  Deposit Cash (Local Currency)                            0.00             260,00           520,000.00 KR
+                           SET ISMU HASANAH C2.03
+14 JUN 2021  TT21165KHWVW  Deposit Cash (Local Currency)                            0.00             280,00           800,000.00 KR
+                           SET HERMANTO
+14 JUN 2021  TT211654NCC4  Deposit Cash (Local Currency)                            0.00             280,00         1,080,000.00 KR
+                           SET MUHAMMAD SULKAN
+14 JUN 2021  TT211650BBTM  Deposit Cash (Local Currency)                            0.00             180,00         1,260,000.00 KR
+                           SET DEDI SUSANTO
+14 JUN 2021  TT211656CKBG  Deposit Cash (Local Currency)                            0.00             160,00         1,420,000.00 KR
+                           SET RUSMIN NURYADI
+14 JUN 2021  TT21165YNWH4  Deposit Cash (Local Currency)                            0.00             260,00         1,680,000.00 KR
+                           SET MUHAMMAD HERMAN
+14 JUN 2021  TT21165Q95PL  Deposit Cash (Local Currency)                            0.00             160,00         1,840,000.00 KR
+                           SET BADARUDIN A2.04
+14 JUN 2021  TT211654KFK6  Deposit Cash (Local Currency)                            0.00             180,00         2,020,000.00 KR
+                           SET AKHMADI B1.11
+14 JUN 2021  TT211651M5SJ  Deposit Cash (Local Currency)                            0.00             220,00         2,240,000.00 KR
+                           SET ABDUL MAJID C4.13
+14 JUN 2021  TT211652JSWS  Deposit Cash (Local Currency)                            0.00             140,00         2,380,000.00 KR
+                           SET ROYKE AMONIUS A3.22
+14 JUN 2021  TT21165QH2X8  Deposit Cash (Local Currency)                            0.00             180,00         2,560,000.00 KR
+                           SET PAHRURRAZI B1.14
+14 JUN 2021  TT211654BBT9  Deposit Cash (Local Currency)                            0.00             260,00         2,820,000.00 KR
+                           SET MUHAMMAD NOOR C2.10
+14 JUN 2021  TT211658QNJN  Deposit Cash (Local Currency)                            0.00             260,00         3,080,000.00 KR
+                           SET MUHAMMAD NOOR C2.10
+1                                                                                                    140,00         3,220,000.00 KR
+
+14 JUN 2021  TT211650JCVY  Tarikan Pemindahbukuan                           3,220,000.00                                    0.00 KR
+                           047/STS/104000000300000/2021
+
+
+                                                 Total Mutasi :             3,220,000.00           3,220,00                 0.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              Tanggal, 14-06-2021
+
+
+
+
+
+                                                                                             (_______________________)
+
+
+*

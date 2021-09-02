@@ -1,0 +1,177 @@
+
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003640615 / 0010007005555
+ USER CETAK DMUSER.1                         AMBANG BARITO NUSAPERSADA
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     001
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                                 0.00
+
+11 JUN 2021  FT211626S3JF  Transfer In                                              0.00      15,212,674,49    15,212,674,494.92 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  TT21165QRDBP  Deposit Cash (Local Currency)                            0.00          42,759,20    15,255,433,694.92 KR
+                           CF VINCENT 1/MJL 307
+14 JUN 2021  FT21165X0630  SKN IN                                                   0.00         331,797,37    15,587,231,071.92 KR
+                           PT PRIMA MULTI MINERAL
+
+                           101834ABNPINV52021
+
+                           From Acc.No. - IDR1700700010001
+
+                           Sender bnk code: 0130093
+14 JUN 2021  FT21165KJY2P  SKN IN                                                   0.00          42,002,22    15,629,233,298.92 KR
+                           PT BATUAH ABADI LINES
+
+                           REDEMPTION ID0880 10JUN2021
+
+                           From Acc.No. - IDR1700700010001
+
+                           Sender bnk code: 0500021
+14 JUN 2021  FT21165FQ6B8  SKN IN                                                   0.00          38,038,85    15,667,272,154.92 KR
+                           SINAR PRIMA SEJAHTERA
+
+                           BG ISM 3021 PT Ambang Barito
+
+                           Nusapersada Clearing Fee BG ISM
+
+                           3021 BPD KALSEL
+
+                           From Acc.No. - IDR1700700010001
+
+                           Sender bnk code: 0080017
+14 JUN 2021  FT2116573BN7  SKN IN                                                   0.00          36,799,39    15,704,071,544.92 KR
+                           SINAR PRIMA SEJAHTERA
+
+                           BG PSB 3014 PT Ambang Barito
+
+                           Nusapersada Clearing Fee BG PSB
+
+                           3014 BPD KALSEL
+
+                           From Acc.No. - IDR1700700010001
+
+                           Sender bnk code: 0080017
+14 JUN 2021  FT2116554WF0  Incoming RTGS                                            0.00       1,908,678,70    17,612,750,253.92 KR
+                           ASMIN BARA BRONANG
+
+                           PT
+
+                           0395
+
+                           SW-INDOIDJRXXX
+
+                           AMBANG BARITO  101835
+14 JUN 2021  FT21165C8KD4  Incoming RTGS                                            0.00       2,374,464,96    19,987,215,222.92 KR
+                           HABCO PRIMATAMA PT
+
+                           00266589145
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003640615 / 0010007005555
+ USER CETAK DMUSER.1                         AMBANG BARITO NUSAPERSADA
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     002
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                    19,987,215,222.92
+
+
+                           3591
+
+                           SW-INDOIDJRXXX
+
+                           TRANSFER DANA
+14 JUN 2021  FT2116564G39  Incoming RTGS                                            0.00       1,188,154,38    21,175,369,606.92 KR
+                           SUPRABARI MAPANINDO MINERAL
+
+                           PT
+
+                           0395
+
+                           SW-INDOIDJRXXX
+
+                           PV SMM 21 00777 101836/ABNP-INV/5/2
+
+                           021
+
+
+                                                 Total Mutasi :                     0.00      21,175,369,60    21,175,369,606.92
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              Tanggal, 14-06-2021
+
+
+
+
+
+                                                                                             (_______________________)
+
+
+*

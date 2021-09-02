@@ -1,0 +1,177 @@
+
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634593 / 0010004008370
+ USER CETAK DMUSER.1                         DISPENCAPIL KOTA BANJARMASIN
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     001
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                                 0.00
+
+11 JUN 2021  FT21162QMWX5  Transfer In                                              0.00         185,722,94       185,722,948.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT211657K5D0  Transfer Out                                     1,200,000.00                          184,522,948.00 KR
+                           TTP UMUM-KONTROL
+
+                           STM-CAPIL 0195/BPK
+
+                           To Acc.No.- IDR1502800011031
+
+                           STM-CAPIL 0195/BPK
+14 JUN 2021  FT211655CQXF  Outward Cheque - Dr                              1,440,000.00                          183,082,948.00 KR
+                           TTP UMUM-KONTROL
+
+                           STM-CAPIL 0196/BPK
+14 JUN 2021  FT211653FGR1  Transfer Out                                       300,000.00                          182,782,948.00 KR
+                           TTP UMUM-KONTROL
+
+                           STM-CAPIL 0197/BPK
+
+                           To Acc.No.- IDR1502800011031
+
+                           STM-CAPIL 0197/BPK
+14 JUN 2021  FT21165QKJJX  Transfer Out                                       500,000.00                          182,282,948.00 KR
+                           TTP UMUM-KONTROL
+
+                           STM-CAPIL 0198/BPK
+
+                           To Acc.No.- IDR1502800011031
+
+                           STM-CAPIL 0198/BPK
+14 JUN 2021  FT211650RKFM  Transfer Out                                     1,500,000.00                          180,782,948.00 KR
+                           TTP UMUM-KONTROL
+
+                           STM-CAPIL 0199/BPK
+
+                           To Acc.No.- IDR1502800011031
+
+                           STM-CAPIL 0199/BPK
+14 JUN 2021  FT211659Y2CM  Transfer Out                                       925,000.00                          179,857,948.00 KR
+                           TTP UMUM-KONTROL
+
+                           STM-CAPIL 0200/BPK
+
+                           To Acc.No.- IDR1502800011031
+
+                           STM-CAPIL 0200/BPK
+14 JUN 2021  FT21165S4ZPT  Outward Cheque - Dr                              2,070,000.00                          177,787,948.00 KR
+                           TTP UMUM-KONTROL
+
+                           STM-CAPIL 0202/BPK
+14 JUN 2021  FT2116500G0J  Transfer Out                                       985,000.00                          176,802,948.00 KR
+                           TTP UMUM-KONTROL
+
+                           STM-CAPIL 0201/BPK
+
+                           To Acc.No.- IDR1502800011031
+
+                           STM-CAPIL 0201/BPK
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634593 / 0010004008370
+ USER CETAK DMUSER.1                         DISPENCAPIL KOTA BANJARMASIN
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     002
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                       176,802,948.00
+
+
+
+                                                 Total Mutasi :             8,920,000.00         185,722,94       176,802,948.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              Tanggal, 14-06-2021
+
+
+
+
+
+                                                                                             (_______________________)
+
+
+*

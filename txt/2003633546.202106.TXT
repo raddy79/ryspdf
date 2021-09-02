@@ -1,0 +1,3257 @@
+
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     001
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                                 0.00
+
+11 JUN 2021  FT21162JBFXJ  Transfer In                                              0.00       2,521,409,68     2,521,409,682.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165WJ09R  Transfer In                                              0.00               9,09     2,521,418,774.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT2116535ZJV  Transfer In                                              0.00             354,09     2,521,772,865.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165H0X94  Transfer In                                              0.00              70,81     2,521,843,683.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  TT21165P520F  Deposit Cash (Local Currency)                            0.00              53,20     2,521,896,883.00 KR
+                           setoran pajak
+14 JUN 2021  TT21165TVV8W  Deposit Cash (Local Currency)                            0.00              18,18     2,521,915,065.00 KR
+                           setoran pajak 025388002591088
+14 JUN 2021  TT21165MS75C  Deposit Cash (Local Currency)                            0.00             600,00     2,522,515,065.00 KR
+                           SET BILLING AN KUA BJM SELATAN
+14 JUN 2021  FT21165T2WL5  Transfer In                                              0.00             104,90     2,522,619,974.00 KR
+                           999999
+
+                           PEMBAYARAN PAJAK
+
+                           Cheque No:
+
+                           PEMBAYARAN PAJAK
+14 JUN 2021  FT21165RJBHG  Transfer In                                              0.00             524,54     2,523,144,519.00 KR
+                           999999
+
+                           PEMBAYARAN PAJAK SURIYADI
+
+                           Cheque No:
+
+                           PEMBAYARAN PAJAK SURIYADI
+14 JUN 2021  TT21165Y0DTH  Deposit Cash (Local Currency)                            0.00             240,00     2,523,384,519.00 KR
+                           PAJAK
+14 JUN 2021  TT21165M1VCY  Deposit Cash (Local Currency)                            0.00             105,00     2,523,489,519.00 KR
+                           PAJAK
+14 JUN 2021  TT211658JV7Z  Deposit Cash (Local Currency)                            0.00               6,60     2,523,496,119.00 KR
+                           PAJAK
+14 JUN 2021  TT211655LYVN  Deposit Cash (Local Currency)                            0.00           3,409,09     2,526,905,210.00 KR
+                           PAJAK
+14 JUN 2021  TT21165QXQ29  Deposit Cash (Local Currency)                            0.00             511,36     2,527,416,574.00 KR
+                           PAJAK
+14 JUN 2021  TT21165TCPVK  Deposit Cash (Local Currency)                            0.00              37,50     2,527,454,074.00 KR
+                           PAJAK
+14 JUN 2021  TT21165JWD2K  Deposit Cash (Local Currency)                            0.00              30,00     2,527,484,074.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165CLB5D  Deposit Cash (Local Currency)                            0.00           1,726,44     2,529,210,514.00 KR
+                           PAJAK
+14 JUN 2021  FT21165G4QHM  Transfer In                                              0.00              36,60     2,529,247,114.00 KR
+                           999999
+
+                           PAJAK 922/BPK/UP/2.08.01/2021
+
+                           Cheque No:
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     002
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     2,529,247,114.00
+
+
+                           PAJAK 922/BPK/UP/2.08.01/2021
+14 JUN 2021  TT211650VT86  Deposit Cash (Local Currency)                            0.00           2,589,66     2,531,836,774.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165TZVPS  Deposit Cash (Local Currency)                            0.00             258,97     2,532,095,749.00 KR
+                           PAJAK
+14 JUN 2021  TT21165253HZ  Deposit Cash (Local Currency)                            0.00           1,035,88     2,533,131,631.00 KR
+                           PAJAK
+14 JUN 2021  FT21165NMW0B  Transfer In                                              0.00              61,00     2,533,192,631.00 KR
+                           999999
+
+                           PJK 920/BPK/UP/2.08.01/2021
+
+                           Cheque No:
+
+                           PJK 920/BPK/UP/2.08.01/2021
+14 JUN 2021  FT21165B83XB  Transfer In                                              0.00             391,62     2,533,584,258.00 KR
+                           999999
+
+                           PJK 830/BPK/UP/5.05.01/2021
+
+                           Cheque No:
+
+                           PJK 830/BPK/UP/5.05.01/2021
+14 JUN 2021  FT211656Z26G  Transfer In                                              0.00           5,369,50     2,538,953,758.00 KR
+                           999999
+
+                           PJK 2929/BPK/UP/4.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2929/BPK/UP/4.01.01/2021
+14 JUN 2021  FT21165X1N7P  Transfer In                                              0.00           1,635,91     2,540,589,673.00 KR
+                           999999
+
+                           PJK 1059/BPK/UP/2.16.01/2021
+
+                           Cheque No:
+
+                           PJK 1059/BPK/UP/2.16.01/2021
+14 JUN 2021  FT21165NJT7T  Transfer In                                              0.00           3,094,28     2,543,683,957.00 KR
+                           999999
+
+                           PJK 1383/BPK/UP/3.27.02/2021
+
+                           Cheque No:
+
+                           PJK 1383/BPK/UP/3.27.02/2021
+14 JUN 2021  FT21165C60CT  Transfer In                                              0.00              80,00     2,543,763,957.00 KR
+                           999999
+
+                           PJK 829/BPK/UP/5.05.01/2021
+
+                           Cheque No:
+
+                           PJK 829/BPK/UP/5.05.01/2021
+14 JUN 2021  FT21165WPR2X  Transfer In                                              0.00             439,09     2,544,203,048.00 KR
+                           999999
+
+                           PJK 2670/BPK/UP/1.01.01/2021
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     003
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     2,544,203,048.00
+
+
+                           Cheque No:
+
+                           PJK 2670/BPK/UP/1.01.01/2021
+14 JUN 2021  FT21165R7NBT  Transfer In                                              0.00             690,47     2,544,893,518.00 KR
+                           999999
+
+                           PJK 2668/BPK/UP/1.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2668/BPK/UP/1.01.01/2021
+14 JUN 2021  FT21165X5TJW  Transfer In                                              0.00           2,782,95     2,547,676,468.00 KR
+                           999999
+
+                           PJK 2928/BPK/UP/4.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2928/BPK/UP/4.01.01/2021
+14 JUN 2021  FT21165YLPD7  Transfer In                                              0.00           4,720,45     2,552,396,918.00 KR
+                           999999
+
+                           PJK 2927/BPK/UP/4.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2927/BPK/UP/4.01.01/2021
+14 JUN 2021  FT21165DJ025  Transfer In                                              0.00           2,994,60     2,555,391,518.00 KR
+                           999999
+
+                           PJK 2928/BPK/UP/4.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2928/BPK/UP/4.01.01/2021
+14 JUN 2021  FT21165VT0CV  Transfer In                                              0.00             545,45     2,555,936,972.00 KR
+                           999999
+
+                           PJK 2925/BPK/UP/4.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2925/BPK/UP/4.01.01/2021
+14 JUN 2021  FT21165F1XC5  Transfer In                                              0.00             545,45     2,556,482,426.00 KR
+                           999999
+
+                           PJK 2924/BPK/UP/4.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2924/BPK/UP/4.01.01/2021
+14 JUN 2021  FT21165TYQH8  Transfer In                                              0.00             545,45     2,557,027,880.00 KR
+                           999999
+
+                           PJK 2923/BPK/UP/4.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2923/BPK/UP/4.01.01/2021
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     004
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     2,557,027,880.00
+
+14 JUN 2021  FT21165QVYK4  Transfer In                                              0.00             346,40     2,557,374,280.00 KR
+                           999999
+
+                           PJK 2919/BPK/UP/4.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2919/BPK/UP/4.01.01/2021
+14 JUN 2021  FT21165SV0GP  Transfer In                                              0.00              72,60     2,557,446,880.00 KR
+                           999999
+
+                           PJK 2922/BPK/UP/4.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2922/BPK/UP/4.01.01/2021
+14 JUN 2021  FT211655CHFQ  Transfer In                                              0.00           1,139,50     2,558,586,380.00 KR
+                           999999
+
+                           PJK 2920/BPK/UP/4.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2920/BPK/UP/4.01.01/2021
+14 JUN 2021  FT21165CQ19V  Transfer In                                              0.00              48,80     2,558,635,180.00 KR
+                           999999
+
+                           PJK 921/BPK/UP/2.08.01/2021
+
+                           Cheque No:
+
+                           PJK 921/BPK/UP/2.08.01/2021
+14 JUN 2021  FT21165ZF80V  Transfer In                                              0.00             217,95     2,558,853,136.00 KR
+                           999999
+
+                           PJK 2665/BPK/UP/1.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2665/BPK/UP/1.01.01/2021
+14 JUN 2021  FT211651ZZ13  Transfer In                                              0.00              53,68     2,558,906,816.00 KR
+                           999999
+
+                           PJK 1097/BPK/UP/2.11.01/2021
+
+                           Cheque No:
+
+                           PJK 1097/BPK/UP/2.11.01/2021
+14 JUN 2021  FT21165319RF  Transfer In                                              0.00             217,95     2,559,124,772.00 KR
+                           999999
+
+                           PJK 2666/BPK/UP/1.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2666/BPK/UP/1.01.01/2021
+14 JUN 2021  FT21165WKZYW  Transfer In                                              0.00             217,95     2,559,342,728.00 KR
+                           999999
+
+                           PJK 2664/BPK/UP/1.01.01/2021
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     005
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     2,559,342,728.00
+
+
+                           Cheque No:
+
+                           PJK 2664/BPK/UP/1.01.01/2021
+14 JUN 2021  FT21165K8DBM  Transfer In                                              0.00              45,90     2,559,388,628.00 KR
+                           999999
+
+                           PJK CMS
+
+                           Cheque No:
+
+                           PJK CMS
+14 JUN 2021  FT21165VV3V2  Transfer In                                              0.00              32,02     2,559,420,653.00 KR
+                           999999
+
+                           PJK CMS
+
+                           Cheque No:
+
+                           PJK CMS
+14 JUN 2021  FT211655MQ1T  Transfer In                                              0.00              32,00     2,559,452,653.00 KR
+                           999999
+
+                           PJK CMS
+
+                           Cheque No:
+
+                           PJK CMS
+14 JUN 2021  FT21165VY36S  Transfer In                                              0.00              32,00     2,559,484,653.00 KR
+                           999999
+
+                           PJK CMS
+
+                           Cheque No:
+
+                           PJK CMS
+14 JUN 2021  FT21165SXMRW  Transfer In                                              0.00              32,00     2,559,516,653.00 KR
+                           999999
+
+                           PJK CMS
+
+                           Cheque No:
+
+                           PJK CMS
+14 JUN 2021  FT21165QHXXY  Transfer In                                              0.00              30,50     2,559,547,153.00 KR
+                           999999
+
+                           PJK CMS
+
+                           Cheque No:
+
+                           PJK CMS
+14 JUN 2021  FT21165Y0GQ7  Transfer In                                              0.00              30,50     2,559,577,653.00 KR
+                           999999
+
+                           PJK CMS
+
+                           Cheque No:
+
+                           PJK CMS
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     006
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     2,559,577,653.00
+
+14 JUN 2021  FT21165KQNDV  Transfer In                                              0.00              48,80     2,559,626,453.00 KR
+                           999999
+
+                           PJK CMS
+
+                           Cheque No:
+
+                           PJK CMS
+14 JUN 2021  FT2116549806  Transfer In                                              0.00           1,134,54     2,560,760,999.00 KR
+                           999999
+
+                           PJK CMS
+
+                           Cheque No:
+
+                           PJK CMS
+14 JUN 2021  TT21165GZNJB  Deposit Cash (Local Currency)                            0.00          30,886,00     2,591,646,999.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  FT2116598BT7  Transfer In                                              0.00           1,612,50     2,593,259,499.00 KR
+                           999999
+
+                           PJK CMS
+
+                           Cheque No:
+
+                           PJK CMS
+14 JUN 2021  FT21165RK51F  Transfer In                                              0.00             183,00     2,593,442,499.00 KR
+                           999999
+
+                           PJK CMS
+
+                           Cheque No:
+
+                           PJK CMS
+14 JUN 2021  FT21165JCFR5  Transfer In                                              0.00             247,50     2,593,689,999.00 KR
+                           999999
+
+                           PJK CMS
+
+                           Cheque No:
+
+                           PJK CMS
+14 JUN 2021  FT211658PYZP  Transfer In                                              0.00           5,000,00     2,598,689,999.00 KR
+                           999999
+
+                           PJK 2866/BPK/UP/4.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2866/BPK/UP/4.01.01/2021
+14 JUN 2021  FT211658Y59K  Transfer In                                              0.00              42,30     2,598,732,299.00 KR
+                           999999
+
+                           PJK 2679/BPK/UP/1.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2679/BPK/UP/1.01.01/2021
+14 JUN 2021  FT21165JRGL0  Transfer In                                              0.00             669,09     2,599,401,390.00 KR
+                           999999
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     007
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     2,599,401,390.00
+
+
+                           PJK 2680/BPK/UP/1.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2680/BPK/UP/1.01.01/2021
+14 JUN 2021  FT211652XYDZ  Transfer In                                              0.00              76,86     2,599,478,250.00 KR
+                           999999
+
+                           PJK 2697/BPK/UP/1.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2697/BPK/UP/1.01.01/2021
+14 JUN 2021  FT211656LPJG  Transfer In                                              0.00             297,00     2,599,775,250.00 KR
+                           999999
+
+                           PJK 2921/BPK/UP/4.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2921/BPK/UP/4.01.01/2021
+14 JUN 2021  FT21165G6KHK  Transfer In                                              0.00             545,45     2,600,320,704.00 KR
+                           999999
+
+                           PJK 2867/BPK/UP/4.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2867/BPK/UP/4.01.01/2021
+14 JUN 2021  FT21165P8TWF  Transfer In                                              0.00             690,47     2,601,011,174.00 KR
+                           999999
+
+                           PJK 2667/BPK/UP/1.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2667/BPK/UP/1.01.01/2021
+14 JUN 2021  FT21165P5FYZ  Transfer In                                              0.00              44,10     2,601,055,274.00 KR
+                           999999
+
+                           PJK 2675/BPK/UP/1.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2675/BPK/UP/1.01.01/2021
+14 JUN 2021  FT21165VWNX8  Transfer In                                              0.00              44,10     2,601,099,374.00 KR
+                           999999
+
+                           PJK 2676/BPK/UP/1.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2676/BPK/UP/1.01.01/2021
+14 JUN 2021  FT21165K0RJ2  Transfer In                                              0.00             147,42     2,601,246,803.00 KR
+                           INTERBANK
+
+                           820210612840320 BEDN PP PUSKESMAS
+
+                           TRX SKN
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     008
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     2,601,246,803.00
+
+
+                           -
+
+                           Receipt No: TT211651HQNM
+
+                           Card No:
+14 JUN 2021  FT2116515PF4  Transfer In                                              0.00              42,30     2,601,289,103.00 KR
+                           999999
+
+                           PJK 2677/BPK/UP/1.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2677/BPK/UP/1.01.01/2021
+14 JUN 2021  FT21165NXYQW  Transfer In                                              0.00              36,90     2,601,326,003.00 KR
+                           999999
+
+                           PJK 2678/BPK/UP/1.01.01/2021
+
+                           Cheque No:
+
+                           PJK 2678/BPK/UP/1.01.01/2021
+14 JUN 2021  TT21165QRRB7  Deposit Cash (Local Currency)                            0.00           4,003,34     2,605,329,347.00 KR
+                           SETORAN TUNAI BILLING SADAM
+14 JUN 2021  TT211652Q79T  Deposit Cash (Local Currency)                            0.00              70,50     2,605,399,847.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165S42PC  Deposit Cash (Local Currency)                            0.00              70,50     2,605,470,347.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165W6PP6  Deposit Cash (Local Currency)                            0.00              70,50     2,605,540,847.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165JSJHG  Deposit Cash (Local Currency)                            0.00               9,60     2,605,550,447.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  FT21165S05RX  Transfer In                                              0.00           8,504,10     2,614,054,547.00 KR
+                           999999
+
+                           TOTAL PAJAK SP2D
+
+                           Cheque No:
+
+                           TOTAL PAJAK SP2D
+14 JUN 2021  TT21165TR330  Deposit Cash (Local Currency)                            0.00              62,50     2,614,117,047.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165PS831  Deposit Cash (Local Currency)                            0.00              15,00     2,614,132,047.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT211652Q6FM  Deposit Cash (Local Currency)                            0.00              10,00     2,614,142,047.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT211652FJ7Z  Deposit Cash (Local Currency)                            0.00              21,00     2,614,163,047.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165LDT1S  Deposit Cash (Local Currency)                            0.00              30,00     2,614,193,047.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165V90N1  Deposit Cash (Local Currency)                            0.00              10,00     2,614,203,047.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165Z4GWZ  Deposit Cash (Local Currency)                            0.00             120,00     2,614,323,047.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT2116516DHF  Deposit Cash (Local Currency)                            0.00             112,27     2,614,435,320.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT2116571CRF  Deposit Cash (Local Currency)                            0.00              52,50     2,614,487,820.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165JWJS8  Deposit Cash (Local Currency)                            0.00              50,00     2,614,537,820.00 KR
+                           PAJAK MPN
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     009
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     2,614,537,820.00
+
+14 JUN 2021  TT21165JKXVM  Deposit Cash (Local Currency)                            0.00             648,00     2,615,185,820.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165BV7WG  Deposit Cash (Local Currency)                            0.00             648,00     2,615,833,820.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165G1Y6P  Deposit Cash (Local Currency)                            0.00             163,63     2,615,997,456.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT2116591XPG  Deposit Cash (Local Currency)                            0.00              60,00     2,616,057,456.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165NFZNK  Deposit Cash (Local Currency)                            0.00              29,00     2,616,086,464.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT2116527PJ5  Deposit Cash (Local Currency)                            0.00             212,72     2,616,299,191.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165K1D0N  Deposit Cash (Local Currency)                            0.00              35,95     2,616,335,141.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165NVW5P  Deposit Cash (Local Currency)                            0.00             263,63     2,616,598,777.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT2116545QXK  Deposit Cash (Local Currency)                            0.00             324,54     2,616,923,322.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT211651YGD4  Deposit Cash (Local Currency)                            0.00               4,00     2,616,927,322.00 KR
+                           SETORAN PAJAK
+14 JUN 2021  TT21165RFB46  Deposit Cash (Local Currency)                            0.00              44,25     2,616,971,578.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165T4QQ2  Deposit Cash (Local Currency)                            0.00              11,87     2,616,983,450.00 KR
+                           BANK KALSEL OPR
+14 JUN 2021  TT21165G33B0  Deposit Cash (Local Currency)                            0.00              75,00     2,617,058,450.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT211650JFYN  Deposit Cash (Local Currency)                            0.00              40,00     2,617,098,450.00 KR
+                           SETORAN PAJAK
+14 JUN 2021  TT21165YRPNH  Deposit Cash (Local Currency)                            0.00               2,62     2,617,101,075.00 KR
+                           SETORAN PAJAK
+14 JUN 2021  TT21165LF2CZ  Deposit Cash (Local Currency)                            0.00             864,00     2,617,965,075.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165ZGR3X  Deposit Cash (Local Currency)                            0.00              90,30     2,618,055,375.00 KR
+                           SETORAN PAJAK
+14 JUN 2021  TT21165S3B3R  Deposit Cash (Local Currency)                            0.00             112,50     2,618,167,875.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165TQVMG  Deposit Cash (Local Currency)                            0.00             136,36     2,618,304,239.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT211656VDHD  Deposit Cash (Local Currency)                            0.00               4,00     2,618,308,239.00 KR
+                           SETORAN PAJAK
+14 JUN 2021  TT21165ZT2DX  Deposit Cash (Local Currency)                            0.00             864,00     2,619,172,239.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT211656YPP3  Deposit Cash (Local Currency)                            0.00               6,00     2,619,178,239.00 KR
+                           SETORAN PAJAK
+14 JUN 2021  TT2116514CZB  Deposit Cash (Local Currency)                            0.00              75,00     2,619,253,239.00 KR
+                           SETORAN PAJAK
+14 JUN 2021  TT21165NJFBC  Deposit Cash (Local Currency)                            0.00             100,45     2,619,353,694.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165DV2QN  Deposit Cash (Local Currency)                            0.00              90,00     2,619,443,694.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT211658PGR2  Deposit Cash (Local Currency)                            0.00             330,00     2,619,773,694.00 KR
+                           SETORAN PAJAK
+14 JUN 2021  TT21165DW6PJ  Deposit Cash (Local Currency)                            0.00              45,00     2,619,818,694.00 KR
+                           SETORAN PAJAK
+14 JUN 2021  TT21165QJJ4H  Deposit Cash (Local Currency)                            0.00             113,63     2,619,932,330.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165Z083Q  Deposit Cash (Local Currency)                            0.00              55,00     2,619,987,330.00 KR
+                           SETORAN PAJAK
+14 JUN 2021  TT211659950V  Deposit Cash (Local Currency)                            0.00             163,63     2,620,150,966.00 KR
+                           PAJAK MPN
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     010
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     2,620,150,966.00
+
+14 JUN 2021  TT211650XXH4  Deposit Cash (Local Currency)                            0.00              94,18     2,620,245,148.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT211651QB9T  Deposit Cash (Local Currency)                            0.00           6,032,19     2,626,277,344.00 KR
+                           PAJAK MPN
+14 JUN 2021  FT21165C9G70  Transfer In                                              0.00           8,893,05     2,635,170,398.00 KR
+                           INTERBANK
+
+                           SETORAN
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165RQ4YW
+
+                           Card No:
+14 JUN 2021  TT21165TP6M6  Deposit Cash (Local Currency)                            0.00          15,965,66     2,651,136,062.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165QMZYL  Deposit Cash (Local Currency)                            0.00             115,09     2,651,251,160.00 KR
+                           MPN 820210614887275
+14 JUN 2021  TT21165MLQ2Q  Deposit Cash (Local Currency)                            0.00          51,804,03     2,703,055,196.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165QC2VP  Deposit Cash (Local Currency)                            0.00              86,40     2,703,141,596.00 KR
+                           PAJAK
+14 JUN 2021  TT21165HKZ41  Deposit Cash (Local Currency)                            0.00         136,778,54     2,839,920,141.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165SBXR9  Deposit Cash (Local Currency)                            0.00             115,09     2,840,035,239.00 KR
+                           MPN 820210614887404
+14 JUN 2021  TT21165BN16N  Deposit Cash (Local Currency)                            0.00              90,00     2,840,125,239.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165KW86Q  Deposit Cash (Local Currency)                            0.00             115,09     2,840,240,337.00 KR
+                           MPN 820210614888068
+14 JUN 2021  TT211659RH0Z  Deposit Cash (Local Currency)                            0.00             345,30     2,840,585,637.00 KR
+                           PAJAK
+14 JUN 2021  TT21165SN20Y  Deposit Cash (Local Currency)                            0.00              37,50     2,840,623,137.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165PMLKZ  Deposit Cash (Local Currency)                            0.00              14,25     2,840,637,387.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165V3R66  Deposit Cash (Local Currency)                            0.00             115,09     2,840,752,485.00 KR
+                           MPN 820210614887855
+14 JUN 2021  TT21165XBNJT  Deposit Cash (Local Currency)                            0.00             322,00     2,841,074,485.00 KR
+                           PAJAK
+14 JUN 2021  TT211657P6PC  Deposit Cash (Local Currency)                            0.00              90,00     2,841,164,485.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT211651Z6YQ  Deposit Cash (Local Currency)                            0.00             100,80     2,841,265,285.00 KR
+                           PAJAK
+14 JUN 2021  TT21165HMBGG  Deposit Cash (Local Currency)                            0.00              37,50     2,841,302,785.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165Q1JQ1  Deposit Cash (Local Currency)                            0.00              14,25     2,841,317,035.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165GC4HT  Deposit Cash (Local Currency)                            0.00              19,80     2,841,336,835.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00              13,46     2,841,350,297.00 KR
+                           PAJAK SUNGAI RUTAS HULU
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00              11,53     2,841,361,835.00 KR
+                           PAJAK SUNGAI RUTAS HULU
+14 JUN 2021  TT211653FD7J  Deposit Cash (Local Currency)                            0.00              27,27     2,841,389,108.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165KS0H9  Deposit Cash (Local Currency)                            0.00              18,18     2,841,407,290.00 KR
+                           PAJAK MPN
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     011
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     2,841,407,290.00
+
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00              20,19     2,841,427,482.00 KR
+                           PAJAK PABAUNGAN HULU
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00              23,55     2,841,451,040.00 KR
+                           PAJAK PABAUNGAN HULU
+14 JUN 2021  TT211650W7YH  Deposit Cash (Local Currency)                            0.00              86,40     2,841,537,440.00 KR
+                           025387665220157
+14 JUN 2021  TT21165NV2W9  Deposit Cash (Local Currency)                            0.00              80,00     2,841,617,440.00 KR
+                           025387663654111
+14 JUN 2021  TT21165DNF6Z  Deposit Cash (Local Currency)                            0.00             288,00     2,841,905,440.00 KR
+                           025387664812120
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00              13,46     2,841,918,902.00 KR
+                           PAJAK PABAUNGAN HILIR
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00              11,53     2,841,930,440.00 KR
+                           PAJAK PABAUNGAN HILIR
+14 JUN 2021  TT21165GR93W  Deposit Cash (Local Currency)                            0.00             200,00     2,842,130,440.00 KR
+                           025387662189159
+14 JUN 2021  TT21165PH3BQ  Deposit Cash (Local Currency)                            0.00              33,60     2,842,164,040.00 KR
+                           225329867639037
+14 JUN 2021  TT2116545VMX  Deposit Cash (Local Currency)                            0.00             490,00     2,842,654,040.00 KR
+                           ID BILLING IWAN 025387932295042
+14 JUN 2021  TT211659HJ4R  Deposit Cash (Local Currency)                            0.00              55,80     2,842,709,840.00 KR
+                           225329867791128
+14 JUN 2021  TT211651ZJGL  Deposit Cash (Local Currency)                            0.00              55,80     2,842,765,640.00 KR
+                           225329867895071
+14 JUN 2021  TT21165RDXHT  Deposit Cash (Local Currency)                            0.00              12,00     2,842,777,640.00 KR
+                           225329868043008
+14 JUN 2021  TT21165K8PYD  Deposit Cash (Local Currency)                            0.00              22,00     2,842,799,640.00 KR
+                           225329868419024
+14 JUN 2021  TT21165CTC72  Deposit Cash (Local Currency)                            0.00           9,647,49     2,852,447,132.00 KR
+                           ID BILLING LOGAM J 025387932230135
+14 JUN 2021  TT21165H8RW5  Deposit Cash (Local Currency)                            0.00             260,00     2,852,707,132.00 KR
+                           MPN KEC TANJUNG KAB TAB
+14 JUN 2021  TT211651S0NB  Deposit Cash (Local Currency)                            0.00             100,00     2,852,807,132.00 KR
+                           ID BILLING HARIS 02538932422022
+14 JUN 2021  TT21165FF0M7  Deposit Cash (Local Currency)                            0.00             653,11     2,853,460,242.00 KR
+                           025387979150015 NOORHANNY SPD
+14 JUN 2021  TT211656NYW8  Deposit Cash (Local Currency)                            0.00           8,115,88     2,861,576,123.00 KR
+                           025387969388042 SMART JAYA TECH
+14 JUN 2021  TT21165F8N4K  Deposit Cash (Local Currency)                            0.00             150,00     2,861,726,123.00 KR
+                           ID BILLING M SYAHRANI0253879323480
+14 JUN 2021  TT21165GH4TD  Deposit Cash (Local Currency)                            0.00             675,00     2,862,401,123.00 KR
+                           MPN KEC TANJUNG KAB TAB
+14 JUN 2021  TT21165MW25B  Deposit Cash (Local Currency)                            0.00           1,100,21     2,863,501,336.00 KR
+                           IDBILLING PARLIN RS 02538789422800
+14 JUN 2021  TT21165ZKWPG  Deposit Cash (Local Currency)                            0.00             335,05     2,863,836,386.00 KR
+                           IDBILLING PARLIN RS025387896121082
+14 JUN 2021  TT21165F149Y  Deposit Cash (Local Currency)                            0.00              41,50     2,863,877,886.00 KR
+                           MPN KEC TANJUNG KAB TAB
+14 JUN 2021  FT211653M4CB  Transfer In                                              0.00           8,357,56     2,872,235,455.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  TT21165RZVQ6  Deposit Cash (Local Currency)                            0.00             850,00     2,873,085,455.00 KR
+                           225329879343026 BEND SDNPULAUPANCI
+14 JUN 2021  TT21165MK1DL  Deposit Cash (Local Currency)                            0.00             150,00     2,873,235,455.00 KR
+                           IDBILLING DHINAR 225329792689000
+14 JUN 2021  FT21165DQN22  Transfer In                                              0.00           5,849,76     2,879,085,217.00 KR
+                           999999
+
+                           Cheque No:
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     012
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     2,879,085,217.00
+
+14 JUN 2021  FT211655RWB7  Transfer In                                              0.00           1,523,85     2,880,609,067.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165NHH7R  Transfer In                                              0.00           6,781,75     2,887,390,826.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  TT21165673SM  Deposit Cash (Local Currency)                            0.00             105,03     2,887,495,859.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  FT21165GDWKM  Transfer In                                              0.00           1,783,55     2,889,279,409.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT2116592BZT  Transfer In                                              0.00             590,30     2,889,869,709.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165K9N11  Transfer In                                              0.00           1,041,50     2,890,911,209.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165M7SDY  Transfer In                                              0.00           4,417,28     2,895,328,494.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  TT21165QTLQ1  Deposit Cash (Local Currency)                            0.00             169,00     2,895,497,494.00 KR
+                           MPN KEC TANJUNG KAB TAB
+14 JUN 2021  TT21165PPXKJ  Deposit Cash (Local Currency)                            0.00             126,00     2,895,623,494.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165BGK8Y  Deposit Cash (Local Currency)                            0.00             123,00     2,895,746,494.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  FT211653FWS1  Transfer In                                              0.00           1,008,20     2,896,754,694.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  TT21165T6XN1  Deposit Cash (Local Currency)                            0.00             123,00     2,896,877,694.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165N08LL  Deposit Cash (Local Currency)                            0.00              26,75     2,896,904,444.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT211659F69G  Deposit Cash (Local Currency)                            0.00             123,00     2,897,027,444.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165D1T5X  Deposit Cash (Local Currency)                            0.00          41,469,60     2,938,497,044.00 KR
+                           025387923594099 SARABAKAWA
+14 JUN 2021  TT21165B6ZC4  Deposit Cash (Local Currency)                            0.00              95,25     2,938,592,294.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165SKR15  Deposit Cash (Local Currency)                            0.00              95,25     2,938,687,544.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  FT21165B38J9  Transfer In                                              0.00           2,501,95     2,941,189,495.00 KR
+                           TRANSAKSI MPN
+
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  TT21165VFN08  Deposit Cash (Local Currency)                            0.00             106,50     2,941,295,995.00 KR
+                           SETORAN TUNAI
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     013
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     2,941,295,995.00
+
+14 JUN 2021  TT21165Z27R2  Deposit Cash (Local Currency)                            0.00              23,50     2,941,319,495.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165LFL7H  Deposit Cash (Local Currency)                            0.00              51,81     2,941,371,313.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165GN3L0  Deposit Cash (Local Currency)                            0.00             345,45     2,941,716,767.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT211658N5R4  Deposit Cash (Local Currency)                            0.00           8,000,00     2,949,716,767.00 KR
+                           SETORAN PAJAK PT. MAESSAFNA
+14 JUN 2021  TT21165DQLMR  Deposit Cash (Local Currency)                            0.00             287,28     2,950,004,047.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  FT21165P5TF9  Transfer In                                              0.00             714,35     2,950,718,397.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165J62H2  Transfer In                                              0.00             565,15     2,951,283,547.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  TT21165B9DLB  Deposit Cash (Local Currency)                            0.00           1,112,80     2,952,396,347.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165QSSG7  Deposit Cash (Local Currency)                            0.00              74,00     2,952,470,347.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT2116548NPW  Deposit Cash (Local Currency)                            0.00             520,00     2,952,990,347.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT211650W0RJ  Deposit Cash (Local Currency)                            0.00             725,00     2,953,715,347.00 KR
+                           PAJAK MPN
+14 JUN 2021  FT21165MS2RH  Transfer In                                              0.00             993,50     2,954,708,847.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT211652Z8KS  Transfer In                                              0.00             611,20     2,955,320,047.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  TT211658XF4G  Deposit Cash (Local Currency)                            0.00           1,800,00     2,957,120,047.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165HV7CQ  Deposit Cash (Local Currency)                            0.00             780,00     2,957,900,047.00 KR
+                           PAJAK MPN
+14 JUN 2021  FT21165MPLXC  Transfer In                                              0.00              47,88     2,957,947,927.00 KR
+                           INTERBANK
+
+                           PEMB MPN 025387018927037
+
+                           TRX SKN
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     014
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     2,957,947,927.00
+
+
+                           -
+
+                           Receipt No: TT21165DTJK8
+
+                           Card No:
+14 JUN 2021  TT21165VJB1R  Deposit Cash (Local Currency)                            0.00              50,00     2,957,997,927.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT2116553VS3  Deposit Cash (Local Currency)                            0.00              50,00     2,958,047,927.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165HZQP1  Deposit Cash (Local Currency)                            0.00         114,180,75     3,072,228,682.00 KR
+                           TOTAL PAJAK KESELURUHAN
+14 JUN 2021  FT21165K0HCR  Transfer In                                              0.00           4,625,17     3,076,853,852.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165NLRRT  Transfer In                                              0.00             218,10     3,077,071,952.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT211650ZQ2Y  Transfer In                                              0.00             218,10     3,077,290,052.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  TT21165XBD05  Deposit Cash (Local Currency)                            0.00           4,250,00     3,081,540,052.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165SHGZN  Deposit Cash (Local Currency)                            0.00              60,00     3,081,600,052.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165N5DFD  Deposit Cash (Local Currency)                            0.00           4,250,00     3,085,850,052.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165YZHCX  Deposit Cash (Local Currency)                            0.00             799,50     3,086,649,552.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165WR1MN  Deposit Cash (Local Currency)                            0.00           1,956,00     3,088,605,552.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT211651K9YQ  Deposit Cash (Local Currency)                            0.00           9,780,00     3,098,385,552.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT211650SGTY  Deposit Cash (Local Currency)                            0.00             122,72     3,098,508,279.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165G1BW5  Deposit Cash (Local Currency)                            0.00              90,90     3,098,599,188.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165C06L9  Deposit Cash (Local Currency)                            0.00             454,54     3,099,053,733.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT2116501JJP  Deposit Cash (Local Currency)                            0.00             100,00     3,099,153,733.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165BW3WF  Deposit Cash (Local Currency)                            0.00             500,00     3,099,653,733.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165B0591  Deposit Cash (Local Currency)                            0.00             109,09     3,099,762,824.00 KR
+                           PAJAK MPN
+14 JUN 2021  TT21165RWMSW  Deposit Cash (Local Currency)                            0.00             545,45     3,100,308,279.00 KR
+                           PAJAK MPN
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00             855,00     3,101,163,279.00 KR
+                           PB 900/303/DISPUSIP/2021
+14 JUN 2021  TT21165XVFS8  Deposit Cash (Local Currency)                            0.00              21,00     3,101,184,279.00 KR
+                           pajak
+14 JUN 2021  TT21165R1X2V  Deposit Cash (Local Currency)                            0.00             106,80     3,101,291,079.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165PNDHS  Deposit Cash (Local Currency)                            0.00             712,00     3,102,003,079.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165X2DYX  Deposit Cash (Local Currency)                            0.00             200,47     3,102,203,554.00 KR
+                           SETORAN TUNAI
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     015
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,102,203,554.00
+
+14 JUN 2021  TT21165JG4TH  Deposit Cash (Local Currency)                            0.00           1,338,50     3,103,542,054.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00             522,72     3,104,064,781.00 KR
+                           PB 900/879/DKPP/2021
+14 JUN 2021  FT2116500LF3  Transfer In                                              0.00          67,075,25     3,171,140,031.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT211652CC1F  Transfer In                                              0.00           1,331,90     3,172,471,931.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT2116505LJ8  Transfer In                                              0.00           1,273,90     3,173,745,831.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT211652J6J4  Transfer In                                              0.00           2,329,66     3,176,075,494.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT211656K7T3  Transfer In                                              0.00           4,486,70     3,180,562,194.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT211654FC4Z  Transfer In                                              0.00             432,40     3,180,994,594.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT211653KGQT  Transfer In                                              0.00             600,70     3,181,595,294.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     016
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,181,595,294.00
+
+14 JUN 2021  FT211656PWZ4  Transfer In                                              0.00             971,15     3,182,566,444.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00             269,90     3,182,836,344.00 KR
+                           PB 900/094/VI/KEC.BAJUIN/2021
+14 JUN 2021  FT211659CTMV  Transfer In                                              0.00             850,05     3,183,686,394.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165C13KH  Transfer In                                              0.00           3,181,81     3,186,868,212.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT2116579BTW  Transfer In                                              0.00           4,207,34     3,191,075,561.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT211657KPKX  Transfer In                                              0.00           5,580,24     3,196,655,804.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165BTXV2  Transfer In                                              0.00           1,029,09     3,197,684,895.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165DTXGK  Transfer In                                              0.00           5,136,52     3,202,821,419.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165C298Y  Transfer In                                              0.00          87,117,75     3,289,939,169.00 KR
+                           999999
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     017
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,289,939,169.00
+
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165CN21Q  Transfer In                                              0.00             363,63     3,290,302,805.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165G4XVL  Transfer In                                              0.00             689,80     3,290,992,605.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT211659RBHZ  Transfer In                                              0.00             636,36     3,291,628,969.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165HZMPD  Transfer In                                              0.00           1,409,10     3,293,038,069.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165JG4BT  Transfer In                                              0.00           1,274,65     3,294,312,719.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165H84GC  Transfer In                                              0.00           3,254,90     3,297,567,619.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165J71K8  Transfer In                                              0.00             258,92     3,297,826,545.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     018
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,297,826,545.00
+
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT211651L6FG  Transfer In                                              0.00           7,250,25     3,305,076,795.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165HPB12  Transfer In                                              0.00             545,40     3,305,622,195.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00             237,49     3,305,859,693.00 KR
+                           PB 900/500/DISTANHORBUN/VI/2021
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00              87,75     3,305,947,443.00 KR
+                           PB 900/502/DISTANHORBUN/VI/2021
+14 JUN 2021  FT21165MVC79  Transfer In                                              0.00           1,713,00     3,307,660,443.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165JK2BC  Transfer In                                              0.00             739,90     3,308,400,343.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165L4R1K  Transfer In                                              0.00           4,252,67     3,312,653,014.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165M8PHJ  Transfer In                                              0.00             862,30     3,313,515,314.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165KLCLY  Transfer In                                              0.00           5,116,65     3,318,631,965.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     019
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,318,631,965.00
+
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165LY678  Transfer In                                              0.00           2,572,72     3,321,204,692.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165MQT0W  Transfer In                                              0.00           1,307,70     3,322,512,392.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165N2F0L  Transfer In                                              0.00           4,471,07     3,326,983,467.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165NZDFZ  Transfer In                                              0.00             454,54     3,327,438,012.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165NLY1P  Transfer In                                              0.00             219,55     3,327,657,562.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165Q841L  Transfer In                                              0.00           2,352,25     3,330,009,821.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165NHQZM  Transfer In                                              0.00             860,90     3,330,870,721.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00             225,00     3,331,095,721.00 KR
+                           PB 900/503/DISTANHORBUN/VI/2021
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     020
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,331,095,721.00
+
+14 JUN 2021  FT21165QF73C  Transfer In                                              0.00           3,343,14     3,334,438,863.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165QFTMV  Transfer In                                              0.00           1,491,10     3,335,929,963.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00              72,00     3,336,001,963.00 KR
+                           PB 900/410/SEKRT
+14 JUN 2021  FT21165WHYGK  Transfer In                                              0.00           1,818,18     3,337,820,145.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165RD93V  Transfer In                                              0.00           2,272,72     3,340,092,872.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165JMDFV  Transfer In                                              0.00           1,456,00     3,341,548,872.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165SYYX1  Transfer In                                              0.00           3,640,00     3,345,188,872.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165TZ8R0  Transfer In                                              0.00           1,928,22     3,347,117,098.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165TTGJQ  Transfer In                                              0.00           3,422,07     3,350,539,168.00 KR
+                           999999
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     021
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,350,539,168.00
+
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165418YN  Transfer In                                              0.00           1,727,27     3,352,266,441.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165TXCKX  Transfer In                                              0.00             963,65     3,353,230,091.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165YS7DL  Transfer In                                              0.00           1,450,05     3,354,680,141.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00             986,64     3,355,666,789.00 KR
+                           PB 197/DINKES/GU 3/2021
+14 JUN 2021  FT21165ZR2D8  Transfer In                                              0.00           5,174,27     3,360,841,066.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00              75,00     3,360,916,066.00 KR
+                           PB 900/051/SET-DPRD/TL/2021
+14 JUN 2021  FT211653X317  Transfer In                                              0.00           1,029,09     3,361,945,157.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165XS09G  Transfer In                                              0.00           1,727,27     3,363,672,430.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT211651S3N6  Transfer In                                              0.00           4,318,18     3,367,990,612.00 KR
+                           999999
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     022
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,367,990,612.00
+
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165J3MJ1  Transfer In                                              0.00           2,572,72     3,370,563,339.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT211659PFS0  Transfer In                                              0.00           4,318,18     3,374,881,521.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165D4498  Transfer In                                              0.00             105,46     3,374,986,983.00 KR
+                           999999
+
+                           TRANSAKSI MPN
+
+                           Cheque No:
+
+                           TRANSAKSI MPN
+14 JUN 2021  FT21165CPGQ3  Transfer In                                              0.00              12,00     3,374,998,983.00 KR
+                           999999
+
+                           PPH 23 CETAK KARTU NAMA
+
+                           Cheque No:
+
+                           PPH 23 CETAK KARTU NAMA
+14 JUN 2021  FT21165X2653  Transfer In                                              0.00               3,03     3,375,002,014.00 KR
+                           999999
+
+                           PPH 23 SLIP E VOUCHER
+
+                           Cheque No:
+
+                           PPH 23 SLIP E VOUCHER
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              81,00     3,375,083,014.00 KR
+                           PB 524/425/900/VI/2021
+14 JUN 2021  FT21165B2KH3  Transfer In                                              0.00              24,00     3,375,107,014.00 KR
+                           PJK AN KOMINFO
+
+                           999999
+
+                           pjk an kominfo
+
+                           Cheque No:
+
+                           pjk an kominfo
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              54,00     3,375,161,014.00 KR
+                           PB 524/424/900/VI/2021
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     023
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,375,161,014.00
+
+14 JUN 2021  FT2116530GCT  Transfer In                                              0.00             330,00     3,375,491,014.00 KR
+                           PJK AN DISDIK
+
+                           999999
+
+                           PJK AN DISIDK
+
+                           Cheque No:
+
+                           PJK AN DISIDK
+14 JUN 2021  FT21165WCK4R  Transfer In                                              0.00           2,160,00     3,377,651,014.00 KR
+                           PJK AN DPUPR
+
+                           999999
+
+                           PJK AN DPUPR
+
+                           Cheque No:
+
+                           PJK AN DPUPR
+14 JUN 2021  FT21165ZMHT3  Transfer In                                              0.00           9,660,00     3,387,311,014.00 KR
+                           PJK AN PROKOM
+
+                           999999
+
+                           PJK AN PROKOM
+
+                           Cheque No:
+
+                           PJK AN PROKOM
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              54,00     3,387,365,014.00 KR
+                           PB 524/423/900/VI/2021
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00             259,20     3,387,624,214.00 KR
+                           PJK AN KESRA
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00             240,00     3,387,864,214.00 KR
+                           PJK AN KESRA
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00             181,23     3,388,045,450.00 KR
+                           PJK AN KESRA
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00              27,18     3,388,072,635.00 KR
+                           PJK AN KESRA
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00              80,00     3,388,152,635.00 KR
+                           PJK AN KESRA
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00              80,00     3,388,232,635.00 KR
+                           PJK AN KESRA
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00             120,00     3,388,352,635.00 KR
+                           PJK AN KESRA
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00              80,00     3,388,432,635.00 KR
+                           PJK AN KESRA
+14 JUN 2021  FT21165Y949D  Transfer In                                              0.00             629,09     3,389,061,726.00 KR
+                           999999
+
+                           786/BPK/UP/2.19.01/2021
+
+                           Cheque No:
+
+                           786/BPK/UP/2.19.01/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00               9,00     3,389,070,726.00 KR
+
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00             259,80     3,389,330,526.00 KR
+                           PJK AN TAPTENG
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     024
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,389,330,526.00
+
+14 JUN 2021  DC2116500014  Miscellaneous Credit                                     0.00              33,60     3,389,364,126.00 KR
+                           PJK AN TAPTENG
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             160,00     3,389,524,126.00 KR
+                           PJK AN DPUPR
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             232,50     3,389,756,626.00 KR
+                           PJK AN DPUPR
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00               4,40     3,389,761,026.00 KR
+                           PB 900/365/KESBANGPOL/2021
+14 JUN 2021  TT2116536FJ1  Deposit Cash (Local Currency)                            0.00              45,00     3,389,806,026.00 KR
+                           SETORAN PAJAK
+14 JUN 2021  FT2116571K6W  Transfer In                                              0.00             125,81     3,389,931,844.00 KR
+                           999999
+
+                           786/BPK/UP/2.19.01/2021
+
+                           Cheque No:
+
+                           786/BPK/UP/2.19.01/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              30,00     3,389,961,844.00 KR
+                           PB 524/421/900/VI/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              14,40     3,389,976,244.00 KR
+                           PB 524/419/900/VI/2021
+14 JUN 2021  TT211652DRXC  Deposit Cash (Local Currency)                            0.00              45,00     3,390,021,244.00 KR
+                           SETORAN PAJAK
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              18,75     3,390,039,994.00 KR
+                           PB 900/298/DISPAR
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             189,00     3,390,228,994.00 KR
+                           PB 900/381/KEU/DPMD/2021
+14 JUN 2021  TT2116551RHD  Deposit Cash (Local Currency)                            0.00              73,20     3,390,302,194.00 KR
+                           SETORAN PAJAK
+14 JUN 2021  TT211658Q0T2  Deposit Cash (Local Currency)                            0.00             109,80     3,390,411,994.00 KR
+                           SETORAN PAJAK
+14 JUN 2021  TT211655C638  Deposit Cash (Local Currency)                            0.00             297,00     3,390,708,994.00 KR
+                           SETORAN PAJAK
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              14,40     3,390,723,394.00 KR
+                           PB 524/417/900/VI/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              12,40     3,390,735,794.00 KR
+                           PB 900/888/DKPP/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             597,76     3,391,333,557.00 KR
+                           PB 900/300/DISPAR
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              80,00     3,391,413,557.00 KR
+                           PB 900/396/KEU/DPMD/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             863,89     3,392,277,449.00 KR
+                           PB 900/2103/DISDIKBUD/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00           2,843,63     3,395,121,085.00 KR
+                           PB 900/392/KEU/DPMD/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             863,89     3,395,984,977.00 KR
+                           PB 524/432/900/VI/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00           1,071,59     3,397,056,568.00 KR
+                           PB 900/391/KEU/DPMD/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              30,00     3,397,086,568.00 KR
+                           PB 900/317/DISKOMINFO
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             295,50     3,397,382,068.00 KR
+                           PB 415/900-KEU/DISPORA/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              54,00     3,397,436,068.00 KR
+                           PB 937/351-KEU/BPKAD/BP/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00           1,053,00     3,398,489,068.00 KR
+                           PB 448/900-KEU/DISPORA/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             960,00     3,399,449,068.00 KR
+                           PB 900/395/KEU/DPMD/2021
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     025
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,399,449,068.00
+
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              75,00     3,399,524,068.00 KR
+                           PB 900/051/SET-DPRD/TL/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              36,00     3,399,560,068.00 KR
+                           PB 900/465/DINSOS/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             986,64     3,400,546,716.00 KR
+                           PB 197/DINKES/GU 3/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              72,00     3,400,618,716.00 KR
+                           PB 900/410/SEKRT
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              60,00     3,400,678,716.00 KR
+                           PB 453/900-KEU/DISPORA/2021
+14 JUN 2021  TT21165Y59PM  Deposit Cash (Local Currency)                            0.00               5,00     3,400,683,716.00 KR
+                           RAHMAN S
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00           1,738,69     3,402,422,411.00 KR
+                           PB 450/900-KEU/DISPORA/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             237,49     3,402,659,909.00 KR
+                           PB 900/500/DISTANHORBUN/VI/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              87,75     3,402,747,659.00 KR
+                           PB 900/502/DISTANHORBUN/VI/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             225,00     3,402,972,659.00 KR
+                           PB 900/503/DISTANHORBUN/VI/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             269,90     3,403,242,559.00 KR
+                           PB 900/094/VI/KEC.BAJUIN/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              57,60     3,403,300,159.00 KR
+                           PB 127-BEND/VI/DPUPRP/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             269,90     3,403,570,059.00 KR
+                           PB 900/094/VI/KEC.BAJUIN/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             165,12     3,403,735,179.00 KR
+                           PB 128-BEND/VI/DPUPRP/2021
+14 JUN 2021  TT21165FWVHX  Deposit Cash (Local Currency)                            0.00           1,640,17     3,405,375,354.00 KR
+                           PAJAK
+14 JUN 2021  TT21165J8PV1  Deposit Cash (Local Currency)                            0.00           6,560,58     3,411,935,940.00 KR
+                           PAJAK
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             522,72     3,412,458,667.00 KR
+                           PB 900/879/DKPP/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              49,80     3,412,508,467.00 KR
+                           PB 126-BEND/VI/DPUPRP/2021
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              33,30     3,412,541,767.00 KR
+                           PB 900/256/SKRT
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              45,90     3,412,587,667.00 KR
+                           PB 784/B-P/DPRKPLH/VI/2021
+14 JUN 2021  FT21165KPB6R  Transfer In                                              0.00           1,640,00     3,414,227,667.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165QNHYK
+
+                           Card No:
+14 JUN 2021  FT2116528DY3  Transfer In                                              0.00           1,640,00     3,415,867,667.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     026
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,415,867,667.00
+
+
+                           Receipt No: TT21165SGYWQ
+
+                           Card No:
+14 JUN 2021  FT211659M6NK  Transfer In                                              0.00           1,640,00     3,417,507,667.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165Q8ZMP
+
+                           Card No:
+14 JUN 2021  FT2116551F3G  Transfer In                                              0.00           1,640,00     3,419,147,667.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165P8913
+
+                           Card No:
+14 JUN 2021  FT21165D63V7  Transfer In                                              0.00           1,640,00     3,420,787,667.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT211651XK7W
+
+                           Card No:
+14 JUN 2021  FT21165VR87T  Transfer In                                              0.00           1,640,00     3,422,427,667.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT2116549624
+
+                           Card No:
+14 JUN 2021  FT21165FR5TZ  Transfer In                                              0.00           1,640,00     3,424,067,667.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     027
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,424,067,667.00
+
+
+                           Receipt No: TT21165HQ093
+
+                           Card No:
+14 JUN 2021  FT21165YDCPM  Transfer In                                              0.00           1,640,00     3,425,707,667.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165XGR92
+
+                           Card No:
+14 JUN 2021  FT211658W50H  Transfer In                                              0.00             584,25     3,426,291,917.00 KR
+                           999999
+
+                           RTU-PJK AN DISPERKIM
+
+                           Cheque No:
+
+                           RTU-PJK AN DISPERKIM
+14 JUN 2021  FT21165PRRBK  Transfer In                                              0.00               8,00     3,426,299,917.00 KR
+                           RTU-PJK AN DPUPR
+
+                           999999
+
+                           RTU-PJK AN DPUPR
+
+                           Cheque No:
+
+                           RTU-PJK AN DPUPR
+14 JUN 2021  FT21165NFF0R  Transfer In                                              0.00             381,60     3,426,681,517.00 KR
+                           RTU-PJK AN DISDIK
+
+                           999999
+
+                           RTU-PJK AN DISDIK
+
+                           Cheque No:
+
+                           RTU-PJK AN DISDIK
+14 JUN 2021  FT21165N96J8  Transfer In                                              0.00           1,640,00     3,428,321,517.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT211658HM9K
+
+                           Card No:
+14 JUN 2021  FT211654SZNF  Transfer In                                              0.00             512,50     3,428,834,017.00 KR
+                           RTU-PJK AN DISPERKIM
+
+                           999999
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     028
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,428,834,017.00
+
+
+                           RTU-PJK AN DISPERKIM
+
+                           Cheque No:
+
+                           RTU-PJK AN DISPERKIM
+14 JUN 2021  FT21165SG1NV  Transfer In                                              0.00           1,640,00     3,430,474,017.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165BZ5MH
+
+                           Card No:
+14 JUN 2021  FT21165LBRGP  Transfer In                                              0.00           1,640,00     3,432,114,017.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165QGMNG
+
+                           Card No:
+14 JUN 2021  FT21165FWRMC  Transfer In                                              0.00           1,640,00     3,433,754,017.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT2116534K86
+
+                           Card No:
+14 JUN 2021  FT21165P83D4  Transfer In                                              0.00             230,19     3,433,984,213.00 KR
+                           BILLING 820210608454329
+
+                           999999
+
+                           BILLING 820210608454329
+
+                           Cheque No:
+
+                           BILLING 820210608454329
+14 JUN 2021  FT21165XFVWP  Transfer In                                              0.00           1,640,00     3,435,624,213.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     029
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,435,624,213.00
+
+
+                           Receipt No: TT21165CCBLP
+
+                           Card No:
+14 JUN 2021  FT2116511M3H  Transfer In                                              0.00           1,640,00     3,437,264,213.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165SB6CB
+
+                           Card No:
+14 JUN 2021  FT21165SWHQH  Transfer In                                              0.00             404,61     3,437,668,831.00 KR
+                           PEMBAYARAN PPN ATK PKM KARBIN
+
+                           TNT NO B/900/2514
+
+                           999999
+
+                           PEMBAYARAN PPN ATK PKM KARBIN
+
+                           TNT NO B/900/2514
+
+                           Cheque No:
+
+                           PEMBAYARAN PPN ATK PKM KARBIN
+
+                           TNT NO B/900/2514
+14 JUN 2021  FT21165XJ9LB  Transfer In                                              0.00           1,640,00     3,439,308,831.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165MD00J
+
+                           Card No:
+14 JUN 2021  FT21165QQKJX  Transfer In                                              0.00           1,640,00     3,440,948,831.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165JQ05Y
+
+                           Card No:
+14 JUN 2021  FT21165CYHCJ  Transfer In                                              0.00           1,640,00     3,442,588,831.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     030
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,442,588,831.00
+
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165PCX9T
+
+                           Card No:
+14 JUN 2021  FT21165MVM28  Transfer In                                              0.00              60,69     3,442,649,524.00 KR
+                           PPH 22 ATK PKM KARANG BINTANG
+
+                           TNT NO B/900/2514
+
+                           999999
+
+                           PPH 22 ATK PKM KARANG BINTANG
+
+                           TNT NO B/900/2514
+
+                           Cheque No:
+
+                           PPH 22 ATK PKM KARANG BINTANG
+
+                           TNT NO B/900/2514
+14 JUN 2021  FT21165F8SNK  Transfer In                                              0.00           1,640,00     3,444,289,524.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165H7672
+
+                           Card No:
+14 JUN 2021  FT2116558M3Q  Transfer In                                              0.00           1,640,00     3,445,929,524.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165CLJM8
+
+                           Card No:
+14 JUN 2021  FT21165VKSV7  Transfer In                                              0.00           1,640,00     3,447,569,524.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165F9880
+
+                           Card No:
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     031
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,447,569,524.00
+
+14 JUN 2021  FT21165Q49KR  Transfer In                                              0.00           1,640,00     3,449,209,524.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165MMVMZ
+
+                           Card No:
+14 JUN 2021  FT21165XQK71  Transfer In                                              0.00           1,640,00     3,450,849,524.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165LWC8J
+
+                           Card No:
+14 JUN 2021  FT21165LTSB9  Transfer In                                              0.00           1,640,00     3,452,489,524.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165KGC5W
+
+                           Card No:
+14 JUN 2021  FT211654NJLV  Transfer In                                              0.00           1,640,00     3,454,129,524.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165SKLJV
+
+                           Card No:
+14 JUN 2021  FT211656GTLN  Transfer In                                              0.00           1,640,00     3,455,769,524.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT2116555BLH
+
+                           Card No:
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     032
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,455,769,524.00
+
+14 JUN 2021  FT21165NB2BR  Transfer In                                              0.00             689,34     3,456,458,873.00 KR
+                           999999
+
+                           MTP MPN VISKA
+
+                           Cheque No:
+
+                           MTP MPN VISKA
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             230,19     3,456,689,069.00 KR
+                           820210608453591
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             115,09     3,456,804,167.00 KR
+                           820210608425782
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             345,29     3,457,149,461.00 KR
+                           820210608426867
+14 JUN 2021  FT21165G61G5  Transfer In                                              0.00          34,624,33     3,491,773,797.00 KR
+                           999999
+
+                           MTP MPN AISYAH
+
+                           Cheque No:
+
+                           MTP MPN AISYAH
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              12,00     3,491,785,797.00 KR
+
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              29,48     3,491,815,283.00 KR
+                           820210611757518
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             589,71     3,492,404,998.00 KR
+                           820210611753209
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             589,71     3,492,994,713.00 KR
+                           820210611751702
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             589,71     3,493,584,428.00 KR
+                           820210611750830
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             920,78     3,494,505,212.00 KR
+                           820210608427428
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00           1,150,98     3,495,656,192.00 KR
+                           820210608431228
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             575,49     3,496,231,682.00 KR
+                           820210608428445
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              29,48     3,496,261,168.00 KR
+                           820210611757255
+14 JUN 2021  FT21165HJH2H  Transfer In                                              0.00           1,640,00     3,497,901,168.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165BNL5G
+
+                           Card No:
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              29,48     3,497,930,654.00 KR
+                           820210611755431
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00           1,533,25     3,499,463,913.00 KR
+                           820210611747521
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00           1,533,25     3,500,997,172.00 KR
+                           820210611747345
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00           1,533,25     3,502,530,431.00 KR
+                           820210611746885
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     033
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,502,530,431.00
+
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00             230,19     3,502,760,627.00 KR
+                           820210608433345
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00              29,48     3,502,790,113.00 KR
+                           820210611754357
+14 JUN 2021  FT21165GPPPK  Transfer In                                              0.00           1,917,10     3,504,707,218.00 KR
+                           999999
+
+                           MTP-MPN TITRIN
+
+                           Cheque No:
+
+                           MTP-MPN TITRIN
+14 JUN 2021  FT21165GPXHX  Transfer In                                              0.00           1,640,00     3,506,347,218.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT2116571YDN
+
+                           Card No:
+14 JUN 2021  FT21165PHD1X  Transfer In                                              0.00           1,640,00     3,507,987,218.00 KR
+                           INTERBANK
+
+                           MARTAPURA GRIYA INDAH
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165N63DC
+
+                           Card No:
+14 JUN 2021  FT2116565CZ9  Transfer In                                              0.00           1,570,00     3,509,557,218.00 KR
+                           INTERBANK
+
+                           GRAHA GRIYA AGUNG
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165XSQ2H
+
+                           Card No:
+14 JUN 2021  FT21165H04SW  Transfer In                                              0.00           1,645,00     3,511,202,218.00 KR
+                           INTERBANK
+
+                           GRAHA GRIYA AGUNG
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165C18LC
+
+                           Card No:
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     034
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,511,202,218.00
+
+14 JUN 2021  FT21165G89B3  Transfer In                                              0.00           1,060,85     3,512,263,072.00 KR
+                           INTERBANK
+
+                           QANITA HOTEL
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165G9LTR
+
+                           Card No:
+14 JUN 2021  FT211650J98X  Transfer In                                              0.00           7,357,50     3,519,620,572.00 KR
+                           INTERBANK
+
+                           H SUMEDI
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165RPBHS
+
+                           Card No:
+14 JUN 2021  FT2116516XFL  Transfer In                                              0.00           3,873,97     3,523,494,547.00 KR
+                           INTERBANK
+
+                           M SAIFUL RAHMAN
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165L220X
+
+                           Card No:
+14 JUN 2021  DC2116500015  Miscellaneous Credit                                     0.00          21,810,54     3,545,305,093.00 KR
+                           PAJAK 05584/SP2D/2021
+14 JUN 2021  DC2116500015  Miscellaneous Debits                             5,631,182.00                        3,539,673,911.00 KR
+                           PJK 05598
+14 JUN 2021  TT21165G744J  Deposit Cash (Local Currency)                            0.00              69,27     3,539,743,184.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165DYD0V  Deposit Cash (Local Currency)                            0.00             461,81     3,540,205,002.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165MPP0V  Deposit Cash (Local Currency)                            0.00             542,27     3,540,747,275.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT211657WQ43  Deposit Cash (Local Currency)                            0.00             180,00     3,540,927,275.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT211655TW3C  Deposit Cash (Local Currency)                            0.00              81,34     3,541,008,616.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT211652N9M9  Deposit Cash (Local Currency)                            0.00             358,63     3,541,367,252.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT211658MSY3  Deposit Cash (Local Currency)                            0.00              53,79     3,541,421,047.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165X8SWJ  Deposit Cash (Local Currency)                            0.00              17,00     3,541,438,047.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165Q1FRX  Deposit Cash (Local Currency)                            0.00             141,81     3,541,579,865.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165SGRTX  Deposit Cash (Local Currency)                            0.00              21,00     3,541,600,865.00 KR
+                           SETORAN TUNAI
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     035
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,541,600,865.00
+
+14 JUN 2021  TT21165D4W94  Deposit Cash (Local Currency)                            0.00              20,00     3,541,620,865.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165WHK87  Deposit Cash (Local Currency)                            0.00              27,50     3,541,648,365.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165H17W9  Deposit Cash (Local Currency)                            0.00             200,00     3,541,848,365.00 KR
+                           MPN G2-BIDANG PEMBINAAN SD
+14 JUN 2021  TT21165CRFVT  Deposit Cash (Local Currency)                            0.00             252,00     3,542,100,365.00 KR
+                           MPN G2-BIDANG PEMBINAAN SD
+14 JUN 2021  TT21165HS5W9  Deposit Cash (Local Currency)                            0.00             600,00     3,542,700,365.00 KR
+                           MPN G2-KUA BJM TIMUR
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00          82,423,92     3,625,124,293.00 KR
+                           PAJAK 05585-05597 SP2D/2021
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00           1,391,70     3,626,516,001.00 KR
+                           PAJAK TNT B/930/047/DKBPA
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00             123,25     3,626,639,251.00 KR
+                           PAJAK TNT B/13
+14 JUN 2021  TT2116561RJT  Deposit Cash (Local Currency)                            0.00              89,64     3,626,728,891.00 KR
+                           set pajak MPN
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00             105,75     3,626,834,641.00 KR
+                           PAJAK B/469
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00              88,25     3,626,922,891.00 KR
+                           PAJAK B/03
+14 JUN 2021  TT21165PLC6X  Deposit Cash (Local Currency)                            0.00               7,00     3,626,929,891.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165Y7HQ5  Deposit Cash (Local Currency)                            0.00               7,00     3,626,936,891.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165NRHRK  Deposit Cash (Local Currency)                            0.00               5,00     3,626,941,891.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT211654HK63  Deposit Cash (Local Currency)                            0.00               5,00     3,626,946,891.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165QWBF0  Deposit Cash (Local Currency)                            0.00               5,00     3,626,951,891.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165B87QP  Deposit Cash (Local Currency)                            0.00               5,00     3,626,956,891.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT211655G1JK  Deposit Cash (Local Currency)                            0.00               7,00     3,626,963,891.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165WQTLN  Deposit Cash (Local Currency)                            0.00               7,00     3,626,970,891.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  FT21165QC8H6  Transfer In                                              0.00             130,90     3,627,101,800.00 KR
+                           999999
+
+                           PAJAK CAPIL 0196/BPK
+
+                           Cheque No:
+
+                           PAJAK CAPIL 0196/BPK
+14 JUN 2021  FT21165MG9L2  Transfer In                                              0.00              12,00     3,627,113,800.00 KR
+                           999999
+
+                           PAJAK CAPIL 0197/BPK
+
+                           Cheque No:
+
+                           PAJAK CAPIL 0197/BPK
+14 JUN 2021  FT21165MMJPZ  Transfer In                                              0.00              20,00     3,627,133,800.00 KR
+                           999999
+
+                           PAJAK CAPIL 0198/BPK
+
+                           Cheque No:
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     036
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,627,133,800.00
+
+
+                           PAJAK CAPIL 0198/BPK
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00              37,00     3,627,170,800.00 KR
+                           PAJAK CAPIL 0200/BPK
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00              39,40     3,627,210,200.00 KR
+                           PAJAK CAPIL 0201/BPK
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00             244,63     3,627,454,837.00 KR
+                           PAJAK CAPIL 0202/BPK
+14 JUN 2021  FT211658009P  Transfer In                                              0.00           4,453,05     3,631,907,891.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT211652JV4K  Transfer In                                              0.00           8,930,90     3,640,838,800.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT2116521CHB  Transfer In                                              0.00             120,03     3,640,958,837.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165XFZ5P  Transfer In                                              0.00             656,25     3,641,615,087.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165SP5TL  Transfer In                                              0.00           1,772,02     3,643,387,116.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT211659HX6J  Transfer In                                              0.00           2,972,36     3,646,359,485.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165SQ5XM  Transfer In                                              0.00             982,00     3,647,341,485.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165G5Q1L  Transfer In                                              0.00             525,00     3,647,866,485.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165GZSW5  Transfer In                                              0.00           5,230,27     3,653,096,764.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT211658QWDV  Transfer In                                              0.00             251,85     3,653,348,619.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165N6DMG  Transfer In                                              0.00           1,245,45     3,654,594,074.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165W2KS1  Transfer In                                              0.00           8,860,14     3,663,454,218.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165J6377  Transfer In                                              0.00           3,572,36     3,667,026,582.00 KR
+                           999999
+
+                           Cheque No:
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633546 / 0010001000091
+ USER CETAK DMUSER.1                         REKENING PENERIMAAN NEGARA TERPUSAT
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     037
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     3,667,026,582.00
+
+14 JUN 2021  FT21165CMRDK  Transfer In                                              0.00             594,47     3,667,621,056.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165F8617  Transfer In                                              0.00           4,306,19     3,671,927,247.00 KR
+                           999999
+
+                           Cheque No:
+
+
+                                                 Total Mutasi :             5,631,182.00       3,677,558,42     3,671,927,247.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              Tanggal, 14-06-2021
+
+
+
+
+
+                                                                                             (_______________________)
+
+
+*

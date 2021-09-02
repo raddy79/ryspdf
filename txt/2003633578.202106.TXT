@@ -1,0 +1,1145 @@
+
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633578 / 0010002003018
+ USER CETAK DMUSER.1                         REKENING KAS UMUM DAERAH PROVINSI KALSELALSEL
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     001
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                                 0.00
+
+11 JUN 2021  FT21162W5PMK  Transfer In                                              0.00     274,055,303,18   274,055,303,182.88 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  TT21165JRVBD  Deposit Cash (Local Currency)                            0.00           3,500,00   274,058,803,182.88 KR
+                           SET SEWA GEDUNG BPSDM
+14 JUN 2021  TT21165KXJMY  Deposit Cash (Local Currency)                            0.00           8,826,00   274,067,629,182.88 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT211652J0HL  Deposit Cash (Local Currency)                            0.00             300,00   274,067,929,182.88 KR
+                           DPMPTSP
+14 JUN 2021  TT211655MFMQ  Deposit Cash (Local Currency)                            0.00             210,00   274,068,139,182.88 KR
+                           DPMPTSP
+14 JUN 2021  TT211651MVP9  Deposit Cash (Local Currency)                            0.00           2,612,00   274,070,751,182.88 KR
+                           RETRIBUSI PEL KEPELABUHAN
+14 JUN 2021  TT211658V4ZF  Deposit Cash (Local Currency)                            0.00          24,150,50   274,094,901,682.88 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165ZNRMQ  Deposit Cash (Local Currency)                            0.00           1,845,75   274,096,747,432.88 KR
+                           SETORAN TUNAI AP RSGM GT HASAN AMA
+14 JUN 2021  FT2116555888  SKN IN                                                   0.00         136,883,00   274,233,630,432.88 KR
+                           RPKBUNPSPAN-BTN
+
+                           TSA51 Pencairan SP2D
+
+                           210191304010476000066
+
+                           From Acc.No. - IDR1700700010001
+
+                           Sender bnk code: 2000752
+14 JUN 2021  FT21165GD96X  SKN IN                                                   0.00         327,750,00   274,561,380,432.88 KR
+                           RPKBUNPSPAN-BTN
+
+                           TSA51 Pencairan SP2D
+
+                           210191304010475000250
+
+                           From Acc.No. - IDR1700700010001
+
+                           Sender bnk code: 2000752
+14 JUN 2021  FT2116522548  Transfer In                                              0.00           1,003,50   274,562,383,932.88 KR
+                           MTP SET OL KDG-MTP 140621
+
+                           999999
+
+                           BJM SET OL KDG-MTP 140621
+
+                           Cheque No:
+
+                           BJM SET OL KDG-MTP 140621
+14 JUN 2021  FT211653KLV5  Transfer In                                              0.00           6,015,80   274,568,399,732.88 KR
+                           MTP SET OL HDL-MTP 140621
+
+                           999999
+
+                           BJM SET OL HDL-MTP 140621
+
+                           Cheque No:
+
+                           BJM SET OL HDL-MTP 140621
+14 JUN 2021  FT21165CHWNL  Transfer In                                              0.00          58,123,00   274,626,522,732.88 KR
+                           999999
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633578 / 0010002003018
+ USER CETAK DMUSER.1                         REKENING KAS UMUM DAERAH PROVINSI KALSELALSEL
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     002
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                   274,626,522,732.88
+
+
+                           HDB-SET OL SMST 14/06/21
+
+                           Cheque No:
+
+                           HDB-SET OL SMST 14/06/21
+14 JUN 2021  FT211658B62C  Transfer In                                              0.00           2,124,80   274,628,647,532.88 KR
+                           999999
+
+                           SET OL BJM2-BTL 140621
+
+                           Cheque No:
+
+                           SET OL BJM2-BTL 140621
+14 JUN 2021  FT211658VF0H  Transfer In                                              0.00           2,225,00   274,630,872,532.88 KR
+                           999999
+
+                           SET SP3D SAMSAT-BTL 140621
+
+                           Cheque No:
+
+                           SET SP3D SAMSAT-BTL 140621
+14 JUN 2021  FT21165W6B28  Transfer In                                              0.00         530,835,50   275,161,708,032.88 KR
+                           999999
+
+                           SET PKB SAMSAT-BTL 14/06/2021
+
+                           Cheque No:
+
+                           SET PKB SAMSAT-BTL 14/06/2021
+14 JUN 2021  FT21165L92KR  Transfer In                                              0.00             282,00   275,161,990,032.88 KR
+                           999999
+
+                           SET OL KTB-BTL 140621
+
+                           Cheque No:
+
+                           SET OL KTB-BTL 140621
+14 JUN 2021  FT21165Y8T5Y  Transfer In                                              0.00           1,354,50   275,163,344,532.88 KR
+                           999999
+
+                           SET OL BRB-BTL 11062021
+
+                           Cheque No:
+
+                           SET OL BRB-BTL 11062021
+14 JUN 2021  FT211650MPG8  Transfer In                                              0.00           2,385,00   275,165,729,532.88 KR
+                           999999
+
+                           SET OL KTB-BTL 140621
+
+                           Cheque No:
+
+                           SET OL KTB-BTL 140621
+14 JUN 2021  FT21165QQCNC  Transfer In                                              0.00           1,326,00   275,167,055,532.88 KR
+                           999999
+
+                           SET OL KTB-BTL 140621
+
+                           Cheque No:
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633578 / 0010002003018
+ USER CETAK DMUSER.1                         REKENING KAS UMUM DAERAH PROVINSI KALSELALSEL
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     003
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                   275,167,055,532.88
+
+
+                           SET OL KTB-BTL 140621
+14 JUN 2021  FT21165C7NGS  Transfer In                                              0.00             196,50   275,167,252,032.88 KR
+                           999999
+
+                           SET OL KTB-BTL 140621
+
+                           Cheque No:
+
+                           SET OL KTB-BTL 140621
+14 JUN 2021  FT21165N75GG  Transfer In                                              0.00             445,50   275,167,697,532.88 KR
+                           999999
+
+                           SET OL PRG-BTL 140621
+
+                           Cheque No:
+
+                           SET OL PRG-BTL 140621
+14 JUN 2021  FT21165WKM4T  Transfer In                                              0.00           2,464,00   275,170,161,532.88 KR
+                           999999
+
+                           SET OL BJM1-BTL 140621
+
+                           Cheque No:
+
+                           SET OL BJM1-BTL 140621
+14 JUN 2021  FT21165Q5XKK  Transfer In                                              0.00             690,10   275,170,851,632.88 KR
+                           999999
+
+                           SET OL BJB-BTL 120621
+
+                           Cheque No:
+
+                           SET OL BJB-BTL 120621
+14 JUN 2021  FT211657JBD7  Transfer In                                              0.00             232,50   275,171,084,132.88 KR
+                           999999
+
+                           SET ol brb-ktb smt 120621
+
+                           Cheque No:
+
+                           SET ol brb-ktb smt 120621
+14 JUN 2021  FT21165DQKZH  Transfer In                                              0.00             445,50   275,171,529,632.88 KR
+                           999999
+
+                           SET OL PRG-BTL 140621
+
+                           Cheque No:
+
+                           SET OL PRG-BTL 140621
+14 JUN 2021  FT2116528BY0  Transfer In                                              0.00             250,50   275,171,780,132.88 KR
+                           999999
+
+                           SET OL PLH-BTL 120621
+
+                           Cheque No:
+
+                           SET OL PLH-BTL 120621
+14 JUN 2021  FT21165TRXQZ  Transfer In                                              0.00           1,811,30   275,173,591,432.88 KR
+                           999999
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633578 / 0010002003018
+ USER CETAK DMUSER.1                         REKENING KAS UMUM DAERAH PROVINSI KALSELALSEL
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     004
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                   275,173,591,432.88
+
+
+                           SET OL MTP-BTL 120621
+
+                           Cheque No:
+
+                           SET OL MTP-BTL 120621
+14 JUN 2021  FT2116576P39  Transfer In                                              0.00           2,787,80   275,176,379,232.88 KR
+                           999999
+
+                           SET OL BJM1-BTL 120621
+
+                           Cheque No:
+
+                           SET OL BJM1-BTL 120621
+14 JUN 2021  FT2116516LH5  Transfer In                                              0.00           2,986,60   275,179,365,832.88 KR
+                           999999
+
+                           SET OL BJB-BTL 140621
+
+                           Cheque No:
+
+                           SET OL BJB-BTL 140621
+14 JUN 2021  FT21165F651N  Transfer In                                              0.00             165,00   275,179,530,832.88 KR
+                           999999
+
+                           SET OL TJG-BTL 140621
+
+                           Cheque No:
+
+                           SET OL TJG-BTL 140621
+14 JUN 2021  FT211657LXXN  Transfer In                                              0.00           1,928,70   275,181,459,532.88 KR
+                           999999
+
+                           SET OL PLH-BTL 14/06/21
+
+                           Cheque No:
+
+                           SET OL PLH-BTL 14/06/21
+14 JUN 2021  FT21165L63B4  Transfer In                                              0.00           2,309,70   275,183,769,232.88 KR
+                           999999
+
+                           SET OL PLH-BTL 140621
+
+                           Cheque No:
+
+                           SET OL PLH-BTL 140621
+14 JUN 2021  FT21165FV1Z5  Transfer In                                              0.00             184,50   275,183,953,732.88 KR
+                           999999
+
+                           SET OL SEKAPUK BTL-KTB 14-06-2021
+
+                           Cheque No:
+
+                           SET OL SEKAPUK BTL-KTB 14-06-2021
+14 JUN 2021  FT21165C3GKT  Transfer In                                              0.00             757,60   275,184,711,332.88 KR
+                           999999
+
+                           SET OL SEKAPUK BTL-KTB 14-06-2021
+
+                           Cheque No:
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633578 / 0010002003018
+ USER CETAK DMUSER.1                         REKENING KAS UMUM DAERAH PROVINSI KALSELALSEL
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     005
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                   275,184,711,332.88
+
+
+                           SET OL SEKAPUK BTL-KTB 14-06-2021
+14 JUN 2021  FT21165QFGYH  Transfer In                                              0.00           1,797,00   275,186,508,332.88 KR
+                           999999
+
+                           SETORAN TUNAI
+
+                           Cheque No:
+
+                           SETORAN TUNAI
+14 JUN 2021  FT21165S05RX  Transfer Out                                     8,504,100.00                      275,178,004,232.88 KR
+                           REKENING PENERIMAAN NEGARA TERPUSAT
+
+                           TOTAL PAJAK SP2D
+
+                           To Acc.No.- 2003633546
+
+                           TOTAL PAJAK SP2D
+14 JUN 2021  FT21165F5RTF  Account Transfer Charges                             2,900.00                      275,178,001,332.88 KR
+                           AC-IDR1700700010001
+14 JUN 2021  FT21165F5RTF  Transfer Out                                    13,887,130.00                      275,164,114,202.88 KR
+                           SKN NOS ACCOUNT
+
+                           SKN Keluar
+
+                           PT BANJAR ULIN ENERGI
+
+                           Cek No: Bank Code: 0020307
+14 JUN 2021  FT21165L3FQK  Transfer Out                                 1,589,709,076.00                      273,574,405,126.88 KR
+                           BP BADAN PENGEMBANGAN SDM DAERAH PROV KALSEL
+
+                           SP2D BPSDM NO 2060
+
+                           To Acc.No.- 2003782339
+
+                           SP2D BPSDM NO 2060
+14 JUN 2021  FT21165BKQSY  Account Transfer Charges                             2,900.00                      273,574,402,226.88 KR
+                           AC-IDR1700700010001
+14 JUN 2021  FT21165BKQSY  Transfer Out                                    13,887,130.00                      273,560,515,096.88 KR
+                           SKN NOS ACCOUNT
+
+                           SKN Keluar
+
+                           PT BANJAR ULIN ENERGI
+
+                           Cek No: Bank Code: 0020307
+14 JUN 2021  FT21165LJJ4S  Account Transfer Charges                             2,900.00                      273,560,512,196.88 KR
+                           AC-IDR1700700010001
+14 JUN 2021  FT21165LJJ4S  Transfer Out                                    13,887,130.00                      273,546,625,066.88 KR
+                           SKN NOS ACCOUNT
+
+                           SKN Keluar
+
+                           PT BANJAR ULIN ENERGI
+
+                           Cek No: Bank Code: 0020307
+14 JUN 2021  FT21165MCPWS  Account Transfer Charges                             2,900.00                      273,546,622,166.88 KR
+                           AC-IDR1700700010001
+14 JUN 2021  FT21165MCPWS  Transfer Out                                    13,887,130.00                      273,532,735,036.88 KR
+                           SKN NOS ACCOUNT
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633578 / 0010002003018
+ USER CETAK DMUSER.1                         REKENING KAS UMUM DAERAH PROVINSI KALSELALSEL
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     006
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                   273,532,735,036.88
+
+
+                           SKN Keluar
+
+                           PT BANJAR ULIN ENERGI
+
+                           Cek No: Bank Code: 0020307
+14 JUN 2021  FT21165940DJ  Account Transfer Charges                             2,900.00                      273,532,732,136.88 KR
+                           AC-IDR1700700010001
+14 JUN 2021  FT21165940DJ  Transfer Out                                    13,887,130.00                      273,518,845,006.88 KR
+                           SKN NOS ACCOUNT
+
+                           SKN Keluar
+
+                           PT BANJAR ULIN ENERGI
+
+                           Cek No: Bank Code: 0020307
+14 JUN 2021  FT21165J1S7X  Transfer In                                              0.00          11,886,30   273,530,731,306.88 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165M16VX  Transfer In                                              0.00           6,132,10   273,536,863,406.88 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT2116531L74  Transfer In                                              0.00             100,00   273,536,963,406.88 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT211654ZBYD  Transfer In                                              0.00          42,849,60   273,579,813,006.88 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165WGFW4  Transfer In                                              0.00             160,50   273,579,973,506.88 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165T1PS9  Transfer In                                              0.00             586,50   273,580,560,006.88 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT2116556BWB  Transfer In                                              0.00           2,618,50   273,583,178,506.88 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165P86GH  Transfer In                                              0.00           3,191,40   273,586,369,906.88 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165PM61J  Transfer In                                              0.00             196,50   273,586,566,406.88 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165GV5RM  Transfer In                                              0.00             202,50   273,586,768,906.88 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165MJ3VF  Transfer In                                              0.00          47,277,00   273,634,045,906.88 KR
+                           999999
+
+                           Cheque No:
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633578 / 0010002003018
+ USER CETAK DMUSER.1                         REKENING KAS UMUM DAERAH PROVINSI KALSELALSEL
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     007
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                   273,634,045,906.88
+
+14 JUN 2021  FT21165S8CSS  Transfer In                                              0.00           5,798,40   273,639,844,306.88 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165R5M0T  Transfer In                                              0.00             963,00   273,640,807,306.88 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165F739P  Transfer In                                              0.00           5,008,50   273,645,815,806.88 KR
+                           SAMSAT OL BJM2 RTU 14/6/2021
+
+                           999999
+
+                           SAMSAT OL BJM2 RTU 14/6/2021
+
+                           Cheque No:
+
+                           SAMSAT OL BJM2 RTU 14/6/2021
+14 JUN 2021  FT21165Y5X8Y  Transfer In                                              0.00             793,50   273,646,609,306.88 KR
+                           SET OL AMT-RTU 14062021
+
+                           999999
+
+                           SET OL AMT-RTU 14062021
+
+                           Cheque No:
+
+                           SET OL AMT-RTU 14062021
+14 JUN 2021  FT21165ZQ266  Transfer In                                              0.00           1,920,80   273,648,530,106.88 KR
+                           SET OL BRB-RTU SMT 140621
+
+                           999999
+
+                           SET OL BRB-RTU SMT 140621
+
+                           Cheque No:
+
+                           SET OL BRB-RTU SMT 140621
+14 JUN 2021  FT21165DPVKT  Transfer In                                              0.00             156,00   273,648,686,106.88 KR
+                           SET OL SAMSAT KDG-RTU 140621
+
+                           999999
+
+                           SET OL SAMSAT KDG-RTU 140621
+
+                           Cheque No:
+
+                           SET OL SAMSAT KDG-RTU 140621
+14 JUN 2021  FT211656612B  Transfer In                                              0.00             285,00   273,648,971,106.88 KR
+                           SET OL BRB-RTU SMT 120621
+
+                           999999
+
+                           SET OL BRB-RTU SMT 120621
+
+                           Cheque No:
+
+                           SET OL BRB-RTU SMT 120621
+14 JUN 2021  FT211651Y9LL  Transfer In                                              0.00             907,50   273,649,878,606.88 KR
+                           999999
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633578 / 0010002003018
+ USER CETAK DMUSER.1                         REKENING KAS UMUM DAERAH PROVINSI KALSELALSEL
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     008
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                   273,649,878,606.88
+
+
+                           SET OL BRB-PRG 14062021
+
+                           Cheque No:
+
+                           SET OL BRB-PRG 14062021
+14 JUN 2021  FT211653JWCC  Transfer In                                              0.00          38,829,10   273,688,707,706.88 KR
+                           999999
+
+                           SET OL BJM1-KASDA 14062021
+
+                           Cheque No:
+
+                           SET OL BJM1-KASDA 14062021
+14 JUN 2021  FT21165S2NP2  Transfer In                                              0.00           1,003,50   273,689,711,206.88 KR
+                           999999
+
+                           SET OL BJB RTU 140621
+
+                           Cheque No:
+
+                           SET OL BJB RTU 140621
+14 JUN 2021  FT21165YCWCT  Transfer In                                              0.00          11,796,90   273,701,508,106.88 KR
+                           SET SAMKEL RTU 140621
+
+                           999999
+
+                           SET SAMKEL RTU 140621
+
+                           Cheque No:
+
+                           SET SAMKEL RTU 140621
+14 JUN 2021  FT21165XNXDC  Transfer In                                              0.00             175,00   273,701,683,106.88 KR
+                           OL SAMSAT RTU-SP3KBBARU 120621
+
+                           999999
+
+                           OL SAMSAT RTU-SP3KBBARU 120621
+
+                           Cheque No:
+
+                           OL SAMSAT RTU-SP3KBBARU 120621
+14 JUN 2021  FT21165NSRXJ  Transfer In                                              0.00             971,00   273,702,654,108.88 KR
+                           999999
+
+                           OL SAMSAT RTU-PAP PT TAPIN
+
+                           Cheque No:
+
+                           OL SAMSAT RTU-PAP PT TAPIN
+14 JUN 2021  FT21165TZ4VN  Transfer In                                              0.00           1,458,00   273,704,112,108.88 KR
+                           999999
+
+                           SET OL AMT-PRG 14062021
+
+                           Cheque No:
+
+                           SET OL AMT-PRG 14062021
+14 JUN 2021  TT21165BGCV5  Deposit Cash (Local Currency)                            0.00           1,941,00   273,706,053,108.88 KR
+                           PBY RETRISI PLYN PLBHN STS047
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633578 / 0010002003018
+ USER CETAK DMUSER.1                         REKENING KAS UMUM DAERAH PROVINSI KALSELALSEL
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     009
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                   273,706,053,108.88
+
+14 JUN 2021  FT2116520ST0  Transfer In                                              0.00           3,189,40   273,709,242,508.88 KR
+                           999999
+
+                           BJM SET OL TJG-MTP 120621
+
+                           Cheque No:
+
+                           BJM SET OL TJG-MTP 120621
+14 JUN 2021  FT21165G4J85  Transfer In                                              0.00           2,772,80   273,712,015,308.88 KR
+                           999999
+
+                           BJM SET OL BRB-MTP 120621
+
+                           Cheque No:
+
+                           BJM SET OL BRB-MTP 120621
+14 JUN 2021  FT21165CM863  Transfer In                                              0.00           8,220,10   273,720,235,408.88 KR
+                           999999
+
+                           BJM SET OL ESMST MTP 020621
+
+                           Cheque No:
+
+                           BJM SET OL ESMST MTP 020621
+14 JUN 2021  FT21165SQ6J8  Transfer In                                              0.00             420,00   273,720,655,408.88 KR
+                           999999
+
+                           BJM SET OL AMT-MTP 120621
+
+                           Cheque No:
+
+                           BJM SET OL AMT-MTP 120621
+14 JUN 2021  FT21165MM0TT  Transfer In                                              0.00             528,00   273,721,183,408.88 KR
+                           999999
+
+                           BJM SET OL KDG-MTP 120621
+
+                           Cheque No:
+
+                           BJM SET OL KDG-MTP 120621
+14 JUN 2021  FT21165Z4G8F  Transfer In                                              0.00          15,056,80   273,736,240,208.88 KR
+                           999999
+
+                           BJM SET OL BJM1-MTP 140621
+
+                           Cheque No:
+
+                           BJM SET OL BJM1-MTP 140621
+14 JUN 2021  FT21165VV11K  Transfer In                                              0.00          15,694,10   273,751,934,308.88 KR
+                           999999
+
+                           BJM SET OL SAMKELII MTP 120621
+
+                           Cheque No:
+
+                           BJM SET OL SAMKELII MTP 120621
+14 JUN 2021  FT2116527H7C  Transfer In                                              0.00         236,479,50   273,988,413,808.88 KR
+                           999999
+
+                           BJM SET OL SMST MTP 120621
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633578 / 0010002003018
+ USER CETAK DMUSER.1                         REKENING KAS UMUM DAERAH PROVINSI KALSELALSEL
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     010
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                   273,988,413,808.88
+
+
+                           Cheque No:
+
+                           BJM SET OL SMST MTP 120621
+14 JUN 2021  FT2116507T6R  Transfer In                                              0.00             125,00   273,988,538,808.88 KR
+                           999999
+
+                           SET SP3 SAMSAT PRG 12062021
+
+                           Cheque No:
+
+                           SET SP3 SAMSAT PRG 12062021
+14 JUN 2021  FT211657J01N  Transfer In                                              0.00           8,313,80   273,996,852,608.88 KR
+                           999999
+
+                           BJM SET OL RTU-MTP 140621
+
+                           Cheque No:
+
+                           BJM SET OL RTU-MTP 140621
+14 JUN 2021  FT21165FQC82  Transfer In                                              0.00           5,268,10   274,002,120,708.88 KR
+                           999999
+
+                           BJM SET OL AMT-MTP 140621
+
+                           Cheque No:
+
+                           BJM SET OL AMT-MTP 140621
+14 JUN 2021  FT21165LK6C8  Transfer In                                              0.00           5,580,80   274,007,701,508.88 KR
+                           999999
+
+                           BJM SET OL BRB-MTP 140621
+
+                           Cheque No:
+
+                           BJM SET OL BRB-MTP 140621
+14 JUN 2021  FT2116553N8T  Transfer In                                              0.00           4,260,80   274,011,962,308.88 KR
+                           999999
+
+                           BJM SET OL MPP-MTP 140621
+
+                           Cheque No:
+
+                           BJM SET OL MPP-MTP 140621
+14 JUN 2021  FT21165LDZKR  Transfer In                                              0.00             854,50   274,012,816,808.88 KR
+                           999999
+
+                           SET OL BJB-PRG 12062021
+
+                           Cheque No:
+
+                           SET OL BJB-PRG 12062021
+14 JUN 2021  FT211655TR89  Transfer In                                              0.00             513,00   274,013,329,808.88 KR
+                           999999
+
+                           SET OL BJB-PRG 14062021
+
+                           Cheque No:
+
+                           SET OL BJB-PRG 14062021
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633578 / 0010002003018
+ USER CETAK DMUSER.1                         REKENING KAS UMUM DAERAH PROVINSI KALSELALSEL
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     011
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                   274,013,329,808.88
+
+14 JUN 2021  FT21165KTMW5  Transfer In                                              0.00           1,953,00   274,015,282,808.88 KR
+                           999999
+
+                           SET OL TJG-PRG 12062021
+
+                           Cheque No:
+
+                           SET OL TJG-PRG 12062021
+14 JUN 2021  FT21165QR77Z  Transfer In                                              0.00             600,00   274,015,882,808.88 KR
+                           999999
+
+                           BJM SET OL SP3 SMST MTP 120621
+
+                           Cheque No:
+
+                           BJM SET OL SP3 SMST MTP 120621
+14 JUN 2021  FT211654JM1D  Transfer In                                              0.00           1,090,50   274,016,973,308.88 KR
+                           999999
+
+                           SET OL NGR-PRG 14062021
+
+                           Cheque No:
+
+                           SET OL NGR-PRG 14062021
+14 JUN 2021  FT211650RDGZ  Transfer In                                              0.00          38,304,10   274,055,277,408.88 KR
+                           999999
+
+                           BJM SET OL SAMKEL IIMTP 140621
+
+                           Cheque No:
+
+                           BJM SET OL SAMKEL IIMTP 140621
+14 JUN 2021  FT211653WQKY  Transfer In                                              0.00             121,50   274,055,398,908.88 KR
+                           999999
+
+                           SET OL PLH-PRG 14062021
+
+                           Cheque No:
+
+                           SET OL PLH-PRG 14062021
+14 JUN 2021  FT21165FG77J  Transfer In                                              0.00             147,00   274,055,545,908.88 KR
+                           999999
+
+                           SET OL TJG-PRG 14062021
+
+                           Cheque No:
+
+                           SET OL TJG-PRG 14062021
+14 JUN 2021  FT21165YT4L2  Transfer In                                              0.00             331,50   274,055,877,408.88 KR
+                           999999
+
+                           SET OL AMT-PRG 12062021
+
+                           Cheque No:
+
+                           SET OL AMT-PRG 12062021
+14 JUN 2021  FT21165ZRLP7  Transfer In                                              0.00           1,992,80   274,057,870,208.88 KR
+                           999999
+
+                           SET OL BJM2-PRG 14062021
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633578 / 0010002003018
+ USER CETAK DMUSER.1                         REKENING KAS UMUM DAERAH PROVINSI KALSELALSEL
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     012
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                   274,057,870,208.88
+
+
+                           Cheque No:
+
+                           SET OL BJM2-PRG 14062021
+14 JUN 2021  FT21165H4C37  Transfer In                                              0.00           1,075,00   274,058,945,208.88 KR
+                           999999
+
+                           BJM SET OL SP3 MTP 140621
+
+                           Cheque No:
+
+                           BJM SET OL SP3 MTP 140621
+14 JUN 2021  FT21165SK2G8  Transfer In                                              0.00             100,00   274,059,045,208.88 KR
+                           999999
+
+                           SET SP3 SAMSAT PRG 14062021
+
+                           Cheque No:
+
+                           SET SP3 SAMSAT PRG 14062021
+14 JUN 2021  FT21165Y0TM7  Transfer In                                              0.00           1,962,10   274,061,007,308.88 KR
+                           999999
+
+                           SET OL BRB-PRG 12062021
+
+                           Cheque No:
+
+                           SET OL BRB-PRG 12062021
+14 JUN 2021  FT21165DM1YQ  Transfer In                                              0.00         286,357,20   274,347,364,508.88 KR
+                           999999
+
+                           BJM SET OL SAMSAT MTP 140621
+
+                           Cheque No:
+
+                           BJM SET OL SAMSAT MTP 140621
+14 JUN 2021  TT21165G555G  Deposit Cash (Local Currency)                            0.00             865,00   274,348,229,508.88 KR
+                           SETORAN TUNAI
+14 JUN 2021  FT21165RMF9Q  Transfer In                                              0.00          51,895,20   274,400,124,708.88 KR
+                           999999
+
+                           BJM SET OL BJB-MTP 140621
+
+                           Cheque No:
+
+                           BJM SET OL BJB-MTP 140621
+14 JUN 2021  FT211654P2S2  Transfer In                                              0.00           3,091,20   274,403,215,908.88 KR
+                           999999
+
+                           BJM SET OL ESAMSATMTP 140621
+
+                           Cheque No:
+
+                           BJM SET OL ESAMSATMTP 140621
+14 JUN 2021  TT21165RYVFV  Setoran Pemindahbukuan                                   0.00             318,00   274,403,533,908.88 KR
+                           PB DRI ESAMSAT HSU 14062021
+14 JUN 2021  TT21165HH5CP  Setoran Pemindahbukuan                                   0.00             450,00   274,403,983,908.88 KR
+                           PB SP3D HSU 14062021
+14 JUN 2021  TT21165MBHKG  Deposit Cash (Local Currency)                            0.00           8,026,00   274,412,009,908.88 KR
+                           SETORAN TUNAI
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003633578 / 0010002003018
+ USER CETAK DMUSER.1                         REKENING KAS UMUM DAERAH PROVINSI KALSELALSEL
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     013
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                   274,412,009,908.88
+
+14 JUN 2021  TT21165PV8DW  Deposit Cash (Local Currency)                            0.00           1,220,00   274,413,229,908.88 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165YRCRK  Deposit Cash (Local Currency)                            0.00           1,000,00   274,414,229,908.88 KR
+                           SETORAN TUNAI
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00         101,881,60   274,516,111,508.88 KR
+
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00         184,472,40   274,700,583,908.88 KR
+                           SET SMT BRB 120621
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00           3,779,30   274,704,363,208.88 KR
+                           SET SAMSAT BJM I OL BRB
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00           1,600,00   274,705,963,208.88 KR
+                           SET SP3D SMT BRB 120621
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00           3,338,10   274,709,301,308.88 KR
+                           SET OL PRG-BRB 12062021
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00             258,00   274,709,559,308.88 KR
+                           SET OL SMST KDG-BRB 120
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00             338,30   274,709,897,608.88 KR
+                           SET OL AMT-BRB 120621
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00           2,088,70   274,711,986,308.88 KR
+                           OL SAMSAT RTU-BRB 12062
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00             400,90   274,712,387,208.88 KR
+                           SET OL BJB-BRB 120621
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00             292,50   274,712,679,708.88 KR
+                           SET OL NGR-BRB 14-06-21
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00             470,30   274,713,150,008.88 KR
+                           SET OL SAMSAT KDG-BRB 1
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00             200,00   274,713,350,008.88 KR
+                           SET SP3D SMT BRB 14062
+1                                                                                                    402,60   274,714,752,608.88 KR
+
+14 JUN 2021  DC2116500016  Miscellaneous Credit                                     0.00           1,799,80   274,716,552,408.88 KR
+                           SET OL AMT-BRB 14062021
+14 JUN 2021  FT211659HYJG  Transfer Out                                   150,000,000.00                      274,566,552,408.88 KR
+                           SMAN 5 BANJARMASIN
+
+                           To Acc.No.- 2003633608
+14 JUN 2021  FT21165H6PVS  Transfer Out                                 7,000,000,000.00                      267,566,552,408.88 KR
+                           SMAN 5 BANJARMASIN
+
+                           To Acc.No.- 2003633608
+
+
+                                                 Total Mutasi :         8,817,663,326.00     276,384,215,73   267,566,552,408.88
+
+
+
+
+
+
+
+
+                                                                                              Tanggal, 14-06-2021
+
+
+
+
+
+                                                                                             (_______________________)
+
+
+*

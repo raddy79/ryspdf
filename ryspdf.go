@@ -18,15 +18,17 @@ import (
 )
 
 type Configuration struct {
-	PathToText string `json:"PathToText"`
-	PathToPdf  string `json:"PathToPdf"`
-	FontFile   string `json:"FontFile"`
-	FontSize   int    `json:"FontSize"`
-	PaperSize  string `json:"PaperSize"`
-	NewPageInd string
-	Header     []string `json:"Header"`
-	Footer     []string `json:"Footer"`
-	BgImage    []string `json:"BgImage"`
+	PathToText           string `json:"PathToText"`
+	PathToPdf            string `json:"PathToPdf"`
+	FontFile             string `json:"FontFile"`
+	FontSize             int    `json:"FontSize"`
+	PaperSize            string `json:"PaperSize"`
+	NewPageInd           string
+	Header               []string `json:"Header"`
+	Footer               []string `json:"Footer"`
+	BgImage              []string `json:"BgImage"`
+	TextVerticalOffset   float64  `json:"TextVerticalOffset"`
+	TextHorizontalOffset float64  `json:"TextHorizontalOffset"`
 }
 
 // global config struct
@@ -34,13 +36,18 @@ var config Configuration
 
 func main() {
 	var err error
+	var log_file *os.File
 
 	// parse arguments
-	var port = flag.String("port", "8080", "Port of the Rest API Server")
+	var port = flag.String("port", "9090", "Port of the Rest API Server")
 	flag.Parse()
+
+	log_file, _ = os.OpenFile("ryspdf.log", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
+	defer log_file.Close()
 
 	// router & server
 	mux := mux.NewRouter()
+	mux.HandleFunc("/stmt/{id}/{ym}", stmt)
 	mux.HandleFunc("/stmt/{id}/{ym}/{p}", stmt)
 	mux.HandleFunc("/stmt/{id}/{ym}/{p}/{f}", stmt)
 
@@ -55,6 +62,8 @@ func main() {
 	// app configuration conf.json
 	config = open_config("conf.json")
 
+	log.Println("Starting Restful server at http://localhost:" + *port)
+	log.SetOutput(log_file)
 	log.Println("Starting Restful server at http://localhost:" + *port)
 
 	// start server
@@ -77,14 +86,14 @@ func stmt(w http.ResponseWriter, r *http.Request) {
 		pdf_password := vars["p"]
 		force_nocache := vars["f"]
 
-		txt_file := account_no + "." + yyyymm + ".txt"
+		txt_file := account_no + "." + yyyymm + ".TXT"
 		final_pdf := cache_manager(txt_file, account_no, pdf_password, force_nocache)
 
 		// Open file
 		f, err := os.Open(final_pdf)
 		if err != nil {
 			log.Println("Open Failed : " + final_pdf)
-			w.WriteHeader(http.StatusBadRequest)
+			w.WriteHeader(http.StatusNotFound)
 			return
 		}
 		defer f.Close()
@@ -161,7 +170,7 @@ func make_pdf(txt_file string, pdf_password string) (string, error) {
 
 	// Page Size and Password Protection
 	pdf.Start(gopdf.Config{
-		PageSize: gopdf.Rect{W: 595.28, H: 841.89}, //595.28, 841.89 = A4
+		PageSize: *gopdf.PageSizeA4, //595.28, 841.89 = A4
 		Protection: gopdf.PDFProtectionConfig{
 			UseProtection: true,
 			Permissions:   gopdf.PermissionsPrint | gopdf.PermissionsCopy | gopdf.PermissionsModify,
@@ -170,7 +179,10 @@ func make_pdf(txt_file string, pdf_password string) (string, error) {
 	})
 	// Compression
 	pdf.SetCompressLevel(1)
+
+	// First Page and Vertical Offset
 	pdf.AddPage()
+	pdf.SetY(config.TextVerticalOffset)
 
 	// Add font to PDF
 	err = pdf.AddTTFFont("myfont", config.FontFile)
@@ -202,13 +214,24 @@ func make_pdf(txt_file string, pdf_password string) (string, error) {
 	}
 
 	// Print Txt each line
+	pageno := 0
 	for _, eachline = range pdfcontent {
 		if strings.Contains(eachline, "\f") {
-			pdf.AddPage()
-			add_image(&pdf)
+
+			if pageno > 0 {
+				pdf.AddPage()
+				add_image(&pdf)
+				pdf.Br(float64(config.FontSize))
+
+				pdf.SetY(config.TextVerticalOffset + 2.1*float64(config.FontSize))
+				pageno++
+			}
+
 		} else {
+			pdf.SetX(config.TextHorizontalOffset)
 			pdf.Cell(nil, string(eachline))
-			pdf.Br(9)
+			pdf.Br(float64(config.FontSize))
+			pageno++
 		}
 	}
 
@@ -218,7 +241,7 @@ func make_pdf(txt_file string, pdf_password string) (string, error) {
 		pdf.Br(float64(config.FontSize))
 	}
 
-	final_file := generate_pdf_name(txt_file)
+	final_file := config.PathToPdf + "/" + generate_pdf_name(txt_file)
 
 	//Write PDF to physical file
 	pdf.WritePdf(final_file)
@@ -245,7 +268,7 @@ func scan_file(path string) ([]string, error) {
 	file, err := os.Open(path)
 
 	if err != nil {
-		log.Fatalf("Failed to open file " + path)
+		//		log.Fatalf("Failed to open file " + path)
 		return nil, err
 	}
 

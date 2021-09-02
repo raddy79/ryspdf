@@ -1,0 +1,177 @@
+
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003638955 / 0010006000098
+ USER CETAK DMUSER.1                         JASA RAHARJA CABANG KALSEL
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     001
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                                 0.00
+
+11 JUN 2021  FT21162SQTDS  Transfer In                                              0.00         174,680,59       174,680,597.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  TT21165CBMXL  Deposit Cash (Local Currency)                            0.00          16,463,00       191,143,597.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165NS04Z  Deposit Cash (Local Currency)                            0.00             300,00       191,443,597.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165P6P3H  Deposit Cash (Local Currency)                            0.00          10,741,00       202,184,597.00 KR
+                           SWDKLLJ HDB 14/06/2021
+14 JUN 2021  TT21165H8TYD  Deposit Cash (Local Currency)                            0.00             678,00       202,862,597.00 KR
+                           SAMSAT PAYPO PEMBANTU SEKAPUK
+14 JUN 2021  TT2116551R9N  Deposit Cash (Local Currency)                            0.00           5,103,00       207,965,597.00 KR
+                           SAMSAT PAYPO PEMBANTU SEKAPUK
+14 JUN 2021  FT21165QPZZJ  Transfer In                                              0.00              68,40       208,033,997.00 KR
+                           INTERBANK
+
+                           SET BTCK JR BJB-LITA
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT21165T5DJW
+
+                           Card No:
+14 JUN 2021  FT21165HNFF6  Transfer In                                              0.00          28,006,00       236,039,997.00 KR
+                           INTERBANK
+
+                           SET SWDKLLJ JR BJB-LITA
+
+                           TRX SKN
+
+                           -
+
+                           Receipt No: TT211650BPLZ
+
+                           Card No:
+14 JUN 2021  TT21165M236G  Deposit Cash (Local Currency)                            0.00             114,00       236,153,997.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT2116521SXP  Deposit Cash (Local Currency)                            0.00          45,824,50       281,978,497.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165XH9BC  Deposit Cash (Local Currency)                            0.00           7,242,00       289,220,497.00 KR
+                           SWDKLLJ OL BJM 14/06/2021
+14 JUN 2021  TT21165NLH7L  Deposit Cash (Local Currency)                            0.00          34,066,00       323,286,497.00 KR
+                           SWDKLLJ BJM2 14/06/2021
+14 JUN 2021  TT211651YZ3X  Deposit Cash (Local Currency)                            0.00             199,50       323,485,997.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165PVY7R  Deposit Cash (Local Currency)                            0.00           1,500,00       324,985,997.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165HTGJ3  Deposit Cash (Local Currency)                            0.00          16,452,00       341,437,997.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165Z9F04  Deposit Cash (Local Currency)                            0.00             480,00       341,917,997.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165PJTDL  Deposit Cash (Local Currency)                            0.00             273,60       342,191,597.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165FD5NZ  Deposit Cash (Local Currency)                            0.00          28,099,80       370,291,397.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165X2KWR  Deposit Cash (Local Currency)                            0.00             210,00       370,501,397.00 KR
+                           SETORAN TUNAI
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003638955 / 0010006000098
+ USER CETAK DMUSER.1                         JASA RAHARJA CABANG KALSEL
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     002
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                       370,501,397.00
+
+14 JUN 2021  TT21165QM2JC  Deposit Cash (Local Currency)                            0.00          45,215,70       415,717,097.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165P4V0K  Deposit Cash (Local Currency)                            0.00           1,141,70       416,858,797.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT21165X4RJB  Deposit Cash (Local Currency)                            0.00           7,483,00       424,341,797.00 KR
+                           SET SAMSAT BTL-PKB 140621
+14 JUN 2021  TT211658N9NT  Deposit Cash (Local Currency)                            0.00             374,00       424,715,797.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT211656K9LG  Deposit Cash (Local Currency)                            0.00          32,364,50       457,080,297.00 KR
+                           SETORAN TUNAI
+14 JUN 2021  TT211653H0XS  Deposit Cash (Local Currency)                            0.00             415,80       457,496,097.00 KR
+                           SETORAN TUNAI
+
+
+                                                 Total Mutasi :                     0.00         457,496,09       457,496,097.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              Tanggal, 14-06-2021
+
+
+
+
+
+                                                                                             (_______________________)
+
+
+*

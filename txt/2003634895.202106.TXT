@@ -1,0 +1,89 @@
+
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634895 / 0010004011666
+ USER CETAK DMUSER.1                         BIRO ADMINISTRASI PIMPINAN
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     001
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                                 0.00
+
+11 JUN 2021  FT21162B1GM7  Transfer In                                              0.00         129,309,30       129,309,300.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT2116522LHL  Transfer Out                                     5,000,000.00                          124,309,300.00 KR
+                           TITIPAN UMUM
+
+                           2867/BPK/UP/1.01.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           2867/BPK/UP/1.01.01/2021
+14 JUN 2021  FT21165RCNCS  Transfer Out                                     5,000,000.00                          119,309,300.00 KR
+                           TITIPAN UMUM
+
+                           2923/BPK/UP/4.01.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           2923/BPK/UP/4.01.01/2021
+14 JUN 2021  FT211654PLHW  Transfer Out                                     5,000,000.00                          114,309,300.00 KR
+                           TITIPAN UMUM
+
+                           2924/BPK/UP/4.01.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           2924/BPK/UP/4.01.01/2021
+1                                                                                                                 109,309,300.00 KR
+
+
+                           2925/BPK/UP/4.01.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           2925/BPK/UP/4.01.01/2021
+14 JUN 2021  FT211658PYZP  Transfer Out                                     5,000,000.00                          104,309,300.00 KR
+                           REKENING PENERIMAAN NEGARA TERPUSAT
+
+                           PJK 2866/BPK/UP/4.01.01/2021
+
+                           To Acc.No.- 2003633546
+
+                           PJK 2866/BPK/UP/4.01.01/2021
+
+
+                                                 Total Mutasi :            25,000,000.00         129,309,30       104,309,300.00
+
+
+
+
+                                                                                              Tanggal, 14-06-2021
+
+
+
+
+
+                                                                                             (_______________________)
+
+
+*

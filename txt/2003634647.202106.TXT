@@ -1,0 +1,177 @@
+
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634647 / 0010004008771
+ USER CETAK DMUSER.1                         BP RUMAH SAKIT JIWA SAMBANG LIHUM
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     001
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                                 0.00
+
+11 JUN 2021  FT211629RQQ8  Transfer In                                              0.00       1,364,897,87     1,364,897,878.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165NQ4CH  Transfer Out                                    26,905,454.00                        1,337,992,424.00 KR
+                           AKMAL JAYA LESTARI
+
+                           00271/BPK/UP/1.02.03/2021
+
+                           To Acc.No.- 2003744992
+
+                           00271/BPK/UP/1.02.03/2021
+14 JUN 2021  FT211658JDV5  Transfer Out                                     5,372,727.00                        1,332,619,697.00 KR
+                           PANASEA
+
+                           00274/BPK/UP/1.02.03/2021
+
+                           To Acc.No.- 2003646915
+
+                           00274/BPK/UP/1.02.03/2021
+14 JUN 2021  TT21165WVY81  Cash Withdrawal(Local Ccy)                      10,000,000.00                        1,322,619,697.00 KR
+                           TARIKAN TUNAI DENGAN CHEQUE
+
+                           By cheque No: 538634
+14 JUN 2021  TT21165PJCFK  Cash Withdrawal(Local Ccy)                     270,694,108.00                        1,051,925,589.00 KR
+                           TARIKAN TUNAI DENGAN CHEQUE
+
+                           By cheque No: 538633
+14 JUN 2021  FT211657MMT0  Account Transfer Charges                             2,900.00                        1,051,922,689.00 KR
+                           AC-IDR1700700010001
+14 JUN 2021  FT211657MMT0  Transfer Out                                    12,902,412.00                        1,039,020,277.00 KR
+                           SKN NOS ACCOUNT
+
+                           SKN Keluar
+
+                           ANUGRAH ARGON MEDICA PT
+
+                           Cek No: Bank Code: 0140397
+
+                           00273/BPK/UP/1.02.03/2021
+14 JUN 2021  FT211652B5ZN  Account Transfer Charges                             2,900.00                        1,039,017,377.00 KR
+                           AC-IDR1700700010001
+14 JUN 2021  FT211652B5ZN  Transfer Out                                    24,354,013.00                        1,014,663,364.00 KR
+                           SKN NOS ACCOUNT
+
+                           SKN Keluar
+
+                           PT.ANUGERAH PHARMINDO LESTARI
+
+                           Cek No: Bank Code: 0500306
+
+                           00272/BPK/UP/1.02.03/2021
+14 JUN 2021  FT21165G6S31  Account Transfer Charges                             2,900.00                        1,014,660,464.00 KR
+                           AC-IDR1700700010001
+14 JUN 2021  FT21165G6S31  Transfer Out                                     2,730,028.00                        1,011,930,436.00 KR
+                           SKN NOS ACCOUNT
+
+                           SKN Keluar
+
+                           MERAPI UTAMA PHARMA,PT
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634647 / 0010004008771
+ USER CETAK DMUSER.1                         BP RUMAH SAKIT JIWA SAMBANG LIHUM
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     002
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     1,011,930,436.00
+
+
+                           Cek No: Bank Code: 0140397
+
+                           00277/BPK/UP/1.02.03/2021
+14 JUN 2021  FT211654LYH5  Transfer Out                                    26,730,837.00                          985,199,599.00 KR
+                           AKMAL JAYA LESTARI
+
+                           00270/BPK/UP/1.02.03/2021
+
+                           To Acc.No.- 2003744992
+
+                           00270/BPK/UP/1.02.03/2021
+14 JUN 2021  FT21165G2X7Q  Transfer Out                                    27,018,600.00                          958,180,999.00 KR
+                           AKMAL JAYA LESTARI
+
+                           00268/BPK/UP/1.02.03/2021
+
+                           To Acc.No.- 2003744992
+
+                           00268/BPK/UP/1.02.03/2021
+14 JUN 2021  FT21165GQ42X  Transfer Out                                    26,066,218.00                          932,114,781.00 KR
+                           AKMAL JAYA LESTARI
+
+                           00269/BPK/UP/1.02.03/2021
+
+                           To Acc.No.- 2003744992
+
+                           00269/BPK/UP/1.02.03/2021
+
+
+                                                 Total Mutasi :           432,783,097.00       1,364,897,87       932,114,781.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                              Tanggal, 14-06-2021
+
+
+
+
+
+                                                                                             (_______________________)
+
+
+*

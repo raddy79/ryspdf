@@ -1,0 +1,89 @@
+
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634488 / 0010004007057
+ USER CETAK DMUSER.1                         INSPEKTORAT KOTA BANJARMASIN
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     001
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                                 0.00
+
+11 JUN 2021  FT21162V7T8L  Transfer In                                              0.00          76,315,99        76,315,990.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT211657JQ52  Transfer Out                                       413,510.00                           75,902,480.00 KR
+                           RAHMAN NOVARID
+
+                           00476/BPK/1.06.0.00.0.00.01.000
+
+                           To Acc.No.- 2000011161
+
+                           00476/BPK/1.06.0.00.0.00.01.000
+14 JUN 2021  FT21165G9FFD  Transfer Out                                     1,033,884.00                           74,868,596.00 KR
+                           RAHMAN NOVARID
+
+                           00474/BPK/1.06.0.00.0.00.01.000
+
+                           To Acc.No.- 2000011161
+
+                           00474/BPK/1.06.0.00.0.00.01.000
+14 JUN 2021  FT21165NZWV9  Transfer Out                                       149,700.00                           74,718,896.00 KR
+                           HERIANSYAH
+
+                           00473/BPK/1.06.0.00.0.00.01.000
+
+                           To Acc.No.- 2000253308
+
+                           00473/BPK/1.06.0.00.0.00.01.000
+1                                                                                                                  69,012,333.00 KR
+
+
+                           00477/BPK/1.06.0.00.0.00.01.000
+
+                           To Acc.No.- 2000011161
+
+                           00477/BPK/1.06.0.00.0.00.01.000
+14 JUN 2021  FT21165C9B62  Transfer Out                                       987,500.00                           68,024,833.00 KR
+                           RAHMAN NOVARID
+
+                           00475/BPK/1.06.0.00.0.00.01.000
+
+                           To Acc.No.- 2000011161
+
+                           00475/BPK/1.06.0.00.0.00.01.000
+
+
+                                                 Total Mutasi :             8,291,157.00          76,315,99        68,024,833.00
+
+
+
+
+                                                                                              Tanggal, 14-06-2021
+
+
+
+
+
+                                                                                             (_______________________)
+
+
+*

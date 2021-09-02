@@ -1,0 +1,177 @@
+
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634542 / 0010004007417
+ USER CETAK DMUSER.1                         BP DINAS PENDIDIKAN DAN KEBUDAYAAN PROV KALSELPROV
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     001
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                                 0.00
+
+11 JUN 2021  FT21162HG5BK  Transfer In                                              0.00       2,235,690,14     2,235,690,141.00 KR
+                           999999
+
+                           Cheque No:
+14 JUN 2021  FT21165639PP  Transfer Out                                     2,084,800.00                        2,233,605,341.00 KR
+                           TITIPAN UMUM
+
+                           2664/BPK/UP/1.01.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           2664/BPK/UP/1.01.01/2021
+14 JUN 2021  FT21165Z15PP  Transfer Out                                     2,084,800.00                        2,231,520,541.00 KR
+                           TITIPAN UMUM
+
+                           2666/BPK/UP/1.01.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           2666/BPK/UP/1.01.01/2021
+14 JUN 2021  FT21165VZXCB  Transfer Out                                     2,084,800.00                        2,229,435,741.00 KR
+                           TITIPAN UMUM
+
+                           2665/BPK/UP/1.01.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           2665/BPK/UP/1.01.01/2021
+14 JUN 2021  FT21165G867X  Transfer Out                                     3,843,000.00                        2,225,592,741.00 KR
+                           TITIPAN UMUM
+
+                           2697/BPK/UP/1.01.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           2697/BPK/UP/1.01.01/2021
+14 JUN 2021  FT211657XRJW  Transfer Out                                     6,400,000.00                        2,219,192,741.00 KR
+                           TITIPAN UMUM
+
+                           2680/BPK/UP/1.01.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           2680/BPK/UP/1.01.01/2021
+14 JUN 2021  FT211658G2N9  Transfer Out                                     2,115,000.00                        2,217,077,741.00 KR
+                           TITIPAN UMUM
+
+                           2679/BPK/UP/1.01.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           2679/BPK/UP/1.01.01/2021
+14 JUN 2021  FT21165TJ3YM  Transfer Out                                     1,845,000.00                        2,215,232,741.00 KR
+                           TITIPAN UMUM
+
+                           2678/BPK/UP/1.01.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           2678/BPK/UP/1.01.01/2021
+*
+
+
+
+
+
+ PT. BANK KALSEL                             Kepada Yth :
+ 1001-CABANG UTAMA                           2003634542 / 0010004007417
+ USER CETAK DMUSER.1                         BP DINAS PENDIDIKAN DAN KEBUDAYAAN PROV KALSELPROV
+
+ JL. LAMBUNG MANGKURAT NO.7 BANJAR
+                                             REKENING KORAN GIRO
+                                             PERIODE :  01 JUN 2021 S/D 30 JUN 2021
+
+
+
+
+
+                                                                                     002
+
+
+
+
+
+
+
+                   Saldo Awal                                                                                     2,215,232,741.00
+
+14 JUN 2021  FT211653XN49  Transfer Out                                     2,115,000.00                        2,213,117,741.00 KR
+                           TITIPAN UMUM
+
+                           2677/BPK/UP/1.01.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           2677/BPK/UP/1.01.01/2021
+14 JUN 2021  FT21165DBV3J  Transfer Out                                     2,205,000.00                        2,210,912,741.00 KR
+                           TITIPAN UMUM
+
+                           2676/BPK/UP/1.01.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           2676/BPK/UP/1.01.01/2021
+14 JUN 2021  FT21165ML0MG  Transfer Out                                     2,205,000.00                        2,208,707,741.00 KR
+                           TITIPAN UMUM
+
+                           2675/BPK/UP/1.01.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           2675/BPK/UP/1.01.01/2021
+14 JUN 2021  FT21165VH90S  Transfer Out                                     6,604,500.00                        2,202,103,241.00 KR
+                           TITIPAN UMUM
+
+                           2667/BPK/UP/1.01.01/2021
+
+
+
+                           2667/BPK/UP/1.01.01/2021
+14 JUN 2021  FT21165TLGN9  Transfer Out                                     6,604,500.00                        2,195,498,741.00 KR
+                           TITIPAN UMUM
+
+                           2668/BPK/UP/1.01.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           2668/BPK/UP/1.01.01/2021
+14 JUN 2021  FT211656SCFR  Transfer Out                                     4,200,000.00                        2,191,298,741.00 KR
+                           TITIPAN UMUM
+
+                           2670/BPK/UP/1.01.01/2021
+
+                           To Acc.No.- 2003783211
+
+                           2670/BPK/UP/1.01.01/2021
+14 JUN 2021  TT21165DPZDL  Cash Withdrawal(Local Ccy)                     313,900,000.00                        1,877,398,741.00 KR
+                           TARIKAN TUNAI DENGAN CHEQUE
+
+                           By cheque No: 540405                                               Tanggal, 14-06-2021
+
+
+                                                 Total Mutasi :           358,291,400.00       2,235,690,14     1,877,398,741.00
+
+
+                                                                                             (_______________________)
+
+
+*
