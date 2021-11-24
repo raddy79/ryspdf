@@ -87,7 +87,7 @@ func stmt(w http.ResponseWriter, r *http.Request) {
 		force_nocache := vars["f"]
 
 		txt_file := account_no + "." + yyyymm + ".TXT"
-		final_pdf := cache_manager(txt_file, account_no, pdf_password, force_nocache)
+		final_pdf := cache_manager(txt_file, account_no, pdf_password, force_nocache, yyyymm)
 
 		// Open file
 		f, err := os.Open(final_pdf)
@@ -110,7 +110,7 @@ func stmt(w http.ResponseWriter, r *http.Request) {
 	}
 }
 
-func cache_manager(txt_file string, account_no string, pdf_password string, force_nocache string) string {
+func cache_manager(txt_file string, account_no string, pdf_password string, force_nocache string, yyyymm string) string {
 	// Check if file is generated already from previous requests
 	var final_pdf string
 	cache_pdf := config.PathToPdf + "/" + generate_pdf_name(txt_file)
@@ -200,7 +200,9 @@ func make_pdf(txt_file string, pdf_password string) (string, error) {
 	}
 
 	// Read account statement text file
-	pdfcontent, err := scan_file(config.PathToText + "/" + txt_file)
+	txt_name := strings.Split(txt_file, ".")
+	yyyymm := txt_name[1]
+	pdfcontent, err := scan_file(config.PathToText + "/" + yyyymm + "/" + txt_file)
 
 	if err != nil {
 		log.Printf("Text file read error %s %v", config.PathToText+"/"+txt_file, err)
